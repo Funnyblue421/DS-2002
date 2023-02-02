@@ -107,20 +107,33 @@ WHERE reorder_level < target_level;
 -- ------------------------------------------------------------------
 -- 11). Products with Supplier Company & Address Info
 -- ------------------------------------------------------------------
-SELECT * FROM northwind.suppliers;
+SELECT p.product_name
+	, p.list_price AS product_list_price
+    , p.category AS product_category
+    , s.company AS supplier_company
+    , s.address AS supplier_address
+    , s.city AS supplier_city
+    , s.state_province AS supplier_state_province
+    , s.zip_postal_code AS supplier_zip_postal_code
+FROM northwind.suppliers s
+INNER JOIN northwind.products p
+ON s.id = p.supplier_ids;
 
 -- ------------------------------------------------------------------
 -- 12). Number of Products per Category With Less Than 5 Units
 -- ------------------------------------------------------------------
-SELECT products.category, COUNT(*) AS count
+SELECT category
+	, COUNT(*) AS units_in_stock
 FROM northwind.products
-GROUP BY products.category;
+GROUP BY products.category
+HAVING units_in_stock < 5;
 
 
 -- ------------------------------------------------------------------
 -- 13). Number of Products per Category Priced Less Than $20.00
 -- ------------------------------------------------------------------
-SELECT products.category, COUNT(*) AS count
+SELECT category
+	, COUNT(*) AS product_count
 FROM northwind.products
 WHERE list_price < 20.00
 GROUP BY products.category;
