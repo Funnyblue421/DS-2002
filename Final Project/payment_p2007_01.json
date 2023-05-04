@@ -1,0 +1,9258 @@
+[
+ {
+   "payment_id": 16050,
+   "customer_id": 269,
+   "staff_id": 2,
+   "rental_id": 7,
+   "amount": 1.99,
+   "payment_date": "2007-01-24 21:40:19.996577"
+ },
+ {
+   "payment_id": 16051,
+   "customer_id": 269,
+   "staff_id": 1,
+   "rental_id": 98,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 15:16:50.996577"
+ },
+ {
+   "payment_id": 16052,
+   "customer_id": 269,
+   "staff_id": 2,
+   "rental_id": 678,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 21:44:14.996577"
+ },
+ {
+   "payment_id": 16053,
+   "customer_id": 269,
+   "staff_id": 2,
+   "rental_id": 703,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 00:58:02.996577"
+ },
+ {
+   "payment_id": 16054,
+   "customer_id": 269,
+   "staff_id": 1,
+   "rental_id": 750,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 08:10:06.996577"
+ },
+ {
+   "payment_id": 16055,
+   "customer_id": 269,
+   "staff_id": 2,
+   "rental_id": 1099,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 12:23:14.996577"
+ },
+ {
+   "payment_id": 16056,
+   "customer_id": 270,
+   "staff_id": 1,
+   "rental_id": 193,
+   "amount": 1.99,
+   "payment_date": "2007-01-26 05:10:14.996577"
+ },
+ {
+   "payment_id": 16057,
+   "customer_id": 270,
+   "staff_id": 1,
+   "rental_id": 1040,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 04:03:42.996577"
+ },
+ {
+   "payment_id": 16058,
+   "customer_id": 271,
+   "staff_id": 1,
+   "rental_id": 1096,
+   "amount": 8.99,
+   "payment_date": "2007-01-31 11:59:15.996577"
+ },
+ {
+   "payment_id": 16059,
+   "customer_id": 272,
+   "staff_id": 1,
+   "rental_id": 33,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 02:47:17.996577"
+ },
+ {
+   "payment_id": 16060,
+   "customer_id": 272,
+   "staff_id": 1,
+   "rental_id": 405,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 12:01:05.996577"
+ },
+ {
+   "payment_id": 16061,
+   "customer_id": 272,
+   "staff_id": 1,
+   "rental_id": 1041,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 04:14:49.996577"
+ },
+ {
+   "payment_id": 16062,
+   "customer_id": 272,
+   "staff_id": 1,
+   "rental_id": 1072,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 08:21:16.996577"
+ },
+ {
+   "payment_id": 16063,
+   "customer_id": 273,
+   "staff_id": 2,
+   "rental_id": 122,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 18:14:47.996577"
+ },
+ {
+   "payment_id": 16064,
+   "customer_id": 273,
+   "staff_id": 2,
+   "rental_id": 980,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 20:13:45.996577"
+ },
+ {
+   "payment_id": 16065,
+   "customer_id": 274,
+   "staff_id": 1,
+   "rental_id": 147,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 22:46:16.996577"
+ },
+ {
+   "payment_id": 16066,
+   "customer_id": 274,
+   "staff_id": 1,
+   "rental_id": 208,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 06:38:48.996577"
+ },
+ {
+   "payment_id": 16067,
+   "customer_id": 274,
+   "staff_id": 2,
+   "rental_id": 301,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 19:34:40.996577"
+ },
+ {
+   "payment_id": 16068,
+   "customer_id": 274,
+   "staff_id": 1,
+   "rental_id": 394,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 09:54:37.996577"
+ },
+ {
+   "payment_id": 16069,
+   "customer_id": 274,
+   "staff_id": 2,
+   "rental_id": 474,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 20:40:22.996577"
+ },
+ {
+   "payment_id": 16070,
+   "customer_id": 274,
+   "staff_id": 1,
+   "rental_id": 892,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 06:31:22.996577"
+ },
+ {
+   "payment_id": 16071,
+   "customer_id": 275,
+   "staff_id": 2,
+   "rental_id": 336,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 01:43:49.996577"
+ },
+ {
+   "payment_id": 16072,
+   "customer_id": 276,
+   "staff_id": 1,
+   "rental_id": 736,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 06:38:33.996577"
+ },
+ {
+   "payment_id": 16073,
+   "customer_id": 276,
+   "staff_id": 1,
+   "rental_id": 860,
+   "amount": 10.99,
+   "payment_date": "2007-01-30 01:13:42.996577"
+ },
+ {
+   "payment_id": 16074,
+   "customer_id": 277,
+   "staff_id": 2,
+   "rental_id": 308,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 20:30:05.996577"
+ },
+ {
+   "payment_id": 16075,
+   "customer_id": 278,
+   "staff_id": 1,
+   "rental_id": 1092,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 10:44:23.996577"
+ },
+ {
+   "payment_id": 16076,
+   "customer_id": 279,
+   "staff_id": 1,
+   "rental_id": 979,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 20:05:37.996577"
+ },
+ {
+   "payment_id": 16077,
+   "customer_id": 279,
+   "staff_id": 2,
+   "rental_id": 1019,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 01:33:33.996577"
+ },
+ {
+   "payment_id": 16078,
+   "customer_id": 280,
+   "staff_id": 1,
+   "rental_id": 1014,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 01:07:42.996577"
+ },
+ {
+   "payment_id": 16079,
+   "customer_id": 281,
+   "staff_id": 2,
+   "rental_id": 650,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 18:14:06.996577"
+ },
+ {
+   "payment_id": 16080,
+   "customer_id": 281,
+   "staff_id": 2,
+   "rental_id": 754,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 08:47:25.996577"
+ },
+ {
+   "payment_id": 16081,
+   "customer_id": 282,
+   "staff_id": 2,
+   "rental_id": 48,
+   "amount": 1.99,
+   "payment_date": "2007-01-25 04:49:12.996577"
+ },
+ {
+   "payment_id": 16082,
+   "customer_id": 282,
+   "staff_id": 2,
+   "rental_id": 282,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 17:24:52.996577"
+ },
+ {
+   "payment_id": 16083,
+   "customer_id": 282,
+   "staff_id": 2,
+   "rental_id": 564,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 07:40:35.996577"
+ },
+ {
+   "payment_id": 16084,
+   "customer_id": 284,
+   "staff_id": 2,
+   "rental_id": 423,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 14:01:23.996577"
+ },
+ {
+   "payment_id": 16085,
+   "customer_id": 284,
+   "staff_id": 2,
+   "rental_id": 791,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 14:59:08.996577"
+ },
+ {
+   "payment_id": 16086,
+   "customer_id": 284,
+   "staff_id": 1,
+   "rental_id": 1145,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 18:42:11.996577"
+ },
+ {
+   "payment_id": 16087,
+   "customer_id": 286,
+   "staff_id": 2,
+   "rental_id": 81,
+   "amount": 6.99,
+   "payment_date": "2007-01-25 10:43:45.996577"
+ },
+ {
+   "payment_id": 16088,
+   "customer_id": 287,
+   "staff_id": 2,
+   "rental_id": 498,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 23:29:47.996577"
+ },
+ {
+   "payment_id": 16089,
+   "customer_id": 287,
+   "staff_id": 1,
+   "rental_id": 655,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 18:44:46.996577"
+ },
+ {
+   "payment_id": 16090,
+   "customer_id": 287,
+   "staff_id": 2,
+   "rental_id": 964,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 17:21:47.996577"
+ },
+ {
+   "payment_id": 16091,
+   "customer_id": 288,
+   "staff_id": 2,
+   "rental_id": 93,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 14:22:42.996577"
+ },
+ {
+   "payment_id": 16092,
+   "customer_id": 288,
+   "staff_id": 2,
+   "rental_id": 427,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 14:38:30.996577"
+ },
+ {
+   "payment_id": 16093,
+   "customer_id": 288,
+   "staff_id": 1,
+   "rental_id": 503,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 00:03:51.996577"
+ },
+ {
+   "payment_id": 16094,
+   "customer_id": 288,
+   "staff_id": 2,
+   "rental_id": 565,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 07:54:57.996577"
+ },
+ {
+   "payment_id": 16095,
+   "customer_id": 290,
+   "staff_id": 1,
+   "rental_id": 160,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 00:14:46.996577"
+ },
+ {
+   "payment_id": 16096,
+   "customer_id": 291,
+   "staff_id": 1,
+   "rental_id": 54,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 05:51:51.996577"
+ },
+ {
+   "payment_id": 16097,
+   "customer_id": 291,
+   "staff_id": 2,
+   "rental_id": 747,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 07:55:00.996577"
+ },
+ {
+   "payment_id": 16098,
+   "customer_id": 291,
+   "staff_id": 1,
+   "rental_id": 1012,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 00:46:31.996577"
+ },
+ {
+   "payment_id": 16099,
+   "customer_id": 292,
+   "staff_id": 1,
+   "rental_id": 324,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 23:28:30.996577"
+ },
+ {
+   "payment_id": 16100,
+   "customer_id": 293,
+   "staff_id": 2,
+   "rental_id": 445,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 17:11:23.996577"
+ },
+ {
+   "payment_id": 16101,
+   "customer_id": 293,
+   "staff_id": 1,
+   "rental_id": 924,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 10:39:25.996577"
+ },
+ {
+   "payment_id": 16102,
+   "customer_id": 293,
+   "staff_id": 2,
+   "rental_id": 1034,
+   "amount": 8.99,
+   "payment_date": "2007-01-31 03:22:06.996577"
+ },
+ {
+   "payment_id": 16103,
+   "customer_id": 294,
+   "staff_id": 1,
+   "rental_id": 595,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 12:28:20.996577"
+ },
+ {
+   "payment_id": 16104,
+   "customer_id": 295,
+   "staff_id": 2,
+   "rental_id": 371,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 06:36:44.996577"
+ },
+ {
+   "payment_id": 16105,
+   "customer_id": 296,
+   "staff_id": 2,
+   "rental_id": 162,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 00:30:31.996577"
+ },
+ {
+   "payment_id": 16106,
+   "customer_id": 296,
+   "staff_id": 1,
+   "rental_id": 511,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 01:32:30.996577"
+ },
+ {
+   "payment_id": 16107,
+   "customer_id": 296,
+   "staff_id": 1,
+   "rental_id": 869,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 02:50:32.996577"
+ },
+ {
+   "payment_id": 16108,
+   "customer_id": 296,
+   "staff_id": 2,
+   "rental_id": 956,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 15:58:54.996577"
+ },
+ {
+   "payment_id": 16109,
+   "customer_id": 297,
+   "staff_id": 2,
+   "rental_id": 143,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 22:14:18.996577"
+ },
+ {
+   "payment_id": 16110,
+   "customer_id": 297,
+   "staff_id": 1,
+   "rental_id": 954,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 15:25:55.996577"
+ },
+ {
+   "payment_id": 16111,
+   "customer_id": 298,
+   "staff_id": 1,
+   "rental_id": 383,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 08:40:46.996577"
+ },
+ {
+   "payment_id": 16112,
+   "customer_id": 299,
+   "staff_id": 1,
+   "rental_id": 332,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 00:55:36.996577"
+ },
+ {
+   "payment_id": 16113,
+   "customer_id": 299,
+   "staff_id": 2,
+   "rental_id": 606,
+   "amount": 8.99,
+   "payment_date": "2007-01-28 13:17:05.996577"
+ },
+ {
+   "payment_id": 16114,
+   "customer_id": 300,
+   "staff_id": 2,
+   "rental_id": 457,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 18:20:55.996577"
+ },
+ {
+   "payment_id": 16115,
+   "customer_id": 300,
+   "staff_id": 1,
+   "rental_id": 780,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 12:46:58.996577"
+ },
+ {
+   "payment_id": 16116,
+   "customer_id": 300,
+   "staff_id": 1,
+   "rental_id": 1111,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 13:52:45.996577"
+ },
+ {
+   "payment_id": 16117,
+   "customer_id": 301,
+   "staff_id": 2,
+   "rental_id": 27,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 02:10:16.996577"
+ },
+ {
+   "payment_id": 16118,
+   "customer_id": 301,
+   "staff_id": 2,
+   "rental_id": 227,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 09:20:12.996577"
+ },
+ {
+   "payment_id": 16119,
+   "customer_id": 301,
+   "staff_id": 1,
+   "rental_id": 955,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 15:27:29.996577"
+ },
+ {
+   "payment_id": 16120,
+   "customer_id": 302,
+   "staff_id": 2,
+   "rental_id": 38,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 03:16:10.996577"
+ },
+ {
+   "payment_id": 16121,
+   "customer_id": 302,
+   "staff_id": 2,
+   "rental_id": 92,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 14:07:12.996577"
+ },
+ {
+   "payment_id": 16122,
+   "customer_id": 303,
+   "staff_id": 1,
+   "rental_id": 265,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 14:36:04.996577"
+ },
+ {
+   "payment_id": 16123,
+   "customer_id": 303,
+   "staff_id": 1,
+   "rental_id": 871,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 03:29:56.996577"
+ },
+ {
+   "payment_id": 16124,
+   "customer_id": 303,
+   "staff_id": 2,
+   "rental_id": 1050,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 05:29:53.996577"
+ },
+ {
+   "payment_id": 16125,
+   "customer_id": 304,
+   "staff_id": 1,
+   "rental_id": 135,
+   "amount": 10.99,
+   "payment_date": "2007-01-25 20:27:24.996577"
+ },
+ {
+   "payment_id": 16126,
+   "customer_id": 304,
+   "staff_id": 1,
+   "rental_id": 415,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 13:20:11.996577"
+ },
+ {
+   "payment_id": 16127,
+   "customer_id": 304,
+   "staff_id": 2,
+   "rental_id": 937,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 13:15:57.996577"
+ },
+ {
+   "payment_id": 16128,
+   "customer_id": 305,
+   "staff_id": 2,
+   "rental_id": 69,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 08:38:40.996577"
+ },
+ {
+   "payment_id": 16129,
+   "customer_id": 306,
+   "staff_id": 2,
+   "rental_id": 375,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 07:17:47.996577"
+ },
+ {
+   "payment_id": 16130,
+   "customer_id": 306,
+   "staff_id": 2,
+   "rental_id": 672,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 20:33:55.996577"
+ },
+ {
+   "payment_id": 16131,
+   "customer_id": 307,
+   "staff_id": 2,
+   "rental_id": 413,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 13:14:03.996577"
+ },
+ {
+   "payment_id": 16132,
+   "customer_id": 307,
+   "staff_id": 1,
+   "rental_id": 535,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 04:44:58.996577"
+ },
+ {
+   "payment_id": 16133,
+   "customer_id": 307,
+   "staff_id": 1,
+   "rental_id": 614,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 14:01:54.996577"
+ },
+ {
+   "payment_id": 16134,
+   "customer_id": 307,
+   "staff_id": 1,
+   "rental_id": 970,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 18:18:54.996577"
+ },
+ {
+   "payment_id": 16135,
+   "customer_id": 308,
+   "staff_id": 2,
+   "rental_id": 589,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 10:56:16.996577"
+ },
+ {
+   "payment_id": 16136,
+   "customer_id": 309,
+   "staff_id": 2,
+   "rental_id": 218,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 07:55:35.996577"
+ },
+ {
+   "payment_id": 16137,
+   "customer_id": 309,
+   "staff_id": 2,
+   "rental_id": 723,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 04:03:10.996577"
+ },
+ {
+   "payment_id": 16138,
+   "customer_id": 310,
+   "staff_id": 2,
+   "rental_id": 104,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 16:14:59.996577"
+ },
+ {
+   "payment_id": 16139,
+   "customer_id": 311,
+   "staff_id": 2,
+   "rental_id": 274,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 15:17:17.996577"
+ },
+ {
+   "payment_id": 16140,
+   "customer_id": 311,
+   "staff_id": 2,
+   "rental_id": 544,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 05:31:26.996577"
+ },
+ {
+   "payment_id": 16141,
+   "customer_id": 311,
+   "staff_id": 1,
+   "rental_id": 952,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 14:56:33.996577"
+ },
+ {
+   "payment_id": 16142,
+   "customer_id": 311,
+   "staff_id": 2,
+   "rental_id": 990,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 21:53:40.996577"
+ },
+ {
+   "payment_id": 16143,
+   "customer_id": 311,
+   "staff_id": 2,
+   "rental_id": 1128,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 16:17:52.996577"
+ },
+ {
+   "payment_id": 16144,
+   "customer_id": 312,
+   "staff_id": 2,
+   "rental_id": 229,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 09:47:46.996577"
+ },
+ {
+   "payment_id": 16145,
+   "customer_id": 312,
+   "staff_id": 1,
+   "rental_id": 530,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 03:41:27.996577"
+ },
+ {
+   "payment_id": 16146,
+   "customer_id": 312,
+   "staff_id": 2,
+   "rental_id": 1049,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 05:25:30.996577"
+ },
+ {
+   "payment_id": 16147,
+   "customer_id": 312,
+   "staff_id": 2,
+   "rental_id": 1079,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 09:16:43.996577"
+ },
+ {
+   "payment_id": 16148,
+   "customer_id": 313,
+   "staff_id": 2,
+   "rental_id": 669,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 20:31:51.996577"
+ },
+ {
+   "payment_id": 16149,
+   "customer_id": 313,
+   "staff_id": 2,
+   "rental_id": 712,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 02:30:50.996577"
+ },
+ {
+   "payment_id": 16150,
+   "customer_id": 313,
+   "staff_id": 2,
+   "rental_id": 781,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 12:52:24.996577"
+ },
+ {
+   "payment_id": 16151,
+   "customer_id": 313,
+   "staff_id": 2,
+   "rental_id": 843,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 23:12:50.996577"
+ },
+ {
+   "payment_id": 16152,
+   "customer_id": 314,
+   "staff_id": 1,
+   "rental_id": 80,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 10:40:33.996577"
+ },
+ {
+   "payment_id": 16153,
+   "customer_id": 314,
+   "staff_id": 1,
+   "rental_id": 440,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 16:29:01.996577"
+ },
+ {
+   "payment_id": 16154,
+   "customer_id": 315,
+   "staff_id": 1,
+   "rental_id": 537,
+   "amount": 8.99,
+   "payment_date": "2007-01-28 04:49:21.996577"
+ },
+ {
+   "payment_id": 16155,
+   "customer_id": 315,
+   "staff_id": 1,
+   "rental_id": 551,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 06:12:44.996577"
+ },
+ {
+   "payment_id": 16156,
+   "customer_id": 316,
+   "staff_id": 1,
+   "rental_id": 16,
+   "amount": 4.99,
+   "payment_date": "2007-01-24 23:11:37.996577"
+ },
+ {
+   "payment_id": 16157,
+   "customer_id": 316,
+   "staff_id": 1,
+   "rental_id": 644,
+   "amount": 8.99,
+   "payment_date": "2007-01-28 17:27:38.996577"
+ },
+ {
+   "payment_id": 16158,
+   "customer_id": 316,
+   "staff_id": 1,
+   "rental_id": 1065,
+   "amount": 1.99,
+   "payment_date": "2007-01-31 07:23:22.996577"
+ },
+ {
+   "payment_id": 16159,
+   "customer_id": 317,
+   "staff_id": 1,
+   "rental_id": 107,
+   "amount": 6.99,
+   "payment_date": "2007-01-25 16:56:35.996577"
+ },
+ {
+   "payment_id": 16160,
+   "customer_id": 318,
+   "staff_id": 1,
+   "rental_id": 224,
+   "amount": 9.99,
+   "payment_date": "2007-01-26 08:46:53.996577"
+ },
+ {
+   "payment_id": 16161,
+   "customer_id": 319,
+   "staff_id": 1,
+   "rental_id": 15,
+   "amount": 9.99,
+   "payment_date": "2007-01-24 23:07:48.996577"
+ },
+ {
+   "payment_id": 16162,
+   "customer_id": 319,
+   "staff_id": 1,
+   "rental_id": 149,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 22:56:31.996577"
+ },
+ {
+   "payment_id": 16163,
+   "customer_id": 319,
+   "staff_id": 1,
+   "rental_id": 439,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 16:23:14.996577"
+ },
+ {
+   "payment_id": 16164,
+   "customer_id": 321,
+   "staff_id": 2,
+   "rental_id": 200,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 05:40:47.996577"
+ },
+ {
+   "payment_id": 16165,
+   "customer_id": 321,
+   "staff_id": 1,
+   "rental_id": 620,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 14:23:11.996577"
+ },
+ {
+   "payment_id": 16166,
+   "customer_id": 321,
+   "staff_id": 2,
+   "rental_id": 818,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 19:16:19.996577"
+ },
+ {
+   "payment_id": 16167,
+   "customer_id": 322,
+   "staff_id": 2,
+   "rental_id": 166,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 01:17:37.996577"
+ },
+ {
+   "payment_id": 16168,
+   "customer_id": 322,
+   "staff_id": 1,
+   "rental_id": 269,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 14:48:12.996577"
+ },
+ {
+   "payment_id": 16169,
+   "customer_id": 323,
+   "staff_id": 1,
+   "rental_id": 58,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 07:21:40.996577"
+ },
+ {
+   "payment_id": 16170,
+   "customer_id": 323,
+   "staff_id": 2,
+   "rental_id": 729,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 05:03:39.996577"
+ },
+ {
+   "payment_id": 16171,
+   "customer_id": 323,
+   "staff_id": 1,
+   "rental_id": 878,
+   "amount": 5.99,
+   "payment_date": "2007-01-30 04:17:39.996577"
+ },
+ {
+   "payment_id": 16172,
+   "customer_id": 324,
+   "staff_id": 2,
+   "rental_id": 563,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 07:39:15.996577"
+ },
+ {
+   "payment_id": 16173,
+   "customer_id": 325,
+   "staff_id": 1,
+   "rental_id": 131,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 20:11:12.996577"
+ },
+ {
+   "payment_id": 16174,
+   "customer_id": 326,
+   "staff_id": 1,
+   "rental_id": 875,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 04:06:50.996577"
+ },
+ {
+   "payment_id": 16175,
+   "customer_id": 326,
+   "staff_id": 2,
+   "rental_id": 981,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 20:21:08.996577"
+ },
+ {
+   "payment_id": 16176,
+   "customer_id": 326,
+   "staff_id": 2,
+   "rental_id": 1149,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 19:31:43.996577"
+ },
+ {
+   "payment_id": 16177,
+   "customer_id": 327,
+   "staff_id": 1,
+   "rental_id": 653,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 18:40:46.996577"
+ },
+ {
+   "payment_id": 16178,
+   "customer_id": 328,
+   "staff_id": 2,
+   "rental_id": 862,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 01:37:37.996577"
+ },
+ {
+   "payment_id": 16179,
+   "customer_id": 330,
+   "staff_id": 1,
+   "rental_id": 704,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 01:13:09.996577"
+ },
+ {
+   "payment_id": 16180,
+   "customer_id": 330,
+   "staff_id": 2,
+   "rental_id": 967,
+   "amount": 7.99,
+   "payment_date": "2007-01-30 17:40:32.996577"
+ },
+ {
+   "payment_id": 16181,
+   "customer_id": 331,
+   "staff_id": 2,
+   "rental_id": 87,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 12:21:09.996577"
+ },
+ {
+   "payment_id": 16182,
+   "customer_id": 331,
+   "staff_id": 1,
+   "rental_id": 996,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 22:34:46.996577"
+ },
+ {
+   "payment_id": 16183,
+   "customer_id": 332,
+   "staff_id": 2,
+   "rental_id": 600,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 12:36:45.996577"
+ },
+ {
+   "payment_id": 16184,
+   "customer_id": 332,
+   "staff_id": 1,
+   "rental_id": 1000,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 22:54:22.996577"
+ },
+ {
+   "payment_id": 16185,
+   "customer_id": 333,
+   "staff_id": 1,
+   "rental_id": 4,
+   "amount": 4.99,
+   "payment_date": "2007-01-24 21:33:07.996577"
+ },
+ {
+   "payment_id": 16186,
+   "customer_id": 334,
+   "staff_id": 1,
+   "rental_id": 13,
+   "amount": 6.99,
+   "payment_date": "2007-01-24 22:51:21.996577"
+ },
+ {
+   "payment_id": 16187,
+   "customer_id": 334,
+   "staff_id": 1,
+   "rental_id": 431,
+   "amount": 8.99,
+   "payment_date": "2007-01-27 14:59:31.996577"
+ },
+ {
+   "payment_id": 16188,
+   "customer_id": 337,
+   "staff_id": 1,
+   "rental_id": 374,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 06:54:56.996577"
+ },
+ {
+   "payment_id": 16189,
+   "customer_id": 337,
+   "staff_id": 1,
+   "rental_id": 572,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 08:58:39.996577"
+ },
+ {
+   "payment_id": 16190,
+   "customer_id": 337,
+   "staff_id": 1,
+   "rental_id": 839,
+   "amount": 8.99,
+   "payment_date": "2007-01-29 22:56:38.996577"
+ },
+ {
+   "payment_id": 16191,
+   "customer_id": 338,
+   "staff_id": 1,
+   "rental_id": 675,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 20:51:10.996577"
+ },
+ {
+   "payment_id": 16192,
+   "customer_id": 339,
+   "staff_id": 1,
+   "rental_id": 876,
+   "amount": 5.99,
+   "payment_date": "2007-01-30 04:09:48.996577"
+ },
+ {
+   "payment_id": 16193,
+   "customer_id": 343,
+   "staff_id": 2,
+   "rental_id": 102,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 15:50:36.996577"
+ },
+ {
+   "payment_id": 16194,
+   "customer_id": 343,
+   "staff_id": 1,
+   "rental_id": 455,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 18:11:55.996577"
+ },
+ {
+   "payment_id": 16195,
+   "customer_id": 344,
+   "staff_id": 2,
+   "rental_id": 157,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 23:53:47.996577"
+ },
+ {
+   "payment_id": 16196,
+   "customer_id": 344,
+   "staff_id": 2,
+   "rental_id": 813,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 18:43:00.996577"
+ },
+ {
+   "payment_id": 16197,
+   "customer_id": 345,
+   "staff_id": 1,
+   "rental_id": 206,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 06:30:20.996577"
+ },
+ {
+   "payment_id": 16198,
+   "customer_id": 345,
+   "staff_id": 1,
+   "rental_id": 363,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 05:42:26.996577"
+ },
+ {
+   "payment_id": 16199,
+   "customer_id": 346,
+   "staff_id": 1,
+   "rental_id": 65,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 08:00:29.996577"
+ },
+ {
+   "payment_id": 16200,
+   "customer_id": 346,
+   "staff_id": 1,
+   "rental_id": 810,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 17:40:30.996577"
+ },
+ {
+   "payment_id": 16201,
+   "customer_id": 348,
+   "staff_id": 2,
+   "rental_id": 153,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 23:16:13.996577"
+ },
+ {
+   "payment_id": 16202,
+   "customer_id": 348,
+   "staff_id": 2,
+   "rental_id": 821,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 19:59:38.996577"
+ },
+ {
+   "payment_id": 16203,
+   "customer_id": 349,
+   "staff_id": 1,
+   "rental_id": 890,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 06:11:30.996577"
+ },
+ {
+   "payment_id": 16204,
+   "customer_id": 350,
+   "staff_id": 1,
+   "rental_id": 24,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 01:21:28.996577"
+ },
+ {
+   "payment_id": 16205,
+   "customer_id": 350,
+   "staff_id": 1,
+   "rental_id": 802,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 16:07:25.996577"
+ },
+ {
+   "payment_id": 16206,
+   "customer_id": 351,
+   "staff_id": 1,
+   "rental_id": 1137,
+   "amount": 1.99,
+   "payment_date": "2007-01-31 17:48:40.996577"
+ },
+ {
+   "payment_id": 16207,
+   "customer_id": 352,
+   "staff_id": 1,
+   "rental_id": 784,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 13:12:48.996577"
+ },
+ {
+   "payment_id": 16208,
+   "customer_id": 353,
+   "staff_id": 2,
+   "rental_id": 1103,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 12:52:44.996577"
+ },
+ {
+   "payment_id": 16209,
+   "customer_id": 354,
+   "staff_id": 1,
+   "rental_id": 140,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 22:02:48.996577"
+ },
+ {
+   "payment_id": 16210,
+   "customer_id": 354,
+   "staff_id": 2,
+   "rental_id": 158,
+   "amount": 1.99,
+   "payment_date": "2007-01-25 23:55:37.996577"
+ },
+ {
+   "payment_id": 16211,
+   "customer_id": 354,
+   "staff_id": 2,
+   "rental_id": 402,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 11:45:44.996577"
+ },
+ {
+   "payment_id": 16212,
+   "customer_id": 355,
+   "staff_id": 1,
+   "rental_id": 1110,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 13:51:17.996577"
+ },
+ {
+   "payment_id": 16213,
+   "customer_id": 356,
+   "staff_id": 2,
+   "rental_id": 1088,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 10:03:39.996577"
+ },
+ {
+   "payment_id": 16214,
+   "customer_id": 357,
+   "staff_id": 1,
+   "rental_id": 144,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 22:18:22.996577"
+ },
+ {
+   "payment_id": 16215,
+   "customer_id": 357,
+   "staff_id": 1,
+   "rental_id": 824,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 20:13:58.996577"
+ },
+ {
+   "payment_id": 16216,
+   "customer_id": 357,
+   "staff_id": 2,
+   "rental_id": 945,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 14:01:43.996577"
+ },
+ {
+   "payment_id": 16217,
+   "customer_id": 358,
+   "staff_id": 2,
+   "rental_id": 858,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 00:38:58.996577"
+ },
+ {
+   "payment_id": 16218,
+   "customer_id": 359,
+   "staff_id": 1,
+   "rental_id": 284,
+   "amount": 8.99,
+   "payment_date": "2007-01-26 17:50:10.996577"
+ },
+ {
+   "payment_id": 16219,
+   "customer_id": 359,
+   "staff_id": 2,
+   "rental_id": 392,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 09:43:08.996577"
+ },
+ {
+   "payment_id": 16220,
+   "customer_id": 359,
+   "staff_id": 1,
+   "rental_id": 528,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 02:58:31.996577"
+ },
+ {
+   "payment_id": 16221,
+   "customer_id": 360,
+   "staff_id": 1,
+   "rental_id": 633,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 16:06:25.996577"
+ },
+ {
+   "payment_id": 16222,
+   "customer_id": 360,
+   "staff_id": 2,
+   "rental_id": 777,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 12:36:24.996577"
+ },
+ {
+   "payment_id": 16223,
+   "customer_id": 361,
+   "staff_id": 1,
+   "rental_id": 368,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 06:10:55.996577"
+ },
+ {
+   "payment_id": 16224,
+   "customer_id": 361,
+   "staff_id": 2,
+   "rental_id": 1120,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 15:05:40.996577"
+ },
+ {
+   "payment_id": 16225,
+   "customer_id": 362,
+   "staff_id": 2,
+   "rental_id": 1035,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 03:29:35.996577"
+ },
+ {
+   "payment_id": 16226,
+   "customer_id": 363,
+   "staff_id": 1,
+   "rental_id": 733,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 06:03:47.996577"
+ },
+ {
+   "payment_id": 16227,
+   "customer_id": 364,
+   "staff_id": 1,
+   "rental_id": 462,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 18:39:02.996577"
+ },
+ {
+   "payment_id": 16228,
+   "customer_id": 365,
+   "staff_id": 2,
+   "rental_id": 120,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 18:06:13.996577"
+ },
+ {
+   "payment_id": 16229,
+   "customer_id": 365,
+   "staff_id": 1,
+   "rental_id": 231,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 10:00:25.996577"
+ },
+ {
+   "payment_id": 16230,
+   "customer_id": 366,
+   "staff_id": 2,
+   "rental_id": 911,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 09:18:48.996577"
+ },
+ {
+   "payment_id": 16231,
+   "customer_id": 367,
+   "staff_id": 1,
+   "rental_id": 939,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 13:18:00.996577"
+ },
+ {
+   "payment_id": 16232,
+   "customer_id": 367,
+   "staff_id": 1,
+   "rental_id": 1089,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 10:06:55.996577"
+ },
+ {
+   "payment_id": 16233,
+   "customer_id": 368,
+   "staff_id": 1,
+   "rental_id": 64,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 07:49:55.996577"
+ },
+ {
+   "payment_id": 16234,
+   "customer_id": 368,
+   "staff_id": 1,
+   "rental_id": 125,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 19:17:16.996577"
+ },
+ {
+   "payment_id": 16235,
+   "customer_id": 368,
+   "staff_id": 1,
+   "rental_id": 836,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 22:25:08.996577"
+ },
+ {
+   "payment_id": 16236,
+   "customer_id": 368,
+   "staff_id": 1,
+   "rental_id": 949,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 14:19:05.996577"
+ },
+ {
+   "payment_id": 16237,
+   "customer_id": 369,
+   "staff_id": 1,
+   "rental_id": 31,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 02:33:43.996577"
+ },
+ {
+   "payment_id": 16238,
+   "customer_id": 369,
+   "staff_id": 1,
+   "rental_id": 294,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 18:58:23.996577"
+ },
+ {
+   "payment_id": 16239,
+   "customer_id": 369,
+   "staff_id": 2,
+   "rental_id": 854,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 00:24:37.996577"
+ },
+ {
+   "payment_id": 16240,
+   "customer_id": 369,
+   "staff_id": 2,
+   "rental_id": 913,
+   "amount": 7.99,
+   "payment_date": "2007-01-30 09:33:24.996577"
+ },
+ {
+   "payment_id": 16241,
+   "customer_id": 371,
+   "staff_id": 1,
+   "rental_id": 26,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 02:05:16.996577"
+ },
+ {
+   "payment_id": 16242,
+   "customer_id": 371,
+   "staff_id": 2,
+   "rental_id": 286,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 18:13:17.996577"
+ },
+ {
+   "payment_id": 16243,
+   "customer_id": 371,
+   "staff_id": 2,
+   "rental_id": 381,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 08:11:51.996577"
+ },
+ {
+   "payment_id": 16244,
+   "customer_id": 371,
+   "staff_id": 1,
+   "rental_id": 384,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 08:46:46.996577"
+ },
+ {
+   "payment_id": 16245,
+   "customer_id": 371,
+   "staff_id": 1,
+   "rental_id": 825,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 20:18:07.996577"
+ },
+ {
+   "payment_id": 16246,
+   "customer_id": 371,
+   "staff_id": 1,
+   "rental_id": 829,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 20:45:08.996577"
+ },
+ {
+   "payment_id": 16247,
+   "customer_id": 372,
+   "staff_id": 1,
+   "rental_id": 617,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 14:17:40.996577"
+ },
+ {
+   "payment_id": 16248,
+   "customer_id": 372,
+   "staff_id": 1,
+   "rental_id": 638,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 16:53:09.996577"
+ },
+ {
+   "payment_id": 16249,
+   "customer_id": 373,
+   "staff_id": 2,
+   "rental_id": 257,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 13:55:31.996577"
+ },
+ {
+   "payment_id": 16250,
+   "customer_id": 374,
+   "staff_id": 1,
+   "rental_id": 521,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 02:00:48.996577"
+ },
+ {
+   "payment_id": 16251,
+   "customer_id": 374,
+   "staff_id": 2,
+   "rental_id": 910,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 09:14:42.996577"
+ },
+ {
+   "payment_id": 16252,
+   "customer_id": 374,
+   "staff_id": 2,
+   "rental_id": 919,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 10:03:32.996577"
+ },
+ {
+   "payment_id": 16253,
+   "customer_id": 375,
+   "staff_id": 2,
+   "rental_id": 307,
+   "amount": 8.99,
+   "payment_date": "2007-01-26 20:16:39.996577"
+ },
+ {
+   "payment_id": 16254,
+   "customer_id": 375,
+   "staff_id": 1,
+   "rental_id": 412,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 12:45:49.996577"
+ },
+ {
+   "payment_id": 16255,
+   "customer_id": 375,
+   "staff_id": 2,
+   "rental_id": 749,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 08:01:59.996577"
+ },
+ {
+   "payment_id": 16256,
+   "customer_id": 375,
+   "staff_id": 1,
+   "rental_id": 873,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 03:43:46.996577"
+ },
+ {
+   "payment_id": 16257,
+   "customer_id": 376,
+   "staff_id": 1,
+   "rental_id": 554,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 06:51:42.996577"
+ },
+ {
+   "payment_id": 16258,
+   "customer_id": 378,
+   "staff_id": 1,
+   "rental_id": 347,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 03:08:59.996577"
+ },
+ {
+   "payment_id": 16259,
+   "customer_id": 379,
+   "staff_id": 2,
+   "rental_id": 209,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 06:42:27.996577"
+ },
+ {
+   "payment_id": 16260,
+   "customer_id": 379,
+   "staff_id": 1,
+   "rental_id": 863,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 01:43:25.996577"
+ },
+ {
+   "payment_id": 16261,
+   "customer_id": 380,
+   "staff_id": 1,
+   "rental_id": 847,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 23:46:41.996577"
+ },
+ {
+   "payment_id": 16262,
+   "customer_id": 381,
+   "staff_id": 2,
+   "rental_id": 169,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 01:37:56.996577"
+ },
+ {
+   "payment_id": 16263,
+   "customer_id": 381,
+   "staff_id": 2,
+   "rental_id": 406,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 12:15:12.996577"
+ },
+ {
+   "payment_id": 16264,
+   "customer_id": 381,
+   "staff_id": 1,
+   "rental_id": 835,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 22:05:26.996577"
+ },
+ {
+   "payment_id": 16265,
+   "customer_id": 382,
+   "staff_id": 2,
+   "rental_id": 356,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 05:00:56.996577"
+ },
+ {
+   "payment_id": 16266,
+   "customer_id": 382,
+   "staff_id": 1,
+   "rental_id": 522,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 02:01:46.996577"
+ },
+ {
+   "payment_id": 16267,
+   "customer_id": 383,
+   "staff_id": 2,
+   "rental_id": 63,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 07:47:42.996577"
+ },
+ {
+   "payment_id": 16268,
+   "customer_id": 383,
+   "staff_id": 1,
+   "rental_id": 766,
+   "amount": 8.99,
+   "payment_date": "2007-01-29 10:15:28.996577"
+ },
+ {
+   "payment_id": 16269,
+   "customer_id": 384,
+   "staff_id": 2,
+   "rental_id": 103,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 15:59:08.996577"
+ },
+ {
+   "payment_id": 16270,
+   "customer_id": 384,
+   "staff_id": 2,
+   "rental_id": 279,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 16:31:16.996577"
+ },
+ {
+   "payment_id": 16271,
+   "customer_id": 384,
+   "staff_id": 1,
+   "rental_id": 898,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 07:54:45.996577"
+ },
+ {
+   "payment_id": 16272,
+   "customer_id": 384,
+   "staff_id": 2,
+   "rental_id": 1013,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 01:05:26.996577"
+ },
+ {
+   "payment_id": 16273,
+   "customer_id": 385,
+   "staff_id": 1,
+   "rental_id": 917,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 09:55:32.996577"
+ },
+ {
+   "payment_id": 16274,
+   "customer_id": 385,
+   "staff_id": 2,
+   "rental_id": 1038,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 03:52:13.996577"
+ },
+ {
+   "payment_id": 16275,
+   "customer_id": 386,
+   "staff_id": 1,
+   "rental_id": 583,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 10:17:21.996577"
+ },
+ {
+   "payment_id": 16276,
+   "customer_id": 387,
+   "staff_id": 2,
+   "rental_id": 302,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 19:42:12.996577"
+ },
+ {
+   "payment_id": 16277,
+   "customer_id": 387,
+   "staff_id": 1,
+   "rental_id": 697,
+   "amount": 7.99,
+   "payment_date": "2007-01-29 00:32:30.996577"
+ },
+ {
+   "payment_id": 16278,
+   "customer_id": 387,
+   "staff_id": 1,
+   "rental_id": 841,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 22:59:43.996577"
+ },
+ {
+   "payment_id": 16279,
+   "customer_id": 387,
+   "staff_id": 1,
+   "rental_id": 1127,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 16:14:15.996577"
+ },
+ {
+   "payment_id": 16280,
+   "customer_id": 388,
+   "staff_id": 2,
+   "rental_id": 21,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 00:28:12.996577"
+ },
+ {
+   "payment_id": 16281,
+   "customer_id": 388,
+   "staff_id": 2,
+   "rental_id": 411,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 12:42:40.996577"
+ },
+ {
+   "payment_id": 16282,
+   "customer_id": 389,
+   "staff_id": 1,
+   "rental_id": 998,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 22:45:23.996577"
+ },
+ {
+   "payment_id": 16283,
+   "customer_id": 390,
+   "staff_id": 1,
+   "rental_id": 254,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 13:12:14.996577"
+ },
+ {
+   "payment_id": 16284,
+   "customer_id": 390,
+   "staff_id": 2,
+   "rental_id": 912,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 09:26:59.996577"
+ },
+ {
+   "payment_id": 16285,
+   "customer_id": 391,
+   "staff_id": 2,
+   "rental_id": 73,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 09:28:33.996577"
+ },
+ {
+   "payment_id": 16286,
+   "customer_id": 391,
+   "staff_id": 1,
+   "rental_id": 210,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 06:42:41.996577"
+ },
+ {
+   "payment_id": 16287,
+   "customer_id": 391,
+   "staff_id": 1,
+   "rental_id": 317,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 21:52:22.996577"
+ },
+ {
+   "payment_id": 16288,
+   "customer_id": 391,
+   "staff_id": 2,
+   "rental_id": 870,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 02:54:13.996577"
+ },
+ {
+   "payment_id": 16289,
+   "customer_id": 391,
+   "staff_id": 1,
+   "rental_id": 891,
+   "amount": 7.99,
+   "payment_date": "2007-01-30 06:11:38.996577"
+ },
+ {
+   "payment_id": 16290,
+   "customer_id": 393,
+   "staff_id": 1,
+   "rental_id": 599,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 12:34:23.996577"
+ },
+ {
+   "payment_id": 16291,
+   "customer_id": 393,
+   "staff_id": 2,
+   "rental_id": 886,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 05:23:17.996577"
+ },
+ {
+   "payment_id": 16292,
+   "customer_id": 394,
+   "staff_id": 1,
+   "rental_id": 213,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 07:12:34.996577"
+ },
+ {
+   "payment_id": 16293,
+   "customer_id": 394,
+   "staff_id": 1,
+   "rental_id": 977,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 19:50:52.996577"
+ },
+ {
+   "payment_id": 16294,
+   "customer_id": 396,
+   "staff_id": 2,
+   "rental_id": 641,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 17:14:13.996577"
+ },
+ {
+   "payment_id": 16295,
+   "customer_id": 397,
+   "staff_id": 2,
+   "rental_id": 1002,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 23:16:22.996577"
+ },
+ {
+   "payment_id": 16296,
+   "customer_id": 398,
+   "staff_id": 1,
+   "rental_id": 486,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 22:19:38.996577"
+ },
+ {
+   "payment_id": 16297,
+   "customer_id": 399,
+   "staff_id": 2,
+   "rental_id": 10,
+   "amount": 5.99,
+   "payment_date": "2007-01-24 22:30:47.996577"
+ },
+ {
+   "payment_id": 16298,
+   "customer_id": 399,
+   "staff_id": 2,
+   "rental_id": 694,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 00:18:09.996577"
+ },
+ {
+   "payment_id": 16299,
+   "customer_id": 399,
+   "staff_id": 2,
+   "rental_id": 883,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 04:49:31.996577"
+ },
+ {
+   "payment_id": 16300,
+   "customer_id": 400,
+   "staff_id": 1,
+   "rental_id": 95,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 14:41:18.996577"
+ },
+ {
+   "payment_id": 16301,
+   "customer_id": 400,
+   "staff_id": 2,
+   "rental_id": 171,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 01:42:41.996577"
+ },
+ {
+   "payment_id": 16302,
+   "customer_id": 400,
+   "staff_id": 2,
+   "rental_id": 516,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 01:40:13.996577"
+ },
+ {
+   "payment_id": 16303,
+   "customer_id": 400,
+   "staff_id": 2,
+   "rental_id": 894,
+   "amount": 5.99,
+   "payment_date": "2007-01-30 06:59:57.996577"
+ },
+ {
+   "payment_id": 16304,
+   "customer_id": 401,
+   "staff_id": 2,
+   "rental_id": 167,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 01:18:57.996577"
+ },
+ {
+   "payment_id": 16305,
+   "customer_id": 401,
+   "staff_id": 2,
+   "rental_id": 446,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 17:17:07.996577"
+ },
+ {
+   "payment_id": 16306,
+   "customer_id": 401,
+   "staff_id": 2,
+   "rental_id": 811,
+   "amount": 1.99,
+   "payment_date": "2007-01-29 17:59:08.996577"
+ },
+ {
+   "payment_id": 16307,
+   "customer_id": 402,
+   "staff_id": 2,
+   "rental_id": 801,
+   "amount": 1.99,
+   "payment_date": "2007-01-29 16:04:16.996577"
+ },
+ {
+   "payment_id": 16308,
+   "customer_id": 403,
+   "staff_id": 1,
+   "rental_id": 442,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 16:40:39.996577"
+ },
+ {
+   "payment_id": 16309,
+   "customer_id": 403,
+   "staff_id": 1,
+   "rental_id": 517,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 01:46:23.996577"
+ },
+ {
+   "payment_id": 16310,
+   "customer_id": 404,
+   "staff_id": 2,
+   "rental_id": 1081,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 09:24:58.996577"
+ },
+ {
+   "payment_id": 16311,
+   "customer_id": 405,
+   "staff_id": 1,
+   "rental_id": 121,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 18:09:55.996577"
+ },
+ {
+   "payment_id": 16312,
+   "customer_id": 405,
+   "staff_id": 2,
+   "rental_id": 770,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 11:25:16.996577"
+ },
+ {
+   "payment_id": 16313,
+   "customer_id": 406,
+   "staff_id": 1,
+   "rental_id": 855,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 00:28:54.996577"
+ },
+ {
+   "payment_id": 16314,
+   "customer_id": 407,
+   "staff_id": 1,
+   "rental_id": 619,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 14:20:52.996577"
+ },
+ {
+   "payment_id": 16315,
+   "customer_id": 408,
+   "staff_id": 2,
+   "rental_id": 3,
+   "amount": 3.99,
+   "payment_date": "2007-01-24 21:32:05.996577"
+ },
+ {
+   "payment_id": 16316,
+   "customer_id": 408,
+   "staff_id": 2,
+   "rental_id": 59,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 07:25:08.996577"
+ },
+ {
+   "payment_id": 16317,
+   "customer_id": 408,
+   "staff_id": 1,
+   "rental_id": 526,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 02:56:03.996577"
+ },
+ {
+   "payment_id": 16318,
+   "customer_id": 409,
+   "staff_id": 1,
+   "rental_id": 310,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 21:09:33.996577"
+ },
+ {
+   "payment_id": 16319,
+   "customer_id": 411,
+   "staff_id": 2,
+   "rental_id": 686,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 22:55:36.996577"
+ },
+ {
+   "payment_id": 16320,
+   "customer_id": 411,
+   "staff_id": 2,
+   "rental_id": 972,
+   "amount": 1.99,
+   "payment_date": "2007-01-30 18:49:33.996577"
+ },
+ {
+   "payment_id": 16321,
+   "customer_id": 412,
+   "staff_id": 2,
+   "rental_id": 191,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 04:42:32.996577"
+ },
+ {
+   "payment_id": 16322,
+   "customer_id": 412,
+   "staff_id": 1,
+   "rental_id": 333,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 01:20:47.996577"
+ },
+ {
+   "payment_id": 16323,
+   "customer_id": 412,
+   "staff_id": 1,
+   "rental_id": 717,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 03:06:10.996577"
+ },
+ {
+   "payment_id": 16324,
+   "customer_id": 412,
+   "staff_id": 2,
+   "rental_id": 1043,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 04:40:06.996577"
+ },
+ {
+   "payment_id": 16325,
+   "customer_id": 413,
+   "staff_id": 1,
+   "rental_id": 40,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 03:37:30.996577"
+ },
+ {
+   "payment_id": 16326,
+   "customer_id": 413,
+   "staff_id": 1,
+   "rental_id": 999,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 22:53:36.996577"
+ },
+ {
+   "payment_id": 16327,
+   "customer_id": 414,
+   "staff_id": 1,
+   "rental_id": 85,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 11:34:00.996577"
+ },
+ {
+   "payment_id": 16328,
+   "customer_id": 414,
+   "staff_id": 1,
+   "rental_id": 261,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 14:12:49.996577"
+ },
+ {
+   "payment_id": 16329,
+   "customer_id": 415,
+   "staff_id": 2,
+   "rental_id": 665,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 20:07:05.996577"
+ },
+ {
+   "payment_id": 16330,
+   "customer_id": 416,
+   "staff_id": 2,
+   "rental_id": 253,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 13:11:40.996577"
+ },
+ {
+   "payment_id": 16331,
+   "customer_id": 416,
+   "staff_id": 2,
+   "rental_id": 724,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 04:21:49.996577"
+ },
+ {
+   "payment_id": 16332,
+   "customer_id": 416,
+   "staff_id": 2,
+   "rental_id": 1031,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 02:51:27.996577"
+ },
+ {
+   "payment_id": 16333,
+   "customer_id": 417,
+   "staff_id": 1,
+   "rental_id": 267,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 14:44:47.996577"
+ },
+ {
+   "payment_id": 16334,
+   "customer_id": 417,
+   "staff_id": 2,
+   "rental_id": 630,
+   "amount": 8.99,
+   "payment_date": "2007-01-28 15:53:17.996577"
+ },
+ {
+   "payment_id": 16335,
+   "customer_id": 417,
+   "staff_id": 2,
+   "rental_id": 833,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 21:50:22.996577"
+ },
+ {
+   "payment_id": 16336,
+   "customer_id": 419,
+   "staff_id": 1,
+   "rental_id": 62,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 07:47:18.996577"
+ },
+ {
+   "payment_id": 16337,
+   "customer_id": 420,
+   "staff_id": 2,
+   "rental_id": 744,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 07:41:34.996577"
+ },
+ {
+   "payment_id": 16338,
+   "customer_id": 421,
+   "staff_id": 1,
+   "rental_id": 507,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 00:59:45.996577"
+ },
+ {
+   "payment_id": 16339,
+   "customer_id": 421,
+   "staff_id": 1,
+   "rental_id": 931,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 11:21:27.996577"
+ },
+ {
+   "payment_id": 16340,
+   "customer_id": 422,
+   "staff_id": 1,
+   "rental_id": 398,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 11:12:29.996577"
+ },
+ {
+   "payment_id": 16341,
+   "customer_id": 424,
+   "staff_id": 2,
+   "rental_id": 403,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 11:57:18.996577"
+ },
+ {
+   "payment_id": 16342,
+   "customer_id": 425,
+   "staff_id": 2,
+   "rental_id": 1098,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 12:20:14.996577"
+ },
+ {
+   "payment_id": 16343,
+   "customer_id": 426,
+   "staff_id": 2,
+   "rental_id": 604,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 13:05:33.996577"
+ },
+ {
+   "payment_id": 16344,
+   "customer_id": 427,
+   "staff_id": 2,
+   "rental_id": 82,
+   "amount": 6.99,
+   "payment_date": "2007-01-25 10:46:12.996577"
+ },
+ {
+   "payment_id": 16345,
+   "customer_id": 428,
+   "staff_id": 2,
+   "rental_id": 634,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 16:09:01.996577"
+ },
+ {
+   "payment_id": 16346,
+   "customer_id": 429,
+   "staff_id": 2,
+   "rental_id": 150,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 22:57:05.996577"
+ },
+ {
+   "payment_id": 16347,
+   "customer_id": 429,
+   "staff_id": 2,
+   "rental_id": 290,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 18:36:59.996577"
+ },
+ {
+   "payment_id": 16348,
+   "customer_id": 429,
+   "staff_id": 2,
+   "rental_id": 601,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 12:36:48.996577"
+ },
+ {
+   "payment_id": 16349,
+   "customer_id": 429,
+   "staff_id": 2,
+   "rental_id": 799,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 15:53:14.996577"
+ },
+ {
+   "payment_id": 16350,
+   "customer_id": 429,
+   "staff_id": 2,
+   "rental_id": 844,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 23:26:46.996577"
+ },
+ {
+   "payment_id": 16351,
+   "customer_id": 430,
+   "staff_id": 2,
+   "rental_id": 30,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 02:29:58.996577"
+ },
+ {
+   "payment_id": 16352,
+   "customer_id": 430,
+   "staff_id": 1,
+   "rental_id": 364,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 05:48:38.996577"
+ },
+ {
+   "payment_id": 16353,
+   "customer_id": 431,
+   "staff_id": 2,
+   "rental_id": 1126,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 15:56:11.996577"
+ },
+ {
+   "payment_id": 16354,
+   "customer_id": 432,
+   "staff_id": 2,
+   "rental_id": 326,
+   "amount": 7.99,
+   "payment_date": "2007-01-26 23:38:37.996577"
+ },
+ {
+   "payment_id": 16355,
+   "customer_id": 432,
+   "staff_id": 1,
+   "rental_id": 550,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 06:07:42.996577"
+ },
+ {
+   "payment_id": 16356,
+   "customer_id": 432,
+   "staff_id": 1,
+   "rental_id": 897,
+   "amount": 8.99,
+   "payment_date": "2007-01-30 07:38:27.996577"
+ },
+ {
+   "payment_id": 16357,
+   "customer_id": 433,
+   "staff_id": 2,
+   "rental_id": 146,
+   "amount": 8.99,
+   "payment_date": "2007-01-25 22:35:37.996577"
+ },
+ {
+   "payment_id": 16358,
+   "customer_id": 433,
+   "staff_id": 1,
+   "rental_id": 691,
+   "amount": 10.99,
+   "payment_date": "2007-01-28 23:29:52.996577"
+ },
+ {
+   "payment_id": 16359,
+   "customer_id": 434,
+   "staff_id": 2,
+   "rental_id": 508,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 01:09:16.996577"
+ },
+ {
+   "payment_id": 16360,
+   "customer_id": 435,
+   "staff_id": 1,
+   "rental_id": 757,
+   "amount": 7.99,
+   "payment_date": "2007-01-29 08:58:13.996577"
+ },
+ {
+   "payment_id": 16361,
+   "customer_id": 435,
+   "staff_id": 1,
+   "rental_id": 806,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 16:59:56.996577"
+ },
+ {
+   "payment_id": 16362,
+   "customer_id": 436,
+   "staff_id": 1,
+   "rental_id": 45,
+   "amount": 7.99,
+   "payment_date": "2007-01-25 04:28:05.996577"
+ },
+ {
+   "payment_id": 16363,
+   "customer_id": 436,
+   "staff_id": 1,
+   "rental_id": 256,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 13:49:24.996577"
+ },
+ {
+   "payment_id": 16364,
+   "customer_id": 436,
+   "staff_id": 1,
+   "rental_id": 848,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 23:48:19.996577"
+ },
+ {
+   "payment_id": 16365,
+   "customer_id": 437,
+   "staff_id": 1,
+   "rental_id": 192,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 04:49:03.996577"
+ },
+ {
+   "payment_id": 16366,
+   "customer_id": 437,
+   "staff_id": 2,
+   "rental_id": 656,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 18:46:50.996577"
+ },
+ {
+   "payment_id": 16367,
+   "customer_id": 437,
+   "staff_id": 1,
+   "rental_id": 666,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 20:17:17.996577"
+ },
+ {
+   "payment_id": 16368,
+   "customer_id": 438,
+   "staff_id": 2,
+   "rental_id": 23,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 01:08:47.996577"
+ },
+ {
+   "payment_id": 16369,
+   "customer_id": 438,
+   "staff_id": 2,
+   "rental_id": 1036,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 03:49:36.996577"
+ },
+ {
+   "payment_id": 16370,
+   "customer_id": 438,
+   "staff_id": 1,
+   "rental_id": 1138,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 17:58:53.996577"
+ },
+ {
+   "payment_id": 16371,
+   "customer_id": 439,
+   "staff_id": 1,
+   "rental_id": 126,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 19:36:25.996577"
+ },
+ {
+   "payment_id": 16372,
+   "customer_id": 439,
+   "staff_id": 2,
+   "rental_id": 367,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 06:05:28.996577"
+ },
+ {
+   "payment_id": 16373,
+   "customer_id": 439,
+   "staff_id": 1,
+   "rental_id": 786,
+   "amount": 9.99,
+   "payment_date": "2007-01-29 13:45:54.996577"
+ },
+ {
+   "payment_id": 16374,
+   "customer_id": 440,
+   "staff_id": 2,
+   "rental_id": 957,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 16:21:55.996577"
+ },
+ {
+   "payment_id": 16375,
+   "customer_id": 441,
+   "staff_id": 1,
+   "rental_id": 823,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 20:08:03.996577"
+ },
+ {
+   "payment_id": 16376,
+   "customer_id": 442,
+   "staff_id": 2,
+   "rental_id": 466,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 19:25:33.996577"
+ },
+ {
+   "payment_id": 16377,
+   "customer_id": 442,
+   "staff_id": 2,
+   "rental_id": 558,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 07:07:09.996577"
+ },
+ {
+   "payment_id": 16378,
+   "customer_id": 442,
+   "staff_id": 1,
+   "rental_id": 632,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 16:06:16.996577"
+ },
+ {
+   "payment_id": 16379,
+   "customer_id": 443,
+   "staff_id": 2,
+   "rental_id": 1068,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 08:00:41.996577"
+ },
+ {
+   "payment_id": 16380,
+   "customer_id": 444,
+   "staff_id": 1,
+   "rental_id": 201,
+   "amount": 8.99,
+   "payment_date": "2007-01-26 05:42:11.996577"
+ },
+ {
+   "payment_id": 16381,
+   "customer_id": 444,
+   "staff_id": 1,
+   "rental_id": 557,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 07:04:48.996577"
+ },
+ {
+   "payment_id": 16382,
+   "customer_id": 445,
+   "staff_id": 1,
+   "rental_id": 481,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 21:17:53.996577"
+ },
+ {
+   "payment_id": 16383,
+   "customer_id": 445,
+   "staff_id": 1,
+   "rental_id": 960,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 16:41:49.996577"
+ },
+ {
+   "payment_id": 16384,
+   "customer_id": 446,
+   "staff_id": 2,
+   "rental_id": 14,
+   "amount": 0.99,
+   "payment_date": "2007-01-24 22:59:41.996577"
+ },
+ {
+   "payment_id": 16385,
+   "customer_id": 446,
+   "staff_id": 1,
+   "rental_id": 236,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 10:22:15.996577"
+ },
+ {
+   "payment_id": 16386,
+   "customer_id": 446,
+   "staff_id": 1,
+   "rental_id": 355,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 04:43:59.996577"
+ },
+ {
+   "payment_id": 16387,
+   "customer_id": 447,
+   "staff_id": 1,
+   "rental_id": 461,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 18:37:21.996577"
+ },
+ {
+   "payment_id": 16388,
+   "customer_id": 447,
+   "staff_id": 2,
+   "rental_id": 732,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 06:01:17.996577"
+ },
+ {
+   "payment_id": 16389,
+   "customer_id": 448,
+   "staff_id": 1,
+   "rental_id": 299,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 19:24:02.996577"
+ },
+ {
+   "payment_id": 16390,
+   "customer_id": 448,
+   "staff_id": 2,
+   "rental_id": 1123,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 15:17:09.996577"
+ },
+ {
+   "payment_id": 16391,
+   "customer_id": 449,
+   "staff_id": 2,
+   "rental_id": 263,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 14:16:06.996577"
+ },
+ {
+   "payment_id": 16392,
+   "customer_id": 449,
+   "staff_id": 2,
+   "rental_id": 325,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 23:38:21.996577"
+ },
+ {
+   "payment_id": 16393,
+   "customer_id": 449,
+   "staff_id": 1,
+   "rental_id": 849,
+   "amount": 7.99,
+   "payment_date": "2007-01-29 23:51:33.996577"
+ },
+ {
+   "payment_id": 16394,
+   "customer_id": 450,
+   "staff_id": 2,
+   "rental_id": 548,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 06:03:22.996577"
+ },
+ {
+   "payment_id": 16395,
+   "customer_id": 451,
+   "staff_id": 2,
+   "rental_id": 77,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 10:00:25.996577"
+ },
+ {
+   "payment_id": 16396,
+   "customer_id": 451,
+   "staff_id": 2,
+   "rental_id": 328,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 23:57:57.996577"
+ },
+ {
+   "payment_id": 16397,
+   "customer_id": 451,
+   "staff_id": 2,
+   "rental_id": 1113,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 14:27:10.996577"
+ },
+ {
+   "payment_id": 16398,
+   "customer_id": 452,
+   "staff_id": 1,
+   "rental_id": 354,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 04:40:52.996577"
+ },
+ {
+   "payment_id": 16399,
+   "customer_id": 452,
+   "staff_id": 2,
+   "rental_id": 714,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 02:43:47.996577"
+ },
+ {
+   "payment_id": 16400,
+   "customer_id": 452,
+   "staff_id": 1,
+   "rental_id": 726,
+   "amount": 1.99,
+   "payment_date": "2007-01-29 04:33:55.996577"
+ },
+ {
+   "payment_id": 16401,
+   "customer_id": 454,
+   "staff_id": 1,
+   "rental_id": 735,
+   "amount": 7.99,
+   "payment_date": "2007-01-29 06:36:39.996577"
+ },
+ {
+   "payment_id": 16402,
+   "customer_id": 455,
+   "staff_id": 2,
+   "rental_id": 115,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 17:41:51.996577"
+ },
+ {
+   "payment_id": 16403,
+   "customer_id": 455,
+   "staff_id": 2,
+   "rental_id": 343,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 02:42:07.996577"
+ },
+ {
+   "payment_id": 16404,
+   "customer_id": 456,
+   "staff_id": 2,
+   "rental_id": 19,
+   "amount": 4.99,
+   "payment_date": "2007-01-24 23:45:50.996577"
+ },
+ {
+   "payment_id": 16405,
+   "customer_id": 457,
+   "staff_id": 2,
+   "rental_id": 1024,
+   "amount": 7.99,
+   "payment_date": "2007-01-31 01:58:45.996577"
+ },
+ {
+   "payment_id": 16406,
+   "customer_id": 459,
+   "staff_id": 2,
+   "rental_id": 2,
+   "amount": 2.99,
+   "payment_date": "2007-01-24 21:22:59.996577"
+ },
+ {
+   "payment_id": 16407,
+   "customer_id": 460,
+   "staff_id": 1,
+   "rental_id": 223,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 08:43:49.996577"
+ },
+ {
+   "payment_id": 16408,
+   "customer_id": 460,
+   "staff_id": 2,
+   "rental_id": 298,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 19:20:52.996577"
+ },
+ {
+   "payment_id": 16409,
+   "customer_id": 460,
+   "staff_id": 1,
+   "rental_id": 880,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 04:40:59.996577"
+ },
+ {
+   "payment_id": 16410,
+   "customer_id": 460,
+   "staff_id": 2,
+   "rental_id": 1064,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 07:18:33.996577"
+ },
+ {
+   "payment_id": 16411,
+   "customer_id": 461,
+   "staff_id": 1,
+   "rental_id": 684,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 22:41:41.996577"
+ },
+ {
+   "payment_id": 16412,
+   "customer_id": 462,
+   "staff_id": 2,
+   "rental_id": 156,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 23:47:31.996577"
+ },
+ {
+   "payment_id": 16413,
+   "customer_id": 462,
+   "staff_id": 2,
+   "rental_id": 590,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 11:35:16.996577"
+ },
+ {
+   "payment_id": 16414,
+   "customer_id": 463,
+   "staff_id": 1,
+   "rental_id": 560,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 07:21:28.996577"
+ },
+ {
+   "payment_id": 16415,
+   "customer_id": 464,
+   "staff_id": 1,
+   "rental_id": 305,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 19:50:33.996577"
+ },
+ {
+   "payment_id": 16416,
+   "customer_id": 464,
+   "staff_id": 2,
+   "rental_id": 373,
+   "amount": 1.99,
+   "payment_date": "2007-01-27 06:44:51.996577"
+ },
+ {
+   "payment_id": 16417,
+   "customer_id": 465,
+   "staff_id": 2,
+   "rental_id": 640,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 17:11:52.996577"
+ },
+ {
+   "payment_id": 16418,
+   "customer_id": 466,
+   "staff_id": 2,
+   "rental_id": 1104,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 12:58:27.996577"
+ },
+ {
+   "payment_id": 16419,
+   "customer_id": 467,
+   "staff_id": 2,
+   "rental_id": 225,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 08:56:16.996577"
+ },
+ {
+   "payment_id": 16420,
+   "customer_id": 468,
+   "staff_id": 2,
+   "rental_id": 101,
+   "amount": 6.99,
+   "payment_date": "2007-01-25 15:45:30.996577"
+ },
+ {
+   "payment_id": 16421,
+   "customer_id": 468,
+   "staff_id": 1,
+   "rental_id": 186,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 04:01:18.996577"
+ },
+ {
+   "payment_id": 16422,
+   "customer_id": 468,
+   "staff_id": 2,
+   "rental_id": 296,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 19:03:45.996577"
+ },
+ {
+   "payment_id": 16423,
+   "customer_id": 468,
+   "staff_id": 2,
+   "rental_id": 459,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 18:28:30.996577"
+ },
+ {
+   "payment_id": 16424,
+   "customer_id": 468,
+   "staff_id": 1,
+   "rental_id": 673,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 20:35:56.996577"
+ },
+ {
+   "payment_id": 16425,
+   "customer_id": 469,
+   "staff_id": 1,
+   "rental_id": 168,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 01:36:09.996577"
+ },
+ {
+   "payment_id": 16426,
+   "customer_id": 469,
+   "staff_id": 2,
+   "rental_id": 506,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 00:37:45.996577"
+ },
+ {
+   "payment_id": 16427,
+   "customer_id": 469,
+   "staff_id": 2,
+   "rental_id": 529,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 03:02:43.996577"
+ },
+ {
+   "payment_id": 16428,
+   "customer_id": 469,
+   "staff_id": 2,
+   "rental_id": 936,
+   "amount": 1.99,
+   "payment_date": "2007-01-30 12:21:15.996577"
+ },
+ {
+   "payment_id": 16429,
+   "customer_id": 469,
+   "staff_id": 1,
+   "rental_id": 1119,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 15:02:53.996577"
+ },
+ {
+   "payment_id": 16430,
+   "customer_id": 470,
+   "staff_id": 2,
+   "rental_id": 60,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 07:26:51.996577"
+ },
+ {
+   "payment_id": 16431,
+   "customer_id": 471,
+   "staff_id": 1,
+   "rental_id": 616,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 14:14:05.996577"
+ },
+ {
+   "payment_id": 16432,
+   "customer_id": 472,
+   "staff_id": 2,
+   "rental_id": 142,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 22:12:13.996577"
+ },
+ {
+   "payment_id": 16433,
+   "customer_id": 472,
+   "staff_id": 2,
+   "rental_id": 249,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 12:47:35.996577"
+ },
+ {
+   "payment_id": 16434,
+   "customer_id": 472,
+   "staff_id": 2,
+   "rental_id": 800,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 15:56:38.996577"
+ },
+ {
+   "payment_id": 16435,
+   "customer_id": 472,
+   "staff_id": 2,
+   "rental_id": 994,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 22:24:02.996577"
+ },
+ {
+   "payment_id": 16436,
+   "customer_id": 473,
+   "staff_id": 1,
+   "rental_id": 348,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 03:19:22.996577"
+ },
+ {
+   "payment_id": 16437,
+   "customer_id": 473,
+   "staff_id": 2,
+   "rental_id": 942,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 13:34:13.996577"
+ },
+ {
+   "payment_id": 16438,
+   "customer_id": 473,
+   "staff_id": 2,
+   "rental_id": 973,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 18:56:11.996577"
+ },
+ {
+   "payment_id": 16439,
+   "customer_id": 474,
+   "staff_id": 1,
+   "rental_id": 816,
+   "amount": 7.99,
+   "payment_date": "2007-01-29 18:55:05.996577"
+ },
+ {
+   "payment_id": 16440,
+   "customer_id": 475,
+   "staff_id": 2,
+   "rental_id": 417,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 13:35:53.996577"
+ },
+ {
+   "payment_id": 16441,
+   "customer_id": 475,
+   "staff_id": 1,
+   "rental_id": 702,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 00:55:56.996577"
+ },
+ {
+   "payment_id": 16442,
+   "customer_id": 476,
+   "staff_id": 1,
+   "rental_id": 489,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 22:37:38.996577"
+ },
+ {
+   "payment_id": 16443,
+   "customer_id": 476,
+   "staff_id": 1,
+   "rental_id": 771,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 11:27:40.996577"
+ },
+ {
+   "payment_id": 16444,
+   "customer_id": 477,
+   "staff_id": 1,
+   "rental_id": 882,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 04:44:32.996577"
+ },
+ {
+   "payment_id": 16445,
+   "customer_id": 479,
+   "staff_id": 2,
+   "rental_id": 132,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 20:15:20.996577"
+ },
+ {
+   "payment_id": 16446,
+   "customer_id": 479,
+   "staff_id": 1,
+   "rental_id": 709,
+   "amount": 7.99,
+   "payment_date": "2007-01-29 02:16:27.996577"
+ },
+ {
+   "payment_id": 16447,
+   "customer_id": 480,
+   "staff_id": 1,
+   "rental_id": 518,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 01:46:28.996577"
+ },
+ {
+   "payment_id": 16448,
+   "customer_id": 480,
+   "staff_id": 1,
+   "rental_id": 720,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 03:45:56.996577"
+ },
+ {
+   "payment_id": 16449,
+   "customer_id": 480,
+   "staff_id": 2,
+   "rental_id": 822,
+   "amount": 9.99,
+   "payment_date": "2007-01-29 20:04:26.996577"
+ },
+ {
+   "payment_id": 16450,
+   "customer_id": 481,
+   "staff_id": 2,
+   "rental_id": 1109,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 13:40:41.996577"
+ },
+ {
+   "payment_id": 16451,
+   "customer_id": 482,
+   "staff_id": 1,
+   "rental_id": 259,
+   "amount": 8.99,
+   "payment_date": "2007-01-26 14:01:12.996577"
+ },
+ {
+   "payment_id": 16452,
+   "customer_id": 482,
+   "staff_id": 2,
+   "rental_id": 680,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 21:55:52.996577"
+ },
+ {
+   "payment_id": 16453,
+   "customer_id": 482,
+   "staff_id": 2,
+   "rental_id": 879,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 04:18:08.996577"
+ },
+ {
+   "payment_id": 16454,
+   "customer_id": 483,
+   "staff_id": 2,
+   "rental_id": 742,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 07:04:56.996577"
+ },
+ {
+   "payment_id": 16455,
+   "customer_id": 484,
+   "staff_id": 2,
+   "rental_id": 35,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 02:53:02.996577"
+ },
+ {
+   "payment_id": 16456,
+   "customer_id": 484,
+   "staff_id": 2,
+   "rental_id": 668,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 20:23:11.996577"
+ },
+ {
+   "payment_id": 16457,
+   "customer_id": 484,
+   "staff_id": 2,
+   "rental_id": 727,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 04:36:41.996577"
+ },
+ {
+   "payment_id": 16458,
+   "customer_id": 485,
+   "staff_id": 1,
+   "rental_id": 1009,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 00:16:01.996577"
+ },
+ {
+   "payment_id": 16459,
+   "customer_id": 486,
+   "staff_id": 1,
+   "rental_id": 909,
+   "amount": 8.99,
+   "payment_date": "2007-01-30 09:12:04.996577"
+ },
+ {
+   "payment_id": 16460,
+   "customer_id": 486,
+   "staff_id": 2,
+   "rental_id": 946,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 14:03:34.996577"
+ },
+ {
+   "payment_id": 16461,
+   "customer_id": 486,
+   "staff_id": 2,
+   "rental_id": 1129,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 16:29:14.996577"
+ },
+ {
+   "payment_id": 16462,
+   "customer_id": 489,
+   "staff_id": 1,
+   "rental_id": 219,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 08:10:11.996577"
+ },
+ {
+   "payment_id": 16463,
+   "customer_id": 489,
+   "staff_id": 2,
+   "rental_id": 513,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 01:36:36.996577"
+ },
+ {
+   "payment_id": 16464,
+   "customer_id": 490,
+   "staff_id": 2,
+   "rental_id": 585,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 10:19:11.996577"
+ },
+ {
+   "payment_id": 16465,
+   "customer_id": 490,
+   "staff_id": 2,
+   "rental_id": 676,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 20:56:17.996577"
+ },
+ {
+   "payment_id": 16466,
+   "customer_id": 491,
+   "staff_id": 1,
+   "rental_id": 484,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 21:55:11.996577"
+ },
+ {
+   "payment_id": 16467,
+   "customer_id": 491,
+   "staff_id": 2,
+   "rental_id": 1097,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 12:07:08.996577"
+ },
+ {
+   "payment_id": 16468,
+   "customer_id": 492,
+   "staff_id": 1,
+   "rental_id": 84,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 11:04:56.996577"
+ },
+ {
+   "payment_id": 16469,
+   "customer_id": 493,
+   "staff_id": 1,
+   "rental_id": 543,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 05:12:00.996577"
+ },
+ {
+   "payment_id": 16470,
+   "customer_id": 494,
+   "staff_id": 1,
+   "rental_id": 608,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 13:32:10.996577"
+ },
+ {
+   "payment_id": 16471,
+   "customer_id": 495,
+   "staff_id": 2,
+   "rental_id": 623,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 14:29:54.996577"
+ },
+ {
+   "payment_id": 16472,
+   "customer_id": 495,
+   "staff_id": 2,
+   "rental_id": 741,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 07:04:15.996577"
+ },
+ {
+   "payment_id": 16473,
+   "customer_id": 496,
+   "staff_id": 2,
+   "rental_id": 322,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 23:16:01.996577"
+ },
+ {
+   "payment_id": 16474,
+   "customer_id": 496,
+   "staff_id": 2,
+   "rental_id": 966,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 17:29:03.996577"
+ },
+ {
+   "payment_id": 16475,
+   "customer_id": 497,
+   "staff_id": 1,
+   "rental_id": 1100,
+   "amount": 7.99,
+   "payment_date": "2007-01-31 12:31:47.996577"
+ },
+ {
+   "payment_id": 16476,
+   "customer_id": 498,
+   "staff_id": 2,
+   "rental_id": 49,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 05:08:01.996577"
+ },
+ {
+   "payment_id": 16477,
+   "customer_id": 498,
+   "staff_id": 1,
+   "rental_id": 429,
+   "amount": 8.99,
+   "payment_date": "2007-01-27 14:49:52.996577"
+ },
+ {
+   "payment_id": 16478,
+   "customer_id": 498,
+   "staff_id": 2,
+   "rental_id": 718,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 03:20:49.996577"
+ },
+ {
+   "payment_id": 16479,
+   "customer_id": 499,
+   "staff_id": 2,
+   "rental_id": 89,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 12:56:55.996577"
+ },
+ {
+   "payment_id": 16480,
+   "customer_id": 500,
+   "staff_id": 1,
+   "rental_id": 112,
+   "amount": 8.99,
+   "payment_date": "2007-01-25 17:25:50.996577"
+ },
+ {
+   "payment_id": 16481,
+   "customer_id": 500,
+   "staff_id": 1,
+   "rental_id": 389,
+   "amount": 8.99,
+   "payment_date": "2007-01-27 09:14:07.996577"
+ },
+ {
+   "payment_id": 16482,
+   "customer_id": 500,
+   "staff_id": 1,
+   "rental_id": 610,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 13:43:51.996577"
+ },
+ {
+   "payment_id": 16483,
+   "customer_id": 501,
+   "staff_id": 1,
+   "rental_id": 493,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 23:02:37.996577"
+ },
+ {
+   "payment_id": 16484,
+   "customer_id": 501,
+   "staff_id": 1,
+   "rental_id": 605,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 13:07:36.996577"
+ },
+ {
+   "payment_id": 16485,
+   "customer_id": 502,
+   "staff_id": 2,
+   "rental_id": 258,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 13:56:40.996577"
+ },
+ {
+   "payment_id": 16486,
+   "customer_id": 502,
+   "staff_id": 1,
+   "rental_id": 861,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 01:16:58.996577"
+ },
+ {
+   "payment_id": 16487,
+   "customer_id": 502,
+   "staff_id": 1,
+   "rental_id": 893,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 06:35:25.996577"
+ },
+ {
+   "payment_id": 16488,
+   "customer_id": 502,
+   "staff_id": 2,
+   "rental_id": 965,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 17:28:40.996577"
+ },
+ {
+   "payment_id": 16489,
+   "customer_id": 503,
+   "staff_id": 2,
+   "rental_id": 109,
+   "amount": 1.99,
+   "payment_date": "2007-01-25 17:08:46.996577"
+ },
+ {
+   "payment_id": 16490,
+   "customer_id": 503,
+   "staff_id": 1,
+   "rental_id": 353,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 04:32:05.996577"
+ },
+ {
+   "payment_id": 16491,
+   "customer_id": 503,
+   "staff_id": 1,
+   "rental_id": 631,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 16:04:58.996577"
+ },
+ {
+   "payment_id": 16492,
+   "customer_id": 503,
+   "staff_id": 1,
+   "rental_id": 1074,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 08:33:08.996577"
+ },
+ {
+   "payment_id": 16493,
+   "customer_id": 504,
+   "staff_id": 2,
+   "rental_id": 136,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 20:30:56.996577"
+ },
+ {
+   "payment_id": 16494,
+   "customer_id": 504,
+   "staff_id": 2,
+   "rental_id": 470,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 19:45:34.996577"
+ },
+ {
+   "payment_id": 16495,
+   "customer_id": 504,
+   "staff_id": 1,
+   "rental_id": 838,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 22:56:23.996577"
+ },
+ {
+   "payment_id": 16496,
+   "customer_id": 505,
+   "staff_id": 1,
+   "rental_id": 159,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 00:02:54.996577"
+ },
+ {
+   "payment_id": 16497,
+   "customer_id": 505,
+   "staff_id": 1,
+   "rental_id": 645,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 17:42:35.996577"
+ },
+ {
+   "payment_id": 16498,
+   "customer_id": 506,
+   "staff_id": 1,
+   "rental_id": 114,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 17:41:08.996577"
+ },
+ {
+   "payment_id": 16499,
+   "customer_id": 506,
+   "staff_id": 2,
+   "rental_id": 387,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 09:03:53.996577"
+ },
+ {
+   "payment_id": 16500,
+   "customer_id": 506,
+   "staff_id": 2,
+   "rental_id": 410,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 12:39:48.996577"
+ },
+ {
+   "payment_id": 16501,
+   "customer_id": 506,
+   "staff_id": 1,
+   "rental_id": 547,
+   "amount": 8.99,
+   "payment_date": "2007-01-28 05:52:54.996577"
+ },
+ {
+   "payment_id": 16502,
+   "customer_id": 506,
+   "staff_id": 2,
+   "rental_id": 907,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 09:05:53.996577"
+ },
+ {
+   "payment_id": 16503,
+   "customer_id": 506,
+   "staff_id": 1,
+   "rental_id": 1042,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 04:21:26.996577"
+ },
+ {
+   "payment_id": 16504,
+   "customer_id": 506,
+   "staff_id": 2,
+   "rental_id": 1153,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 20:05:10.996577"
+ },
+ {
+   "payment_id": 16505,
+   "customer_id": 507,
+   "staff_id": 1,
+   "rental_id": 52,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 05:19:55.996577"
+ },
+ {
+   "payment_id": 16506,
+   "customer_id": 507,
+   "staff_id": 2,
+   "rental_id": 713,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 02:38:43.996577"
+ },
+ {
+   "payment_id": 16507,
+   "customer_id": 508,
+   "staff_id": 1,
+   "rental_id": 369,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 06:15:15.996577"
+ },
+ {
+   "payment_id": 16508,
+   "customer_id": 508,
+   "staff_id": 2,
+   "rental_id": 921,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 10:21:35.996577"
+ },
+ {
+   "payment_id": 16509,
+   "customer_id": 509,
+   "staff_id": 1,
+   "rental_id": 22,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 00:47:49.996577"
+ },
+ {
+   "payment_id": 16510,
+   "customer_id": 509,
+   "staff_id": 1,
+   "rental_id": 831,
+   "amount": 8.99,
+   "payment_date": "2007-01-29 21:18:51.996577"
+ },
+ {
+   "payment_id": 16511,
+   "customer_id": 510,
+   "staff_id": 1,
+   "rental_id": 75,
+   "amount": 8.99,
+   "payment_date": "2007-01-25 09:42:00.996577"
+ },
+ {
+   "payment_id": 16512,
+   "customer_id": 510,
+   "staff_id": 1,
+   "rental_id": 372,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 06:42:24.996577"
+ },
+ {
+   "payment_id": 16513,
+   "customer_id": 510,
+   "staff_id": 2,
+   "rental_id": 1118,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 14:51:28.996577"
+ },
+ {
+   "payment_id": 16514,
+   "customer_id": 511,
+   "staff_id": 1,
+   "rental_id": 56,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 06:56:37.996577"
+ },
+ {
+   "payment_id": 16515,
+   "customer_id": 511,
+   "staff_id": 1,
+   "rental_id": 819,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 19:28:58.996577"
+ },
+ {
+   "payment_id": 16516,
+   "customer_id": 513,
+   "staff_id": 2,
+   "rental_id": 993,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 22:22:45.996577"
+ },
+ {
+   "payment_id": 16517,
+   "customer_id": 514,
+   "staff_id": 2,
+   "rental_id": 536,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 04:45:59.996577"
+ },
+ {
+   "payment_id": 16518,
+   "customer_id": 515,
+   "staff_id": 2,
+   "rental_id": 187,
+   "amount": 8.99,
+   "payment_date": "2007-01-26 04:11:03.996577"
+ },
+ {
+   "payment_id": 16519,
+   "customer_id": 515,
+   "staff_id": 2,
+   "rental_id": 292,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 18:50:38.996577"
+ },
+ {
+   "payment_id": 16520,
+   "customer_id": 516,
+   "staff_id": 2,
+   "rental_id": 339,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 02:15:44.996577"
+ },
+ {
+   "payment_id": 16521,
+   "customer_id": 516,
+   "staff_id": 1,
+   "rental_id": 571,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 08:46:07.996577"
+ },
+ {
+   "payment_id": 16522,
+   "customer_id": 517,
+   "staff_id": 2,
+   "rental_id": 850,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 00:03:38.996577"
+ },
+ {
+   "payment_id": 16523,
+   "customer_id": 518,
+   "staff_id": 1,
+   "rental_id": 710,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 02:17:02.996577"
+ },
+ {
+   "payment_id": 16524,
+   "customer_id": 519,
+   "staff_id": 1,
+   "rental_id": 1056,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 06:16:33.996577"
+ },
+ {
+   "payment_id": 16525,
+   "customer_id": 520,
+   "staff_id": 1,
+   "rental_id": 962,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 17:13:43.996577"
+ },
+ {
+   "payment_id": 16526,
+   "customer_id": 522,
+   "staff_id": 2,
+   "rental_id": 426,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 14:25:23.996577"
+ },
+ {
+   "payment_id": 16527,
+   "customer_id": 523,
+   "staff_id": 1,
+   "rental_id": 42,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 03:53:24.996577"
+ },
+ {
+   "payment_id": 16528,
+   "customer_id": 523,
+   "staff_id": 2,
+   "rental_id": 664,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 19:59:34.996577"
+ },
+ {
+   "payment_id": 16529,
+   "customer_id": 524,
+   "staff_id": 2,
+   "rental_id": 118,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 17:59:44.996577"
+ },
+ {
+   "payment_id": 16530,
+   "customer_id": 524,
+   "staff_id": 1,
+   "rental_id": 982,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 20:43:50.996577"
+ },
+ {
+   "payment_id": 16531,
+   "customer_id": 525,
+   "staff_id": 1,
+   "rental_id": 437,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 16:15:48.996577"
+ },
+ {
+   "payment_id": 16532,
+   "customer_id": 526,
+   "staff_id": 1,
+   "rental_id": 495,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 23:09:14.996577"
+ },
+ {
+   "payment_id": 16533,
+   "customer_id": 526,
+   "staff_id": 2,
+   "rental_id": 679,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 21:53:23.996577"
+ },
+ {
+   "payment_id": 16534,
+   "customer_id": 526,
+   "staff_id": 2,
+   "rental_id": 1015,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 01:13:23.996577"
+ },
+ {
+   "payment_id": 16535,
+   "customer_id": 528,
+   "staff_id": 1,
+   "rental_id": 204,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 05:59:03.996577"
+ },
+ {
+   "payment_id": 16536,
+   "customer_id": 528,
+   "staff_id": 2,
+   "rental_id": 472,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 20:04:41.996577"
+ },
+ {
+   "payment_id": 16537,
+   "customer_id": 528,
+   "staff_id": 1,
+   "rental_id": 533,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 04:43:12.996577"
+ },
+ {
+   "payment_id": 16538,
+   "customer_id": 528,
+   "staff_id": 2,
+   "rental_id": 695,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 00:19:19.996577"
+ },
+ {
+   "payment_id": 16539,
+   "customer_id": 528,
+   "staff_id": 2,
+   "rental_id": 793,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 15:12:34.996577"
+ },
+ {
+   "payment_id": 16540,
+   "customer_id": 529,
+   "staff_id": 1,
+   "rental_id": 453,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 17:59:42.996577"
+ },
+ {
+   "payment_id": 16541,
+   "customer_id": 530,
+   "staff_id": 1,
+   "rental_id": 851,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 00:03:41.996577"
+ },
+ {
+   "payment_id": 16542,
+   "customer_id": 531,
+   "staff_id": 1,
+   "rental_id": 233,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 10:12:10.996577"
+ },
+ {
+   "payment_id": 16543,
+   "customer_id": 531,
+   "staff_id": 1,
+   "rental_id": 681,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 22:08:10.996577"
+ },
+ {
+   "payment_id": 16544,
+   "customer_id": 532,
+   "staff_id": 1,
+   "rental_id": 43,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 04:07:51.996577"
+ },
+ {
+   "payment_id": 16545,
+   "customer_id": 533,
+   "staff_id": 1,
+   "rental_id": 173,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 02:10:36.996577"
+ },
+ {
+   "payment_id": 16546,
+   "customer_id": 533,
+   "staff_id": 2,
+   "rental_id": 190,
+   "amount": 1.99,
+   "payment_date": "2007-01-26 04:39:54.996577"
+ },
+ {
+   "payment_id": 16547,
+   "customer_id": 533,
+   "staff_id": 1,
+   "rental_id": 615,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 14:04:18.996577"
+ },
+ {
+   "payment_id": 16548,
+   "customer_id": 534,
+   "staff_id": 2,
+   "rental_id": 304,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 19:49:54.996577"
+ },
+ {
+   "payment_id": 16549,
+   "customer_id": 534,
+   "staff_id": 2,
+   "rental_id": 940,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 13:29:28.996577"
+ },
+ {
+   "payment_id": 16550,
+   "customer_id": 535,
+   "staff_id": 1,
+   "rental_id": 37,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 03:12:57.996577"
+ },
+ {
+   "payment_id": 16551,
+   "customer_id": 535,
+   "staff_id": 2,
+   "rental_id": 541,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 05:10:24.996577"
+ },
+ {
+   "payment_id": 16552,
+   "customer_id": 535,
+   "staff_id": 1,
+   "rental_id": 778,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 12:38:19.996577"
+ },
+ {
+   "payment_id": 16553,
+   "customer_id": 535,
+   "staff_id": 2,
+   "rental_id": 959,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 16:35:26.996577"
+ },
+ {
+   "payment_id": 16554,
+   "customer_id": 536,
+   "staff_id": 1,
+   "rental_id": 237,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 10:43:39.996577"
+ },
+ {
+   "payment_id": 16555,
+   "customer_id": 536,
+   "staff_id": 1,
+   "rental_id": 929,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 11:01:05.996577"
+ },
+ {
+   "payment_id": 16556,
+   "customer_id": 537,
+   "staff_id": 2,
+   "rental_id": 603,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 12:56:17.996577"
+ },
+ {
+   "payment_id": 16557,
+   "customer_id": 538,
+   "staff_id": 2,
+   "rental_id": 594,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 12:10:22.996577"
+ },
+ {
+   "payment_id": 16558,
+   "customer_id": 538,
+   "staff_id": 2,
+   "rental_id": 734,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 06:07:18.996577"
+ },
+ {
+   "payment_id": 16559,
+   "customer_id": 539,
+   "staff_id": 2,
+   "rental_id": 250,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 12:58:50.996577"
+ },
+ {
+   "payment_id": 16560,
+   "customer_id": 539,
+   "staff_id": 1,
+   "rental_id": 342,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 02:39:30.996577"
+ },
+ {
+   "payment_id": 16561,
+   "customer_id": 541,
+   "staff_id": 1,
+   "rental_id": 1021,
+   "amount": 7.99,
+   "payment_date": "2007-01-31 01:44:41.996577"
+ },
+ {
+   "payment_id": 16562,
+   "customer_id": 541,
+   "staff_id": 1,
+   "rental_id": 1066,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 07:35:59.996577"
+ },
+ {
+   "payment_id": 16563,
+   "customer_id": 542,
+   "staff_id": 1,
+   "rental_id": 220,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 08:35:15.996577"
+ },
+ {
+   "payment_id": 16564,
+   "customer_id": 542,
+   "staff_id": 2,
+   "rental_id": 376,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 07:26:41.996577"
+ },
+ {
+   "payment_id": 16565,
+   "customer_id": 543,
+   "staff_id": 1,
+   "rental_id": 243,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 11:34:31.996577"
+ },
+ {
+   "payment_id": 16566,
+   "customer_id": 543,
+   "staff_id": 2,
+   "rental_id": 476,
+   "amount": 1.99,
+   "payment_date": "2007-01-27 21:00:02.996577"
+ },
+ {
+   "payment_id": 16567,
+   "customer_id": 544,
+   "staff_id": 1,
+   "rental_id": 397,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 10:57:28.996577"
+ },
+ {
+   "payment_id": 16568,
+   "customer_id": 544,
+   "staff_id": 1,
+   "rental_id": 864,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 01:55:43.996577"
+ },
+ {
+   "payment_id": 16569,
+   "customer_id": 545,
+   "staff_id": 2,
+   "rental_id": 248,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 12:36:24.996577"
+ },
+ {
+   "payment_id": 16570,
+   "customer_id": 545,
+   "staff_id": 2,
+   "rental_id": 715,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 02:51:07.996577"
+ },
+ {
+   "payment_id": 16571,
+   "customer_id": 546,
+   "staff_id": 1,
+   "rental_id": 197,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 05:27:47.996577"
+ },
+ {
+   "payment_id": 16572,
+   "customer_id": 546,
+   "staff_id": 1,
+   "rental_id": 482,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 21:21:28.996577"
+ },
+ {
+   "payment_id": 16573,
+   "customer_id": 547,
+   "staff_id": 1,
+   "rental_id": 306,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 20:00:23.996577"
+ },
+ {
+   "payment_id": 16574,
+   "customer_id": 547,
+   "staff_id": 2,
+   "rental_id": 443,
+   "amount": 8.99,
+   "payment_date": "2007-01-27 17:03:46.996577"
+ },
+ {
+   "payment_id": 16575,
+   "customer_id": 547,
+   "staff_id": 2,
+   "rental_id": 1094,
+   "amount": 1.99,
+   "payment_date": "2007-01-31 11:32:15.996577"
+ },
+ {
+   "payment_id": 16576,
+   "customer_id": 548,
+   "staff_id": 2,
+   "rental_id": 177,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 02:42:55.996577"
+ },
+ {
+   "payment_id": 16577,
+   "customer_id": 548,
+   "staff_id": 1,
+   "rental_id": 743,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 07:07:28.996577"
+ },
+ {
+   "payment_id": 16578,
+   "customer_id": 548,
+   "staff_id": 2,
+   "rental_id": 872,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 03:31:30.996577"
+ },
+ {
+   "payment_id": 16579,
+   "customer_id": 549,
+   "staff_id": 1,
+   "rental_id": 6,
+   "amount": 0.99,
+   "payment_date": "2007-01-24 21:36:33.996577"
+ },
+ {
+   "payment_id": 16580,
+   "customer_id": 549,
+   "staff_id": 2,
+   "rental_id": 852,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 00:05:23.996577"
+ },
+ {
+   "payment_id": 16581,
+   "customer_id": 549,
+   "staff_id": 1,
+   "rental_id": 906,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 08:59:04.996577"
+ },
+ {
+   "payment_id": 16582,
+   "customer_id": 549,
+   "staff_id": 2,
+   "rental_id": 1086,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 09:46:03.996577"
+ },
+ {
+   "payment_id": 16583,
+   "customer_id": 550,
+   "staff_id": 2,
+   "rental_id": 922,
+   "amount": 7.99,
+   "payment_date": "2007-01-30 10:24:21.996577"
+ },
+ {
+   "payment_id": 16584,
+   "customer_id": 551,
+   "staff_id": 2,
+   "rental_id": 155,
+   "amount": 7.99,
+   "payment_date": "2007-01-25 23:43:31.996577"
+ },
+ {
+   "payment_id": 16585,
+   "customer_id": 551,
+   "staff_id": 1,
+   "rental_id": 728,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 04:41:04.996577"
+ },
+ {
+   "payment_id": 16586,
+   "customer_id": 551,
+   "staff_id": 1,
+   "rental_id": 795,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 15:26:05.996577"
+ },
+ {
+   "payment_id": 16587,
+   "customer_id": 551,
+   "staff_id": 2,
+   "rental_id": 969,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 17:52:14.996577"
+ },
+ {
+   "payment_id": 16588,
+   "customer_id": 551,
+   "staff_id": 2,
+   "rental_id": 1005,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 23:21:51.996577"
+ },
+ {
+   "payment_id": 16589,
+   "customer_id": 552,
+   "staff_id": 2,
+   "rental_id": 174,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 02:12:36.996577"
+ },
+ {
+   "payment_id": 16590,
+   "customer_id": 553,
+   "staff_id": 2,
+   "rental_id": 789,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 14:45:33.996577"
+ },
+ {
+   "payment_id": 16591,
+   "customer_id": 554,
+   "staff_id": 1,
+   "rental_id": 607,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 13:31:07.996577"
+ },
+ {
+   "payment_id": 16592,
+   "customer_id": 554,
+   "staff_id": 1,
+   "rental_id": 817,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 19:07:40.996577"
+ },
+ {
+   "payment_id": 16593,
+   "customer_id": 556,
+   "staff_id": 1,
+   "rental_id": 184,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 03:58:15.996577"
+ },
+ {
+   "payment_id": 16594,
+   "customer_id": 556,
+   "staff_id": 2,
+   "rental_id": 772,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 11:36:32.996577"
+ },
+ {
+   "payment_id": 16595,
+   "customer_id": 556,
+   "staff_id": 1,
+   "rental_id": 1083,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 09:33:14.996577"
+ },
+ {
+   "payment_id": 16596,
+   "customer_id": 557,
+   "staff_id": 2,
+   "rental_id": 467,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 19:38:29.996577"
+ },
+ {
+   "payment_id": 16597,
+   "customer_id": 557,
+   "staff_id": 1,
+   "rental_id": 478,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 21:06:46.996577"
+ },
+ {
+   "payment_id": 16598,
+   "customer_id": 560,
+   "staff_id": 1,
+   "rental_id": 137,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 20:53:44.996577"
+ },
+ {
+   "payment_id": 16599,
+   "customer_id": 561,
+   "staff_id": 1,
+   "rental_id": 902,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 08:22:02.996577"
+ },
+ {
+   "payment_id": 16600,
+   "customer_id": 561,
+   "staff_id": 2,
+   "rental_id": 971,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 18:39:18.996577"
+ },
+ {
+   "payment_id": 16601,
+   "customer_id": 562,
+   "staff_id": 2,
+   "rental_id": 788,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 14:42:21.996577"
+ },
+ {
+   "payment_id": 16602,
+   "customer_id": 562,
+   "staff_id": 1,
+   "rental_id": 941,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 13:30:51.996577"
+ },
+ {
+   "payment_id": 16603,
+   "customer_id": 562,
+   "staff_id": 1,
+   "rental_id": 1139,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 18:03:18.996577"
+ },
+ {
+   "payment_id": 16604,
+   "customer_id": 563,
+   "staff_id": 1,
+   "rental_id": 758,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 09:00:22.996577"
+ },
+ {
+   "payment_id": 16605,
+   "customer_id": 563,
+   "staff_id": 2,
+   "rental_id": 773,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 11:46:31.996577"
+ },
+ {
+   "payment_id": 16606,
+   "customer_id": 564,
+   "staff_id": 2,
+   "rental_id": 195,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 05:21:02.996577"
+ },
+ {
+   "payment_id": 16607,
+   "customer_id": 564,
+   "staff_id": 1,
+   "rental_id": 985,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 20:47:01.996577"
+ },
+ {
+   "payment_id": 16608,
+   "customer_id": 565,
+   "staff_id": 1,
+   "rental_id": 458,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 18:27:02.996577"
+ },
+ {
+   "payment_id": 16609,
+   "customer_id": 565,
+   "staff_id": 1,
+   "rental_id": 1004,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 23:17:02.996577"
+ },
+ {
+   "payment_id": 16610,
+   "customer_id": 566,
+   "staff_id": 2,
+   "rental_id": 234,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 10:15:46.996577"
+ },
+ {
+   "payment_id": 16611,
+   "customer_id": 566,
+   "staff_id": 2,
+   "rental_id": 768,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 10:59:12.996577"
+ },
+ {
+   "payment_id": 16612,
+   "customer_id": 569,
+   "staff_id": 2,
+   "rental_id": 53,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 05:47:42.996577"
+ },
+ {
+   "payment_id": 16613,
+   "customer_id": 569,
+   "staff_id": 1,
+   "rental_id": 487,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 22:28:56.996577"
+ },
+ {
+   "payment_id": 16614,
+   "customer_id": 569,
+   "staff_id": 1,
+   "rental_id": 624,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 14:41:48.996577"
+ },
+ {
+   "payment_id": 16615,
+   "customer_id": 569,
+   "staff_id": 1,
+   "rental_id": 647,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 17:51:18.996577"
+ },
+ {
+   "payment_id": 16616,
+   "customer_id": 569,
+   "staff_id": 2,
+   "rental_id": 1037,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 03:50:51.996577"
+ },
+ {
+   "payment_id": 16617,
+   "customer_id": 570,
+   "staff_id": 2,
+   "rental_id": 1060,
+   "amount": 7.99,
+   "payment_date": "2007-01-31 06:50:09.996577"
+ },
+ {
+   "payment_id": 16618,
+   "customer_id": 571,
+   "staff_id": 1,
+   "rental_id": 228,
+   "amount": 9.99,
+   "payment_date": "2007-01-26 09:22:54.996577"
+ },
+ {
+   "payment_id": 16619,
+   "customer_id": 571,
+   "staff_id": 2,
+   "rental_id": 689,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 23:15:19.996577"
+ },
+ {
+   "payment_id": 16620,
+   "customer_id": 572,
+   "staff_id": 2,
+   "rental_id": 559,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 07:07:28.996577"
+ },
+ {
+   "payment_id": 16621,
+   "customer_id": 573,
+   "staff_id": 2,
+   "rental_id": 827,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 20:27:09.996577"
+ },
+ {
+   "payment_id": 16622,
+   "customer_id": 574,
+   "staff_id": 2,
+   "rental_id": 433,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 15:09:06.996577"
+ },
+ {
+   "payment_id": 16623,
+   "customer_id": 575,
+   "staff_id": 1,
+   "rental_id": 17,
+   "amount": 2.99,
+   "payment_date": "2007-01-24 23:35:02.996577"
+ },
+ {
+   "payment_id": 16624,
+   "customer_id": 575,
+   "staff_id": 1,
+   "rental_id": 395,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 10:14:15.996577"
+ },
+ {
+   "payment_id": 16625,
+   "customer_id": 575,
+   "staff_id": 2,
+   "rental_id": 454,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 18:00:02.996577"
+ },
+ {
+   "payment_id": 16626,
+   "customer_id": 575,
+   "staff_id": 2,
+   "rental_id": 769,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 11:20:10.996577"
+ },
+ {
+   "payment_id": 16627,
+   "customer_id": 575,
+   "staff_id": 1,
+   "rental_id": 774,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 11:48:09.996577"
+ },
+ {
+   "payment_id": 16628,
+   "customer_id": 576,
+   "staff_id": 2,
+   "rental_id": 755,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 08:54:55.996577"
+ },
+ {
+   "payment_id": 16629,
+   "customer_id": 576,
+   "staff_id": 1,
+   "rental_id": 968,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 17:48:29.996577"
+ },
+ {
+   "payment_id": 16630,
+   "customer_id": 577,
+   "staff_id": 2,
+   "rental_id": 291,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 18:49:13.996577"
+ },
+ {
+   "payment_id": 16631,
+   "customer_id": 578,
+   "staff_id": 2,
+   "rental_id": 660,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 19:21:57.996577"
+ },
+ {
+   "payment_id": 16632,
+   "customer_id": 580,
+   "staff_id": 1,
+   "rental_id": 611,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 13:46:44.996577"
+ },
+ {
+   "payment_id": 16633,
+   "customer_id": 581,
+   "staff_id": 1,
+   "rental_id": 976,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 19:39:45.996577"
+ },
+ {
+   "payment_id": 16634,
+   "customer_id": 581,
+   "staff_id": 1,
+   "rental_id": 1151,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 19:57:26.996577"
+ },
+ {
+   "payment_id": 16635,
+   "customer_id": 582,
+   "staff_id": 1,
+   "rental_id": 281,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 17:18:01.996577"
+ },
+ {
+   "payment_id": 16636,
+   "customer_id": 584,
+   "staff_id": 2,
+   "rental_id": 379,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 07:53:58.996577"
+ },
+ {
+   "payment_id": 16637,
+   "customer_id": 584,
+   "staff_id": 1,
+   "rental_id": 626,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 15:26:35.996577"
+ },
+ {
+   "payment_id": 16638,
+   "customer_id": 584,
+   "staff_id": 1,
+   "rental_id": 920,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 10:12:27.996577"
+ },
+ {
+   "payment_id": 16639,
+   "customer_id": 586,
+   "staff_id": 1,
+   "rental_id": 138,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 21:16:48.996577"
+ },
+ {
+   "payment_id": 16640,
+   "customer_id": 586,
+   "staff_id": 1,
+   "rental_id": 900,
+   "amount": 8.99,
+   "payment_date": "2007-01-30 08:07:07.996577"
+ },
+ {
+   "payment_id": 16641,
+   "customer_id": 587,
+   "staff_id": 1,
+   "rental_id": 181,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 03:15:32.996577"
+ },
+ {
+   "payment_id": 16642,
+   "customer_id": 587,
+   "staff_id": 1,
+   "rental_id": 361,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 05:31:54.996577"
+ },
+ {
+   "payment_id": 16643,
+   "customer_id": 588,
+   "staff_id": 1,
+   "rental_id": 576,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 09:24:36.996577"
+ },
+ {
+   "payment_id": 16644,
+   "customer_id": 588,
+   "staff_id": 1,
+   "rental_id": 961,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 16:45:10.996577"
+ },
+ {
+   "payment_id": 16645,
+   "customer_id": 589,
+   "staff_id": 1,
+   "rental_id": 531,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 03:52:04.996577"
+ },
+ {
+   "payment_id": 16646,
+   "customer_id": 589,
+   "staff_id": 1,
+   "rental_id": 596,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 12:28:29.996577"
+ },
+ {
+   "payment_id": 16647,
+   "customer_id": 589,
+   "staff_id": 1,
+   "rental_id": 737,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 06:39:57.996577"
+ },
+ {
+   "payment_id": 16648,
+   "customer_id": 590,
+   "staff_id": 1,
+   "rental_id": 602,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 12:44:20.996577"
+ },
+ {
+   "payment_id": 16649,
+   "customer_id": 593,
+   "staff_id": 1,
+   "rental_id": 790,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 14:47:55.996577"
+ },
+ {
+   "payment_id": 16650,
+   "customer_id": 593,
+   "staff_id": 1,
+   "rental_id": 991,
+   "amount": 8.99,
+   "payment_date": "2007-01-30 21:57:48.996577"
+ },
+ {
+   "payment_id": 16651,
+   "customer_id": 594,
+   "staff_id": 1,
+   "rental_id": 313,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 21:24:45.996577"
+ },
+ {
+   "payment_id": 16652,
+   "customer_id": 594,
+   "staff_id": 1,
+   "rental_id": 360,
+   "amount": 8.99,
+   "payment_date": "2007-01-27 05:19:40.996577"
+ },
+ {
+   "payment_id": 16653,
+   "customer_id": 594,
+   "staff_id": 2,
+   "rental_id": 1018,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 01:22:08.996577"
+ },
+ {
+   "payment_id": 16654,
+   "customer_id": 594,
+   "staff_id": 1,
+   "rental_id": 1045,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 04:57:27.996577"
+ },
+ {
+   "payment_id": 16655,
+   "customer_id": 595,
+   "staff_id": 1,
+   "rental_id": 613,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 13:55:48.996577"
+ },
+ {
+   "payment_id": 16656,
+   "customer_id": 596,
+   "staff_id": 2,
+   "rental_id": 303,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 19:45:18.996577"
+ },
+ {
+   "payment_id": 16657,
+   "customer_id": 596,
+   "staff_id": 2,
+   "rental_id": 625,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 15:04:12.996577"
+ },
+ {
+   "payment_id": 16658,
+   "customer_id": 596,
+   "staff_id": 2,
+   "rental_id": 667,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 20:17:28.996577"
+ },
+ {
+   "payment_id": 16659,
+   "customer_id": 596,
+   "staff_id": 2,
+   "rental_id": 782,
+   "amount": 1.99,
+   "payment_date": "2007-01-29 13:07:23.996577"
+ },
+ {
+   "payment_id": 16660,
+   "customer_id": 596,
+   "staff_id": 1,
+   "rental_id": 914,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 09:34:26.996577"
+ },
+ {
+   "payment_id": 16661,
+   "customer_id": 596,
+   "staff_id": 1,
+   "rental_id": 974,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 18:57:08.996577"
+ },
+ {
+   "payment_id": 16662,
+   "customer_id": 597,
+   "staff_id": 2,
+   "rental_id": 34,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 02:47:54.996577"
+ },
+ {
+   "payment_id": 16663,
+   "customer_id": 597,
+   "staff_id": 2,
+   "rental_id": 514,
+   "amount": 8.99,
+   "payment_date": "2007-01-28 01:37:54.996577"
+ },
+ {
+   "payment_id": 16664,
+   "customer_id": 599,
+   "staff_id": 2,
+   "rental_id": 1008,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 23:47:22.996577"
+ },
+ {
+   "payment_id": 16665,
+   "customer_id": 203,
+   "staff_id": 1,
+   "rental_id": 314,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 21:38:07.996577"
+ },
+ {
+   "payment_id": 16666,
+   "customer_id": 204,
+   "staff_id": 2,
+   "rental_id": 251,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 13:04:06.996577"
+ },
+ {
+   "payment_id": 16667,
+   "customer_id": 204,
+   "staff_id": 2,
+   "rental_id": 399,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 11:17:04.996577"
+ },
+ {
+   "payment_id": 16668,
+   "customer_id": 204,
+   "staff_id": 2,
+   "rental_id": 857,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 00:29:49.996577"
+ },
+ {
+   "payment_id": 16669,
+   "customer_id": 204,
+   "staff_id": 1,
+   "rental_id": 1016,
+   "amount": 1.99,
+   "payment_date": "2007-01-31 01:18:09.996577"
+ },
+ {
+   "payment_id": 16670,
+   "customer_id": 207,
+   "staff_id": 1,
+   "rental_id": 39,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 03:20:12.996577"
+ },
+ {
+   "payment_id": 16671,
+   "customer_id": 207,
+   "staff_id": 1,
+   "rental_id": 44,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 04:21:49.996577"
+ },
+ {
+   "payment_id": 16672,
+   "customer_id": 207,
+   "staff_id": 1,
+   "rental_id": 659,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 18:56:19.996577"
+ },
+ {
+   "payment_id": 16673,
+   "customer_id": 207,
+   "staff_id": 2,
+   "rental_id": 826,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 20:24:41.996577"
+ },
+ {
+   "payment_id": 16674,
+   "customer_id": 207,
+   "staff_id": 2,
+   "rental_id": 896,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 07:32:18.996577"
+ },
+ {
+   "payment_id": 16675,
+   "customer_id": 207,
+   "staff_id": 2,
+   "rental_id": 1144,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 18:32:36.996577"
+ },
+ {
+   "payment_id": 16676,
+   "customer_id": 208,
+   "staff_id": 1,
+   "rental_id": 100,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 15:18:54.996577"
+ },
+ {
+   "payment_id": 16677,
+   "customer_id": 1,
+   "staff_id": 1,
+   "rental_id": 76,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 09:59:03.996577"
+ },
+ {
+   "payment_id": 16678,
+   "customer_id": 1,
+   "staff_id": 1,
+   "rental_id": 573,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 09:03:49.996577"
+ },
+ {
+   "payment_id": 16679,
+   "customer_id": 2,
+   "staff_id": 1,
+   "rental_id": 320,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 22:37:50.996577"
+ },
+ {
+   "payment_id": 16680,
+   "customer_id": 3,
+   "staff_id": 1,
+   "rental_id": 435,
+   "amount": 1.99,
+   "payment_date": "2007-01-27 15:45:35.996577"
+ },
+ {
+   "payment_id": 16681,
+   "customer_id": 3,
+   "staff_id": 1,
+   "rental_id": 830,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 21:12:21.996577"
+ },
+ {
+   "payment_id": 16682,
+   "customer_id": 5,
+   "staff_id": 1,
+   "rental_id": 731,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 05:53:42.996577"
+ },
+ {
+   "payment_id": 16683,
+   "customer_id": 5,
+   "staff_id": 1,
+   "rental_id": 1085,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 09:44:09.996577"
+ },
+ {
+   "payment_id": 16684,
+   "customer_id": 5,
+   "staff_id": 1,
+   "rental_id": 1142,
+   "amount": 1.99,
+   "payment_date": "2007-01-31 18:15:04.996577"
+ },
+ {
+   "payment_id": 16685,
+   "customer_id": 6,
+   "staff_id": 2,
+   "rental_id": 57,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 07:11:58.996577"
+ },
+ {
+   "payment_id": 16686,
+   "customer_id": 6,
+   "staff_id": 1,
+   "rental_id": 577,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 09:37:40.996577"
+ },
+ {
+   "payment_id": 16687,
+   "customer_id": 6,
+   "staff_id": 2,
+   "rental_id": 916,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 09:53:27.996577"
+ },
+ {
+   "payment_id": 16688,
+   "customer_id": 7,
+   "staff_id": 2,
+   "rental_id": 46,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 04:32:34.996577"
+ },
+ {
+   "payment_id": 16689,
+   "customer_id": 7,
+   "staff_id": 2,
+   "rental_id": 117,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 17:59:12.996577"
+ },
+ {
+   "payment_id": 16690,
+   "customer_id": 7,
+   "staff_id": 2,
+   "rental_id": 748,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 07:55:26.996577"
+ },
+ {
+   "payment_id": 16691,
+   "customer_id": 7,
+   "staff_id": 1,
+   "rental_id": 975,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 19:35:41.996577"
+ },
+ {
+   "payment_id": 16692,
+   "customer_id": 7,
+   "staff_id": 1,
+   "rental_id": 1063,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 07:12:55.996577"
+ },
+ {
+   "payment_id": 16693,
+   "customer_id": 8,
+   "staff_id": 2,
+   "rental_id": 866,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 02:12:20.996577"
+ },
+ {
+   "payment_id": 16694,
+   "customer_id": 9,
+   "staff_id": 2,
+   "rental_id": 350,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 03:29:54.996577"
+ },
+ {
+   "payment_id": 16695,
+   "customer_id": 9,
+   "staff_id": 2,
+   "rental_id": 877,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 04:17:25.996577"
+ },
+ {
+   "payment_id": 16696,
+   "customer_id": 9,
+   "staff_id": 2,
+   "rental_id": 1075,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 08:42:00.996577"
+ },
+ {
+   "payment_id": 16697,
+   "customer_id": 10,
+   "staff_id": 2,
+   "rental_id": 1140,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 18:04:56.996577"
+ },
+ {
+   "payment_id": 16698,
+   "customer_id": 11,
+   "staff_id": 1,
+   "rental_id": 987,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 21:27:38.996577"
+ },
+ {
+   "payment_id": 16699,
+   "customer_id": 12,
+   "staff_id": 1,
+   "rental_id": 988,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 21:36:29.996577"
+ },
+ {
+   "payment_id": 16700,
+   "customer_id": 12,
+   "staff_id": 1,
+   "rental_id": 1084,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 09:38:43.996577"
+ },
+ {
+   "payment_id": 16701,
+   "customer_id": 14,
+   "staff_id": 1,
+   "rental_id": 151,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 23:05:54.996577"
+ },
+ {
+   "payment_id": 16702,
+   "customer_id": 14,
+   "staff_id": 1,
+   "rental_id": 346,
+   "amount": 9.99,
+   "payment_date": "2007-01-27 03:03:07.996577"
+ },
+ {
+   "payment_id": 16703,
+   "customer_id": 14,
+   "staff_id": 1,
+   "rental_id": 525,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 02:53:59.996577"
+ },
+ {
+   "payment_id": 16704,
+   "customer_id": 14,
+   "staff_id": 1,
+   "rental_id": 671,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 20:32:56.996577"
+ },
+ {
+   "payment_id": 16705,
+   "customer_id": 14,
+   "staff_id": 2,
+   "rental_id": 815,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 18:52:54.996577"
+ },
+ {
+   "payment_id": 16706,
+   "customer_id": 16,
+   "staff_id": 1,
+   "rental_id": 335,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 01:35:36.996577"
+ },
+ {
+   "payment_id": 16707,
+   "customer_id": 16,
+   "staff_id": 1,
+   "rental_id": 593,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 12:01:49.996577"
+ },
+ {
+   "payment_id": 16708,
+   "customer_id": 16,
+   "staff_id": 2,
+   "rental_id": 887,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 05:38:26.996577"
+ },
+ {
+   "payment_id": 16709,
+   "customer_id": 16,
+   "staff_id": 1,
+   "rental_id": 1017,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 01:22:02.996577"
+ },
+ {
+   "payment_id": 16710,
+   "customer_id": 17,
+   "staff_id": 2,
+   "rental_id": 287,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 18:13:20.996577"
+ },
+ {
+   "payment_id": 16711,
+   "customer_id": 17,
+   "staff_id": 1,
+   "rental_id": 580,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 09:48:19.996577"
+ },
+ {
+   "payment_id": 16712,
+   "customer_id": 17,
+   "staff_id": 2,
+   "rental_id": 884,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 05:09:58.996577"
+ },
+ {
+   "payment_id": 16713,
+   "customer_id": 18,
+   "staff_id": 1,
+   "rental_id": 50,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 05:13:19.996577"
+ },
+ {
+   "payment_id": 16714,
+   "customer_id": 18,
+   "staff_id": 1,
+   "rental_id": 116,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 17:56:17.996577"
+ },
+ {
+   "payment_id": 16715,
+   "customer_id": 18,
+   "staff_id": 1,
+   "rental_id": 692,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 00:00:36.996577"
+ },
+ {
+   "payment_id": 16716,
+   "customer_id": 19,
+   "staff_id": 2,
+   "rental_id": 18,
+   "amount": 0.99,
+   "payment_date": "2007-01-24 23:39:13.996577"
+ },
+ {
+   "payment_id": 16717,
+   "customer_id": 19,
+   "staff_id": 2,
+   "rental_id": 110,
+   "amount": 9.99,
+   "payment_date": "2007-01-25 17:12:15.996577"
+ },
+ {
+   "payment_id": 16718,
+   "customer_id": 19,
+   "staff_id": 1,
+   "rental_id": 179,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 02:54:32.996577"
+ },
+ {
+   "payment_id": 16719,
+   "customer_id": 19,
+   "staff_id": 1,
+   "rental_id": 337,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 01:50:56.996577"
+ },
+ {
+   "payment_id": 16720,
+   "customer_id": 19,
+   "staff_id": 2,
+   "rental_id": 591,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 11:39:30.996577"
+ },
+ {
+   "payment_id": 16721,
+   "customer_id": 19,
+   "staff_id": 2,
+   "rental_id": 696,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 00:27:36.996577"
+ },
+ {
+   "payment_id": 16722,
+   "customer_id": 20,
+   "staff_id": 2,
+   "rental_id": 202,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 05:56:02.996577"
+ },
+ {
+   "payment_id": 16723,
+   "customer_id": 20,
+   "staff_id": 2,
+   "rental_id": 497,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 23:23:05.996577"
+ },
+ {
+   "payment_id": 16724,
+   "customer_id": 20,
+   "staff_id": 2,
+   "rental_id": 546,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 05:44:51.996577"
+ },
+ {
+   "payment_id": 16725,
+   "customer_id": 21,
+   "staff_id": 1,
+   "rental_id": 260,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 14:10:46.996577"
+ },
+ {
+   "payment_id": 16726,
+   "customer_id": 21,
+   "staff_id": 2,
+   "rental_id": 463,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 18:40:13.996577"
+ },
+ {
+   "payment_id": 16727,
+   "customer_id": 21,
+   "staff_id": 1,
+   "rental_id": 570,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 08:43:30.996577"
+ },
+ {
+   "payment_id": 16728,
+   "customer_id": 22,
+   "staff_id": 1,
+   "rental_id": 370,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 06:18:09.996577"
+ },
+ {
+   "payment_id": 16729,
+   "customer_id": 22,
+   "staff_id": 1,
+   "rental_id": 556,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 07:00:02.996577"
+ },
+ {
+   "payment_id": 16730,
+   "customer_id": 22,
+   "staff_id": 2,
+   "rental_id": 820,
+   "amount": 8.99,
+   "payment_date": "2007-01-29 19:35:48.996577"
+ },
+ {
+   "payment_id": 16731,
+   "customer_id": 23,
+   "staff_id": 1,
+   "rental_id": 129,
+   "amount": 8.99,
+   "payment_date": "2007-01-25 19:48:29.996577"
+ },
+ {
+   "payment_id": 16732,
+   "customer_id": 23,
+   "staff_id": 1,
+   "rental_id": 654,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 18:43:56.996577"
+ },
+ {
+   "payment_id": 16733,
+   "customer_id": 23,
+   "staff_id": 2,
+   "rental_id": 1090,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 10:32:10.996577"
+ },
+ {
+   "payment_id": 16734,
+   "customer_id": 24,
+   "staff_id": 2,
+   "rental_id": 1007,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 23:30:54.996577"
+ },
+ {
+   "payment_id": 16735,
+   "customer_id": 24,
+   "staff_id": 2,
+   "rental_id": 1077,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 08:51:20.996577"
+ },
+ {
+   "payment_id": 16736,
+   "customer_id": 25,
+   "staff_id": 1,
+   "rental_id": 90,
+   "amount": 7.99,
+   "payment_date": "2007-01-25 12:59:51.996577"
+ },
+ {
+   "payment_id": 16737,
+   "customer_id": 25,
+   "staff_id": 2,
+   "rental_id": 1033,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 03:18:33.996577"
+ },
+ {
+   "payment_id": 16738,
+   "customer_id": 26,
+   "staff_id": 1,
+   "rental_id": 796,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 15:28:10.996577"
+ },
+ {
+   "payment_id": 16739,
+   "customer_id": 26,
+   "staff_id": 2,
+   "rental_id": 1105,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 13:02:22.996577"
+ },
+ {
+   "payment_id": 16740,
+   "customer_id": 27,
+   "staff_id": 2,
+   "rental_id": 787,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 14:31:29.996577"
+ },
+ {
+   "payment_id": 16741,
+   "customer_id": 28,
+   "staff_id": 2,
+   "rental_id": 388,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 09:05:53.996577"
+ },
+ {
+   "payment_id": 16742,
+   "customer_id": 28,
+   "staff_id": 1,
+   "rental_id": 868,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 02:48:21.996577"
+ },
+ {
+   "payment_id": 16743,
+   "customer_id": 29,
+   "staff_id": 2,
+   "rental_id": 194,
+   "amount": 1.99,
+   "payment_date": "2007-01-26 05:20:59.996577"
+ },
+ {
+   "payment_id": 16744,
+   "customer_id": 32,
+   "staff_id": 2,
+   "rental_id": 483,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 21:28:51.996577"
+ },
+ {
+   "payment_id": 16745,
+   "customer_id": 32,
+   "staff_id": 2,
+   "rental_id": 803,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 16:20:56.996577"
+ },
+ {
+   "payment_id": 16746,
+   "customer_id": 32,
+   "staff_id": 2,
+   "rental_id": 1067,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 07:40:39.996577"
+ },
+ {
+   "payment_id": 16747,
+   "customer_id": 33,
+   "staff_id": 1,
+   "rental_id": 165,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 00:57:02.996577"
+ },
+ {
+   "payment_id": 16748,
+   "customer_id": 35,
+   "staff_id": 2,
+   "rental_id": 47,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 04:33:46.996577"
+ },
+ {
+   "payment_id": 16749,
+   "customer_id": 35,
+   "staff_id": 1,
+   "rental_id": 424,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 14:02:27.996577"
+ },
+ {
+   "payment_id": 16750,
+   "customer_id": 36,
+   "staff_id": 1,
+   "rental_id": 349,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 03:21:37.996577"
+ },
+ {
+   "payment_id": 16751,
+   "customer_id": 36,
+   "staff_id": 1,
+   "rental_id": 716,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 03:03:55.996577"
+ },
+ {
+   "payment_id": 16752,
+   "customer_id": 37,
+   "staff_id": 1,
+   "rental_id": 25,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 01:49:46.996577"
+ },
+ {
+   "payment_id": 16753,
+   "customer_id": 37,
+   "staff_id": 1,
+   "rental_id": 923,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 10:27:16.996577"
+ },
+ {
+   "payment_id": 16754,
+   "customer_id": 40,
+   "staff_id": 1,
+   "rental_id": 128,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 19:48:19.996577"
+ },
+ {
+   "payment_id": 16755,
+   "customer_id": 42,
+   "staff_id": 1,
+   "rental_id": 635,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 16:15:23.996577"
+ },
+ {
+   "payment_id": 16756,
+   "customer_id": 43,
+   "staff_id": 2,
+   "rental_id": 123,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 18:55:08.996577"
+ },
+ {
+   "payment_id": 16757,
+   "customer_id": 43,
+   "staff_id": 1,
+   "rental_id": 652,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 18:37:13.996577"
+ },
+ {
+   "payment_id": 16758,
+   "customer_id": 44,
+   "staff_id": 1,
+   "rental_id": 29,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 02:15:38.996577"
+ },
+ {
+   "payment_id": 16759,
+   "customer_id": 44,
+   "staff_id": 1,
+   "rental_id": 99,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 15:18:46.996577"
+ },
+ {
+   "payment_id": 16760,
+   "customer_id": 44,
+   "staff_id": 1,
+   "rental_id": 407,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 12:26:04.996577"
+ },
+ {
+   "payment_id": 16761,
+   "customer_id": 44,
+   "staff_id": 2,
+   "rental_id": 721,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 03:57:13.996577"
+ },
+ {
+   "payment_id": 16762,
+   "customer_id": 44,
+   "staff_id": 1,
+   "rental_id": 904,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 08:48:08.996577"
+ },
+ {
+   "payment_id": 16763,
+   "customer_id": 45,
+   "staff_id": 2,
+   "rental_id": 277,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 16:00:37.996577"
+ },
+ {
+   "payment_id": 16764,
+   "customer_id": 46,
+   "staff_id": 2,
+   "rental_id": 401,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 11:26:21.996577"
+ },
+ {
+   "payment_id": 16765,
+   "customer_id": 46,
+   "staff_id": 2,
+   "rental_id": 432,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 15:08:55.996577"
+ },
+ {
+   "payment_id": 16766,
+   "customer_id": 46,
+   "staff_id": 1,
+   "rental_id": 938,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 13:15:57.996577"
+ },
+ {
+   "payment_id": 16767,
+   "customer_id": 47,
+   "staff_id": 2,
+   "rental_id": 175,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 02:14:52.996577"
+ },
+ {
+   "payment_id": 16768,
+   "customer_id": 47,
+   "staff_id": 2,
+   "rental_id": 207,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 06:33:04.996577"
+ },
+ {
+   "payment_id": 16769,
+   "customer_id": 47,
+   "staff_id": 1,
+   "rental_id": 300,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 19:25:26.996577"
+ },
+ {
+   "payment_id": 16770,
+   "customer_id": 48,
+   "staff_id": 2,
+   "rental_id": 72,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 09:20:39.996577"
+ },
+ {
+   "payment_id": 16771,
+   "customer_id": 48,
+   "staff_id": 1,
+   "rental_id": 297,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 19:17:14.996577"
+ },
+ {
+   "payment_id": 16772,
+   "customer_id": 48,
+   "staff_id": 1,
+   "rental_id": 390,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 09:30:52.996577"
+ },
+ {
+   "payment_id": 16773,
+   "customer_id": 49,
+   "staff_id": 2,
+   "rental_id": 96,
+   "amount": 1.99,
+   "payment_date": "2007-01-25 15:00:45.996577"
+ },
+ {
+   "payment_id": 16774,
+   "customer_id": 49,
+   "staff_id": 1,
+   "rental_id": 239,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 10:58:52.996577"
+ },
+ {
+   "payment_id": 16775,
+   "customer_id": 49,
+   "staff_id": 2,
+   "rental_id": 846,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 23:46:11.996577"
+ },
+ {
+   "payment_id": 16776,
+   "customer_id": 49,
+   "staff_id": 2,
+   "rental_id": 1010,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 00:25:58.996577"
+ },
+ {
+   "payment_id": 16777,
+   "customer_id": 50,
+   "staff_id": 1,
+   "rental_id": 763,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 10:00:41.996577"
+ },
+ {
+   "payment_id": 16778,
+   "customer_id": 50,
+   "staff_id": 1,
+   "rental_id": 794,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 15:12:37.996577"
+ },
+ {
+   "payment_id": 16779,
+   "customer_id": 50,
+   "staff_id": 1,
+   "rental_id": 905,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 08:53:26.996577"
+ },
+ {
+   "payment_id": 16780,
+   "customer_id": 50,
+   "staff_id": 1,
+   "rental_id": 1029,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 02:20:28.996577"
+ },
+ {
+   "payment_id": 16781,
+   "customer_id": 50,
+   "staff_id": 2,
+   "rental_id": 1136,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 17:48:02.996577"
+ },
+ {
+   "payment_id": 16782,
+   "customer_id": 51,
+   "staff_id": 2,
+   "rental_id": 119,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 18:05:28.996577"
+ },
+ {
+   "payment_id": 16783,
+   "customer_id": 51,
+   "staff_id": 1,
+   "rental_id": 661,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 19:29:51.996577"
+ },
+ {
+   "payment_id": 16784,
+   "customer_id": 51,
+   "staff_id": 2,
+   "rental_id": 1028,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 02:16:31.996577"
+ },
+ {
+   "payment_id": 16785,
+   "customer_id": 52,
+   "staff_id": 1,
+   "rental_id": 874,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 04:04:47.996577"
+ },
+ {
+   "payment_id": 16786,
+   "customer_id": 53,
+   "staff_id": 1,
+   "rental_id": 88,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 12:42:20.996577"
+ },
+ {
+   "payment_id": 16787,
+   "customer_id": 53,
+   "staff_id": 1,
+   "rental_id": 378,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 07:51:48.996577"
+ },
+ {
+   "payment_id": 16788,
+   "customer_id": 53,
+   "staff_id": 1,
+   "rental_id": 751,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 08:24:09.996577"
+ },
+ {
+   "payment_id": 16789,
+   "customer_id": 53,
+   "staff_id": 2,
+   "rental_id": 783,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 13:09:44.996577"
+ },
+ {
+   "payment_id": 16790,
+   "customer_id": 53,
+   "staff_id": 2,
+   "rental_id": 856,
+   "amount": 9.99,
+   "payment_date": "2007-01-30 00:29:47.996577"
+ },
+ {
+   "payment_id": 16791,
+   "customer_id": 53,
+   "staff_id": 1,
+   "rental_id": 1107,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 13:32:31.996577"
+ },
+ {
+   "payment_id": 16792,
+   "customer_id": 54,
+   "staff_id": 2,
+   "rental_id": 198,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 05:32:15.996577"
+ },
+ {
+   "payment_id": 16793,
+   "customer_id": 54,
+   "staff_id": 2,
+   "rental_id": 441,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 16:39:31.996577"
+ },
+ {
+   "payment_id": 16794,
+   "customer_id": 54,
+   "staff_id": 2,
+   "rental_id": 545,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 05:38:46.996577"
+ },
+ {
+   "payment_id": 16795,
+   "customer_id": 55,
+   "staff_id": 1,
+   "rental_id": 555,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 06:59:40.996577"
+ },
+ {
+   "payment_id": 16796,
+   "customer_id": 55,
+   "staff_id": 1,
+   "rental_id": 1027,
+   "amount": 9.99,
+   "payment_date": "2007-01-31 02:14:45.996577"
+ },
+ {
+   "payment_id": 16797,
+   "customer_id": 55,
+   "staff_id": 1,
+   "rental_id": 1048,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 05:18:19.996577"
+ },
+ {
+   "payment_id": 16798,
+   "customer_id": 56,
+   "staff_id": 1,
+   "rental_id": 130,
+   "amount": 3.99,
+   "payment_date": "2007-01-25 19:50:22.996577"
+ },
+ {
+   "payment_id": 16799,
+   "customer_id": 56,
+   "staff_id": 1,
+   "rental_id": 341,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 02:30:08.996577"
+ },
+ {
+   "payment_id": 16800,
+   "customer_id": 56,
+   "staff_id": 1,
+   "rental_id": 496,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 23:12:07.996577"
+ },
+ {
+   "payment_id": 16801,
+   "customer_id": 56,
+   "staff_id": 1,
+   "rental_id": 569,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 08:41:07.996577"
+ },
+ {
+   "payment_id": 16802,
+   "customer_id": 57,
+   "staff_id": 2,
+   "rental_id": 152,
+   "amount": 9.99,
+   "payment_date": "2007-01-25 23:09:36.996577"
+ },
+ {
+   "payment_id": 16803,
+   "customer_id": 57,
+   "staff_id": 2,
+   "rental_id": 943,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 13:48:45.996577"
+ },
+ {
+   "payment_id": 16804,
+   "customer_id": 58,
+   "staff_id": 1,
+   "rental_id": 230,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 10:00:16.996577"
+ },
+ {
+   "payment_id": 16805,
+   "customer_id": 58,
+   "staff_id": 2,
+   "rental_id": 276,
+   "amount": 7.99,
+   "payment_date": "2007-01-26 15:44:33.996577"
+ },
+ {
+   "payment_id": 16806,
+   "customer_id": 58,
+   "staff_id": 2,
+   "rental_id": 761,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 09:37:27.996577"
+ },
+ {
+   "payment_id": 16807,
+   "customer_id": 59,
+   "staff_id": 2,
+   "rental_id": 212,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 07:03:07.996577"
+ },
+ {
+   "payment_id": 16808,
+   "customer_id": 59,
+   "staff_id": 2,
+   "rental_id": 951,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 14:39:01.996577"
+ },
+ {
+   "payment_id": 16809,
+   "customer_id": 59,
+   "staff_id": 1,
+   "rental_id": 1154,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 20:10:35.996577"
+ },
+ {
+   "payment_id": 16810,
+   "customer_id": 60,
+   "staff_id": 1,
+   "rental_id": 318,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 22:06:05.996577"
+ },
+ {
+   "payment_id": 16811,
+   "customer_id": 60,
+   "staff_id": 2,
+   "rental_id": 706,
+   "amount": 1.99,
+   "payment_date": "2007-01-29 01:34:15.996577"
+ },
+ {
+   "payment_id": 16812,
+   "customer_id": 60,
+   "staff_id": 2,
+   "rental_id": 934,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 11:53:12.996577"
+ },
+ {
+   "payment_id": 16813,
+   "customer_id": 61,
+   "staff_id": 1,
+   "rental_id": 1157,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 21:16:11.996577"
+ },
+ {
+   "payment_id": 16814,
+   "customer_id": 62,
+   "staff_id": 2,
+   "rental_id": 885,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 05:22:54.996577"
+ },
+ {
+   "payment_id": 16815,
+   "customer_id": 62,
+   "staff_id": 1,
+   "rental_id": 947,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 14:05:23.996577"
+ },
+ {
+   "payment_id": 16816,
+   "customer_id": 64,
+   "staff_id": 1,
+   "rental_id": 494,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 23:07:57.996577"
+ },
+ {
+   "payment_id": 16817,
+   "customer_id": 64,
+   "staff_id": 1,
+   "rental_id": 587,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 10:33:59.996577"
+ },
+ {
+   "payment_id": 16818,
+   "customer_id": 64,
+   "staff_id": 1,
+   "rental_id": 1001,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 23:14:57.996577"
+ },
+ {
+   "payment_id": 16819,
+   "customer_id": 65,
+   "staff_id": 1,
+   "rental_id": 295,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 19:01:46.996577"
+ },
+ {
+   "payment_id": 16820,
+   "customer_id": 65,
+   "staff_id": 2,
+   "rental_id": 657,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 18:51:35.996577"
+ },
+ {
+   "payment_id": 16821,
+   "customer_id": 66,
+   "staff_id": 2,
+   "rental_id": 933,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 11:37:11.996577"
+ },
+ {
+   "payment_id": 16822,
+   "customer_id": 67,
+   "staff_id": 2,
+   "rental_id": 331,
+   "amount": 9.99,
+   "payment_date": "2007-01-27 00:50:52.996577"
+ },
+ {
+   "payment_id": 16823,
+   "customer_id": 67,
+   "staff_id": 1,
+   "rental_id": 767,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 10:48:45.996577"
+ },
+ {
+   "payment_id": 16824,
+   "customer_id": 69,
+   "staff_id": 2,
+   "rental_id": 584,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 10:17:26.996577"
+ },
+ {
+   "payment_id": 16825,
+   "customer_id": 69,
+   "staff_id": 2,
+   "rental_id": 765,
+   "amount": 1.99,
+   "payment_date": "2007-01-29 10:07:00.996577"
+ },
+ {
+   "payment_id": 16826,
+   "customer_id": 70,
+   "staff_id": 2,
+   "rental_id": 1044,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 04:53:10.996577"
+ },
+ {
+   "payment_id": 16827,
+   "customer_id": 71,
+   "staff_id": 1,
+   "rental_id": 199,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 05:40:24.996577"
+ },
+ {
+   "payment_id": 16828,
+   "customer_id": 71,
+   "staff_id": 1,
+   "rental_id": 272,
+   "amount": 9.99,
+   "payment_date": "2007-01-26 14:55:37.996577"
+ },
+ {
+   "payment_id": 16829,
+   "customer_id": 72,
+   "staff_id": 2,
+   "rental_id": 785,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 13:37:07.996577"
+ },
+ {
+   "payment_id": 16830,
+   "customer_id": 72,
+   "staff_id": 2,
+   "rental_id": 845,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 23:45:51.996577"
+ },
+ {
+   "payment_id": 16831,
+   "customer_id": 72,
+   "staff_id": 2,
+   "rental_id": 1047,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 05:14:23.996577"
+ },
+ {
+   "payment_id": 16832,
+   "customer_id": 73,
+   "staff_id": 1,
+   "rental_id": 70,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 08:43:49.996577"
+ },
+ {
+   "payment_id": 16833,
+   "customer_id": 73,
+   "staff_id": 2,
+   "rental_id": 1133,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 17:40:47.996577"
+ },
+ {
+   "payment_id": 16834,
+   "customer_id": 74,
+   "staff_id": 2,
+   "rental_id": 1121,
+   "amount": 6.99,
+   "payment_date": "2007-01-31 15:06:02.996577"
+ },
+ {
+   "payment_id": 16835,
+   "customer_id": 75,
+   "staff_id": 1,
+   "rental_id": 180,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 03:14:49.996577"
+ },
+ {
+   "payment_id": 16836,
+   "customer_id": 75,
+   "staff_id": 2,
+   "rental_id": 268,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 14:47:34.996577"
+ },
+ {
+   "payment_id": 16837,
+   "customer_id": 76,
+   "staff_id": 2,
+   "rental_id": 574,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 09:12:54.996577"
+ },
+ {
+   "payment_id": 16838,
+   "customer_id": 76,
+   "staff_id": 1,
+   "rental_id": 926,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 10:44:20.996577"
+ },
+ {
+   "payment_id": 16839,
+   "customer_id": 77,
+   "staff_id": 2,
+   "rental_id": 319,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 22:20:39.996577"
+ },
+ {
+   "payment_id": 16840,
+   "customer_id": 77,
+   "staff_id": 1,
+   "rental_id": 419,
+   "amount": 1.99,
+   "payment_date": "2007-01-27 13:43:37.996577"
+ },
+ {
+   "payment_id": 16841,
+   "customer_id": 77,
+   "staff_id": 2,
+   "rental_id": 561,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 07:22:32.996577"
+ },
+ {
+   "payment_id": 16842,
+   "customer_id": 77,
+   "staff_id": 1,
+   "rental_id": 586,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 10:31:26.996577"
+ },
+ {
+   "payment_id": 16843,
+   "customer_id": 77,
+   "staff_id": 1,
+   "rental_id": 760,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 09:35:51.996577"
+ },
+ {
+   "payment_id": 16844,
+   "customer_id": 79,
+   "staff_id": 1,
+   "rental_id": 840,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 22:57:07.996577"
+ },
+ {
+   "payment_id": 16845,
+   "customer_id": 79,
+   "staff_id": 1,
+   "rental_id": 859,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 01:04:46.996577"
+ },
+ {
+   "payment_id": 16846,
+   "customer_id": 79,
+   "staff_id": 1,
+   "rental_id": 928,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 10:55:40.996577"
+ },
+ {
+   "payment_id": 16847,
+   "customer_id": 81,
+   "staff_id": 1,
+   "rental_id": 289,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 18:29:35.996577"
+ },
+ {
+   "payment_id": 16848,
+   "customer_id": 82,
+   "staff_id": 2,
+   "rental_id": 145,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 22:27:29.996577"
+ },
+ {
+   "payment_id": 16849,
+   "customer_id": 82,
+   "staff_id": 2,
+   "rental_id": 288,
+   "amount": 8.99,
+   "payment_date": "2007-01-26 18:16:15.996577"
+ },
+ {
+   "payment_id": 16850,
+   "customer_id": 83,
+   "staff_id": 2,
+   "rental_id": 222,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 08:43:04.996577"
+ },
+ {
+   "payment_id": 16851,
+   "customer_id": 83,
+   "staff_id": 2,
+   "rental_id": 950,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 14:34:34.996577"
+ },
+ {
+   "payment_id": 16852,
+   "customer_id": 83,
+   "staff_id": 2,
+   "rental_id": 989,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 21:40:17.996577"
+ },
+ {
+   "payment_id": 16853,
+   "customer_id": 84,
+   "staff_id": 2,
+   "rental_id": 408,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 12:26:05.996577"
+ },
+ {
+   "payment_id": 16854,
+   "customer_id": 84,
+   "staff_id": 1,
+   "rental_id": 739,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 06:56:44.996577"
+ },
+ {
+   "payment_id": 16855,
+   "customer_id": 84,
+   "staff_id": 1,
+   "rental_id": 834,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 21:52:56.996577"
+ },
+ {
+   "payment_id": 16856,
+   "customer_id": 85,
+   "staff_id": 1,
+   "rental_id": 690,
+   "amount": 9.99,
+   "payment_date": "2007-01-28 23:23:19.996577"
+ },
+ {
+   "payment_id": 16857,
+   "customer_id": 85,
+   "staff_id": 2,
+   "rental_id": 908,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 09:07:03.996577"
+ },
+ {
+   "payment_id": 16858,
+   "customer_id": 86,
+   "staff_id": 1,
+   "rental_id": 66,
+   "amount": 1.99,
+   "payment_date": "2007-01-25 08:03:38.996577"
+ },
+ {
+   "payment_id": 16859,
+   "customer_id": 87,
+   "staff_id": 2,
+   "rental_id": 451,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 17:56:20.996577"
+ },
+ {
+   "payment_id": 16860,
+   "customer_id": 87,
+   "staff_id": 1,
+   "rental_id": 674,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 20:40:01.996577"
+ },
+ {
+   "payment_id": 16861,
+   "customer_id": 88,
+   "staff_id": 2,
+   "rental_id": 36,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 03:04:52.996577"
+ },
+ {
+   "payment_id": 16862,
+   "customer_id": 89,
+   "staff_id": 2,
+   "rental_id": 141,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 22:03:19.996577"
+ },
+ {
+   "payment_id": 16863,
+   "customer_id": 89,
+   "staff_id": 2,
+   "rental_id": 588,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 10:37:03.996577"
+ },
+ {
+   "payment_id": 16864,
+   "customer_id": 89,
+   "staff_id": 1,
+   "rental_id": 740,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 06:59:02.996577"
+ },
+ {
+   "payment_id": 16865,
+   "customer_id": 91,
+   "staff_id": 2,
+   "rental_id": 216,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 07:46:09.996577"
+ },
+ {
+   "payment_id": 16866,
+   "customer_id": 92,
+   "staff_id": 1,
+   "rental_id": 271,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 14:50:27.996577"
+ },
+ {
+   "payment_id": 16867,
+   "customer_id": 92,
+   "staff_id": 1,
+   "rental_id": 456,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 18:18:32.996577"
+ },
+ {
+   "payment_id": 16868,
+   "customer_id": 93,
+   "staff_id": 2,
+   "rental_id": 113,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 17:36:06.996577"
+ },
+ {
+   "payment_id": 16869,
+   "customer_id": 93,
+   "staff_id": 2,
+   "rental_id": 420,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 13:48:04.996577"
+ },
+ {
+   "payment_id": 16870,
+   "customer_id": 93,
+   "staff_id": 1,
+   "rental_id": 1025,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 02:10:03.996577"
+ },
+ {
+   "payment_id": 16871,
+   "customer_id": 94,
+   "staff_id": 1,
+   "rental_id": 127,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 19:39:06.996577"
+ },
+ {
+   "payment_id": 16872,
+   "customer_id": 94,
+   "staff_id": 2,
+   "rental_id": 629,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 15:47:41.996577"
+ },
+ {
+   "payment_id": 16873,
+   "customer_id": 95,
+   "staff_id": 1,
+   "rental_id": 490,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 22:38:22.996577"
+ },
+ {
+   "payment_id": 16874,
+   "customer_id": 98,
+   "staff_id": 2,
+   "rental_id": 214,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 07:17:15.996577"
+ },
+ {
+   "payment_id": 16875,
+   "customer_id": 99,
+   "staff_id": 2,
+   "rental_id": 867,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 02:23:09.996577"
+ },
+ {
+   "payment_id": 16876,
+   "customer_id": 100,
+   "staff_id": 1,
+   "rental_id": 71,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 08:55:05.996577"
+ },
+ {
+   "payment_id": 16877,
+   "customer_id": 101,
+   "staff_id": 1,
+   "rental_id": 468,
+   "amount": 9.99,
+   "payment_date": "2007-01-27 19:41:36.996577"
+ },
+ {
+   "payment_id": 16878,
+   "customer_id": 102,
+   "staff_id": 1,
+   "rental_id": 247,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 12:29:31.996577"
+ },
+ {
+   "payment_id": 16879,
+   "customer_id": 102,
+   "staff_id": 1,
+   "rental_id": 358,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 05:12:25.996577"
+ },
+ {
+   "payment_id": 16880,
+   "customer_id": 102,
+   "staff_id": 2,
+   "rental_id": 562,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 07:29:47.996577"
+ },
+ {
+   "payment_id": 16881,
+   "customer_id": 103,
+   "staff_id": 1,
+   "rental_id": 240,
+   "amount": 7.99,
+   "payment_date": "2007-01-26 11:08:49.996577"
+ },
+ {
+   "payment_id": 16882,
+   "customer_id": 103,
+   "staff_id": 1,
+   "rental_id": 658,
+   "amount": 9.99,
+   "payment_date": "2007-01-28 18:51:49.996577"
+ },
+ {
+   "payment_id": 16883,
+   "customer_id": 104,
+   "staff_id": 1,
+   "rental_id": 163,
+   "amount": 10.99,
+   "payment_date": "2007-01-26 00:54:49.996577"
+ },
+ {
+   "payment_id": 16884,
+   "customer_id": 104,
+   "staff_id": 2,
+   "rental_id": 808,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 17:36:46.996577"
+ },
+ {
+   "payment_id": 16885,
+   "customer_id": 105,
+   "staff_id": 1,
+   "rental_id": 327,
+   "amount": 8.99,
+   "payment_date": "2007-01-26 23:47:23.996577"
+ },
+ {
+   "payment_id": 16886,
+   "customer_id": 105,
+   "staff_id": 2,
+   "rental_id": 473,
+   "amount": 7.99,
+   "payment_date": "2007-01-27 20:05:00.996577"
+ },
+ {
+   "payment_id": 16887,
+   "customer_id": 105,
+   "staff_id": 1,
+   "rental_id": 485,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 22:09:18.996577"
+ },
+ {
+   "payment_id": 16888,
+   "customer_id": 105,
+   "staff_id": 1,
+   "rental_id": 779,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 12:45:43.996577"
+ },
+ {
+   "payment_id": 16889,
+   "customer_id": 106,
+   "staff_id": 2,
+   "rental_id": 552,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 06:22:04.996577"
+ },
+ {
+   "payment_id": 16890,
+   "customer_id": 106,
+   "staff_id": 2,
+   "rental_id": 1156,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 21:06:00.996577"
+ },
+ {
+   "payment_id": 16891,
+   "customer_id": 107,
+   "staff_id": 1,
+   "rental_id": 170,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 01:39:38.996577"
+ },
+ {
+   "payment_id": 16892,
+   "customer_id": 107,
+   "staff_id": 1,
+   "rental_id": 1026,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 02:13:52.996577"
+ },
+ {
+   "payment_id": 16893,
+   "customer_id": 108,
+   "staff_id": 1,
+   "rental_id": 105,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 16:22:38.996577"
+ },
+ {
+   "payment_id": 16894,
+   "customer_id": 108,
+   "staff_id": 2,
+   "rental_id": 1055,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 06:15:44.996577"
+ },
+ {
+   "payment_id": 16895,
+   "customer_id": 109,
+   "staff_id": 1,
+   "rental_id": 203,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 05:56:23.996577"
+ },
+ {
+   "payment_id": 16896,
+   "customer_id": 109,
+   "staff_id": 1,
+   "rental_id": 386,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 08:54:57.996577"
+ },
+ {
+   "payment_id": 16897,
+   "customer_id": 109,
+   "staff_id": 2,
+   "rental_id": 622,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 14:26:48.996577"
+ },
+ {
+   "payment_id": 16898,
+   "customer_id": 109,
+   "staff_id": 1,
+   "rental_id": 698,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 00:39:18.996577"
+ },
+ {
+   "payment_id": 16899,
+   "customer_id": 109,
+   "staff_id": 1,
+   "rental_id": 1061,
+   "amount": 7.99,
+   "payment_date": "2007-01-31 06:56:24.996577"
+ },
+ {
+   "payment_id": 16900,
+   "customer_id": 109,
+   "staff_id": 1,
+   "rental_id": 1106,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 13:05:18.996577"
+ },
+ {
+   "payment_id": 16901,
+   "customer_id": 109,
+   "staff_id": 1,
+   "rental_id": 1115,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 14:35:35.996577"
+ },
+ {
+   "payment_id": 16902,
+   "customer_id": 110,
+   "staff_id": 1,
+   "rental_id": 515,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 01:38:36.996577"
+ },
+ {
+   "payment_id": 16903,
+   "customer_id": 110,
+   "staff_id": 2,
+   "rental_id": 538,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 04:49:31.996577"
+ },
+ {
+   "payment_id": 16904,
+   "customer_id": 111,
+   "staff_id": 2,
+   "rental_id": 505,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 00:35:03.996577"
+ },
+ {
+   "payment_id": 16905,
+   "customer_id": 112,
+   "staff_id": 1,
+   "rental_id": 396,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 10:15:30.996577"
+ },
+ {
+   "payment_id": 16906,
+   "customer_id": 112,
+   "staff_id": 2,
+   "rental_id": 701,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 00:54:53.996577"
+ },
+ {
+   "payment_id": 16907,
+   "customer_id": 113,
+   "staff_id": 1,
+   "rental_id": 510,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 01:20:40.996577"
+ },
+ {
+   "payment_id": 16908,
+   "customer_id": 113,
+   "staff_id": 2,
+   "rental_id": 776,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 12:04:01.996577"
+ },
+ {
+   "payment_id": 16909,
+   "customer_id": 114,
+   "staff_id": 1,
+   "rental_id": 205,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 06:28:03.996577"
+ },
+ {
+   "payment_id": 16910,
+   "customer_id": 114,
+   "staff_id": 1,
+   "rental_id": 255,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 13:20:41.996577"
+ },
+ {
+   "payment_id": 16911,
+   "customer_id": 114,
+   "staff_id": 2,
+   "rental_id": 889,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 05:43:19.996577"
+ },
+ {
+   "payment_id": 16912,
+   "customer_id": 115,
+   "staff_id": 1,
+   "rental_id": 915,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 09:48:53.996577"
+ },
+ {
+   "payment_id": 16913,
+   "customer_id": 115,
+   "staff_id": 1,
+   "rental_id": 983,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 20:44:17.996577"
+ },
+ {
+   "payment_id": 16914,
+   "customer_id": 115,
+   "staff_id": 1,
+   "rental_id": 1102,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 12:48:55.996577"
+ },
+ {
+   "payment_id": 16915,
+   "customer_id": 116,
+   "staff_id": 1,
+   "rental_id": 1058,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 06:32:43.996577"
+ },
+ {
+   "payment_id": 16916,
+   "customer_id": 117,
+   "staff_id": 1,
+   "rental_id": 700,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 00:47:20.996577"
+ },
+ {
+   "payment_id": 16917,
+   "customer_id": 117,
+   "staff_id": 2,
+   "rental_id": 1114,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 14:28:59.996577"
+ },
+ {
+   "payment_id": 16918,
+   "customer_id": 118,
+   "staff_id": 2,
+   "rental_id": 351,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 04:07:29.996577"
+ },
+ {
+   "payment_id": 16919,
+   "customer_id": 119,
+   "staff_id": 2,
+   "rental_id": 67,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 08:09:27.996577"
+ },
+ {
+   "payment_id": 16920,
+   "customer_id": 119,
+   "staff_id": 1,
+   "rental_id": 235,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 10:19:35.996577"
+ },
+ {
+   "payment_id": 16921,
+   "customer_id": 119,
+   "staff_id": 2,
+   "rental_id": 540,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 05:08:51.996577"
+ },
+ {
+   "payment_id": 16922,
+   "customer_id": 120,
+   "staff_id": 2,
+   "rental_id": 68,
+   "amount": 7.99,
+   "payment_date": "2007-01-25 08:15:57.996577"
+ },
+ {
+   "payment_id": 16923,
+   "customer_id": 120,
+   "staff_id": 2,
+   "rental_id": 532,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 04:05:24.996577"
+ },
+ {
+   "payment_id": 16924,
+   "customer_id": 121,
+   "staff_id": 1,
+   "rental_id": 217,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 07:52:52.996577"
+ },
+ {
+   "payment_id": 16925,
+   "customer_id": 122,
+   "staff_id": 2,
+   "rental_id": 853,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 00:11:57.996577"
+ },
+ {
+   "payment_id": 16926,
+   "customer_id": 122,
+   "staff_id": 2,
+   "rental_id": 1135,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 17:43:37.996577"
+ },
+ {
+   "payment_id": 16927,
+   "customer_id": 123,
+   "staff_id": 1,
+   "rental_id": 992,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 22:16:22.996577"
+ },
+ {
+   "payment_id": 16928,
+   "customer_id": 124,
+   "staff_id": 1,
+   "rental_id": 775,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 11:51:52.996577"
+ },
+ {
+   "payment_id": 16929,
+   "customer_id": 124,
+   "staff_id": 2,
+   "rental_id": 1039,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 04:00:55.996577"
+ },
+ {
+   "payment_id": 16930,
+   "customer_id": 124,
+   "staff_id": 2,
+   "rental_id": 1057,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 06:26:32.996577"
+ },
+ {
+   "payment_id": 16931,
+   "customer_id": 124,
+   "staff_id": 2,
+   "rental_id": 1130,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 16:42:23.996577"
+ },
+ {
+   "payment_id": 16932,
+   "customer_id": 125,
+   "staff_id": 2,
+   "rental_id": 185,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 03:58:29.996577"
+ },
+ {
+   "payment_id": 16933,
+   "customer_id": 126,
+   "staff_id": 1,
+   "rental_id": 9,
+   "amount": 4.99,
+   "payment_date": "2007-01-24 22:29:06.996577"
+ },
+ {
+   "payment_id": 16934,
+   "customer_id": 126,
+   "staff_id": 1,
+   "rental_id": 752,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 08:42:41.996577"
+ },
+ {
+   "payment_id": 16935,
+   "customer_id": 126,
+   "staff_id": 2,
+   "rental_id": 1054,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 06:01:51.996577"
+ },
+ {
+   "payment_id": 16936,
+   "customer_id": 127,
+   "staff_id": 1,
+   "rental_id": 452,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 17:58:59.996577"
+ },
+ {
+   "payment_id": 16937,
+   "customer_id": 127,
+   "staff_id": 1,
+   "rental_id": 708,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 01:52:13.996577"
+ },
+ {
+   "payment_id": 16938,
+   "customer_id": 128,
+   "staff_id": 2,
+   "rental_id": 888,
+   "amount": 5.99,
+   "payment_date": "2007-01-30 05:41:40.996577"
+ },
+ {
+   "payment_id": 16939,
+   "customer_id": 128,
+   "staff_id": 2,
+   "rental_id": 1131,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 17:12:45.996577"
+ },
+ {
+   "payment_id": 16940,
+   "customer_id": 130,
+   "staff_id": 1,
+   "rental_id": 1,
+   "amount": 2.99,
+   "payment_date": "2007-01-24 21:21:56.996577"
+ },
+ {
+   "payment_id": 16941,
+   "customer_id": 130,
+   "staff_id": 1,
+   "rental_id": 746,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 07:53:36.996577"
+ },
+ {
+   "payment_id": 16942,
+   "customer_id": 131,
+   "staff_id": 2,
+   "rental_id": 55,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 06:54:39.996577"
+ },
+ {
+   "payment_id": 16943,
+   "customer_id": 131,
+   "staff_id": 1,
+   "rental_id": 83,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 10:58:41.996577"
+ },
+ {
+   "payment_id": 16944,
+   "customer_id": 131,
+   "staff_id": 2,
+   "rental_id": 944,
+   "amount": 7.99,
+   "payment_date": "2007-01-30 13:54:50.996577"
+ },
+ {
+   "payment_id": 16945,
+   "customer_id": 133,
+   "staff_id": 1,
+   "rental_id": 275,
+   "amount": 6.99,
+   "payment_date": "2007-01-26 15:38:19.996577"
+ },
+ {
+   "payment_id": 16946,
+   "customer_id": 133,
+   "staff_id": 2,
+   "rental_id": 447,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 17:25:28.996577"
+ },
+ {
+   "payment_id": 16947,
+   "customer_id": 134,
+   "staff_id": 1,
+   "rental_id": 366,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 06:02:20.996577"
+ },
+ {
+   "payment_id": 16948,
+   "customer_id": 134,
+   "staff_id": 2,
+   "rental_id": 798,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 15:52:09.996577"
+ },
+ {
+   "payment_id": 16949,
+   "customer_id": 134,
+   "staff_id": 1,
+   "rental_id": 814,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 18:44:38.996577"
+ },
+ {
+   "payment_id": 16950,
+   "customer_id": 134,
+   "staff_id": 2,
+   "rental_id": 1124,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 15:18:00.996577"
+ },
+ {
+   "payment_id": 16951,
+   "customer_id": 135,
+   "staff_id": 1,
+   "rental_id": 78,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 10:03:44.996577"
+ },
+ {
+   "payment_id": 16952,
+   "customer_id": 135,
+   "staff_id": 2,
+   "rental_id": 753,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 08:45:08.996577"
+ },
+ {
+   "payment_id": 16953,
+   "customer_id": 136,
+   "staff_id": 2,
+   "rental_id": 1150,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 19:48:35.996577"
+ },
+ {
+   "payment_id": 16954,
+   "customer_id": 137,
+   "staff_id": 1,
+   "rental_id": 925,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 10:42:18.996577"
+ },
+ {
+   "payment_id": 16955,
+   "customer_id": 138,
+   "staff_id": 1,
+   "rental_id": 523,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 02:21:52.996577"
+ },
+ {
+   "payment_id": 16956,
+   "customer_id": 138,
+   "staff_id": 1,
+   "rental_id": 1020,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 01:34:34.996577"
+ },
+ {
+   "payment_id": 16957,
+   "customer_id": 141,
+   "staff_id": 2,
+   "rental_id": 930,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 11:13:23.996577"
+ },
+ {
+   "payment_id": 16958,
+   "customer_id": 142,
+   "staff_id": 2,
+   "rental_id": 11,
+   "amount": 8.99,
+   "payment_date": "2007-01-24 22:37:28.996577"
+ },
+ {
+   "payment_id": 16959,
+   "customer_id": 142,
+   "staff_id": 1,
+   "rental_id": 148,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 22:53:49.996577"
+ },
+ {
+   "payment_id": 16960,
+   "customer_id": 142,
+   "staff_id": 1,
+   "rental_id": 575,
+   "amount": 9.99,
+   "payment_date": "2007-01-28 09:24:35.996577"
+ },
+ {
+   "payment_id": 16961,
+   "customer_id": 143,
+   "staff_id": 1,
+   "rental_id": 221,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 08:42:35.996577"
+ },
+ {
+   "payment_id": 16962,
+   "customer_id": 143,
+   "staff_id": 1,
+   "rental_id": 312,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 21:20:45.996577"
+ },
+ {
+   "payment_id": 16963,
+   "customer_id": 144,
+   "staff_id": 1,
+   "rental_id": 323,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 23:17:53.996577"
+ },
+ {
+   "payment_id": 16964,
+   "customer_id": 144,
+   "staff_id": 2,
+   "rental_id": 345,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 03:00:51.996577"
+ },
+ {
+   "payment_id": 16965,
+   "customer_id": 145,
+   "staff_id": 1,
+   "rental_id": 500,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 23:33:51.996577"
+ },
+ {
+   "payment_id": 16966,
+   "customer_id": 146,
+   "staff_id": 2,
+   "rental_id": 762,
+   "amount": 7.99,
+   "payment_date": "2007-01-29 09:44:17.996577"
+ },
+ {
+   "payment_id": 16967,
+   "customer_id": 146,
+   "staff_id": 1,
+   "rental_id": 1073,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 08:23:30.996577"
+ },
+ {
+   "payment_id": 16968,
+   "customer_id": 147,
+   "staff_id": 1,
+   "rental_id": 362,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 05:38:51.996577"
+ },
+ {
+   "payment_id": 16969,
+   "customer_id": 147,
+   "staff_id": 1,
+   "rental_id": 509,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 01:19:38.996577"
+ },
+ {
+   "payment_id": 16970,
+   "customer_id": 148,
+   "staff_id": 1,
+   "rental_id": 682,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 22:21:44.996577"
+ },
+ {
+   "payment_id": 16971,
+   "customer_id": 149,
+   "staff_id": 1,
+   "rental_id": 764,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 10:06:01.996577"
+ },
+ {
+   "payment_id": 16972,
+   "customer_id": 150,
+   "staff_id": 1,
+   "rental_id": 422,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 14:00:21.996577"
+ },
+ {
+   "payment_id": 16973,
+   "customer_id": 150,
+   "staff_id": 1,
+   "rental_id": 609,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 13:32:28.996577"
+ },
+ {
+   "payment_id": 16974,
+   "customer_id": 150,
+   "staff_id": 1,
+   "rental_id": 995,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 22:34:28.996577"
+ },
+ {
+   "payment_id": 16975,
+   "customer_id": 151,
+   "staff_id": 2,
+   "rental_id": 164,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 00:55:15.996577"
+ },
+ {
+   "payment_id": 16976,
+   "customer_id": 151,
+   "staff_id": 2,
+   "rental_id": 418,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 13:41:43.996577"
+ },
+ {
+   "payment_id": 16977,
+   "customer_id": 152,
+   "staff_id": 2,
+   "rental_id": 359,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 05:16:59.996577"
+ },
+ {
+   "payment_id": 16978,
+   "customer_id": 152,
+   "staff_id": 1,
+   "rental_id": 745,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 07:51:23.996577"
+ },
+ {
+   "payment_id": 16979,
+   "customer_id": 154,
+   "staff_id": 1,
+   "rental_id": 469,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 19:42:52.996577"
+ },
+ {
+   "payment_id": 16980,
+   "customer_id": 154,
+   "staff_id": 2,
+   "rental_id": 865,
+   "amount": 7.99,
+   "payment_date": "2007-01-30 02:08:10.996577"
+ },
+ {
+   "payment_id": 16981,
+   "customer_id": 154,
+   "staff_id": 2,
+   "rental_id": 978,
+   "amount": 5.99,
+   "payment_date": "2007-01-30 19:59:18.996577"
+ },
+ {
+   "payment_id": 16982,
+   "customer_id": 155,
+   "staff_id": 1,
+   "rental_id": 568,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 08:26:02.996577"
+ },
+ {
+   "payment_id": 16983,
+   "customer_id": 156,
+   "staff_id": 2,
+   "rental_id": 899,
+   "amount": 6.99,
+   "payment_date": "2007-01-30 07:57:56.996577"
+ },
+ {
+   "payment_id": 16984,
+   "customer_id": 156,
+   "staff_id": 1,
+   "rental_id": 1052,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 05:35:29.996577"
+ },
+ {
+   "payment_id": 16985,
+   "customer_id": 157,
+   "staff_id": 2,
+   "rental_id": 352,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 04:16:45.996577"
+ },
+ {
+   "payment_id": 16986,
+   "customer_id": 157,
+   "staff_id": 1,
+   "rental_id": 642,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 17:17:38.996577"
+ },
+ {
+   "payment_id": 16987,
+   "customer_id": 158,
+   "staff_id": 2,
+   "rental_id": 245,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 12:15:25.996577"
+ },
+ {
+   "payment_id": 16988,
+   "customer_id": 158,
+   "staff_id": 1,
+   "rental_id": 293,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 18:55:28.996577"
+ },
+ {
+   "payment_id": 16989,
+   "customer_id": 159,
+   "staff_id": 2,
+   "rental_id": 475,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 20:44:52.996577"
+ },
+ {
+   "payment_id": 16990,
+   "customer_id": 159,
+   "staff_id": 2,
+   "rental_id": 549,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 06:04:03.996577"
+ },
+ {
+   "payment_id": 16991,
+   "customer_id": 159,
+   "staff_id": 1,
+   "rental_id": 598,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 12:33:16.996577"
+ },
+ {
+   "payment_id": 16992,
+   "customer_id": 159,
+   "staff_id": 1,
+   "rental_id": 832,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 21:19:46.996577"
+ },
+ {
+   "payment_id": 16993,
+   "customer_id": 161,
+   "staff_id": 2,
+   "rental_id": 428,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 14:39:24.996577"
+ },
+ {
+   "payment_id": 16994,
+   "customer_id": 161,
+   "staff_id": 2,
+   "rental_id": 477,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 21:01:59.996577"
+ },
+ {
+   "payment_id": 16995,
+   "customer_id": 161,
+   "staff_id": 1,
+   "rental_id": 520,
+   "amount": 5.99,
+   "payment_date": "2007-01-28 01:56:03.996577"
+ },
+ {
+   "payment_id": 16996,
+   "customer_id": 161,
+   "staff_id": 2,
+   "rental_id": 539,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 04:54:42.996577"
+ },
+ {
+   "payment_id": 16997,
+   "customer_id": 161,
+   "staff_id": 1,
+   "rental_id": 612,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 13:53:20.996577"
+ },
+ {
+   "payment_id": 16998,
+   "customer_id": 161,
+   "staff_id": 1,
+   "rental_id": 1003,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 23:16:46.996577"
+ },
+ {
+   "payment_id": 16999,
+   "customer_id": 162,
+   "staff_id": 1,
+   "rental_id": 285,
+   "amount": 1.99,
+   "payment_date": "2007-01-26 18:10:06.996577"
+ },
+ {
+   "payment_id": 17000,
+   "customer_id": 162,
+   "staff_id": 1,
+   "rental_id": 501,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 23:38:02.996577"
+ },
+ {
+   "payment_id": 17001,
+   "customer_id": 162,
+   "staff_id": 1,
+   "rental_id": 688,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 23:13:50.996577"
+ },
+ {
+   "payment_id": 17002,
+   "customer_id": 164,
+   "staff_id": 2,
+   "rental_id": 1011,
+   "amount": 1.99,
+   "payment_date": "2007-01-31 00:34:05.996577"
+ },
+ {
+   "payment_id": 17003,
+   "customer_id": 165,
+   "staff_id": 2,
+   "rental_id": 338,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 02:11:18.996577"
+ },
+ {
+   "payment_id": 17004,
+   "customer_id": 166,
+   "staff_id": 1,
+   "rental_id": 662,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 19:37:57.996577"
+ },
+ {
+   "payment_id": 17005,
+   "customer_id": 167,
+   "staff_id": 1,
+   "rental_id": 280,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 17:05:24.996577"
+ },
+ {
+   "payment_id": 17006,
+   "customer_id": 167,
+   "staff_id": 1,
+   "rental_id": 365,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 05:59:46.996577"
+ },
+ {
+   "payment_id": 17007,
+   "customer_id": 167,
+   "staff_id": 1,
+   "rental_id": 927,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 10:45:06.996577"
+ },
+ {
+   "payment_id": 17008,
+   "customer_id": 168,
+   "staff_id": 2,
+   "rental_id": 404,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 12:00:17.996577"
+ },
+ {
+   "payment_id": 17009,
+   "customer_id": 168,
+   "staff_id": 1,
+   "rental_id": 488,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 22:36:16.996577"
+ },
+ {
+   "payment_id": 17010,
+   "customer_id": 169,
+   "staff_id": 2,
+   "rental_id": 527,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 02:57:04.996577"
+ },
+ {
+   "payment_id": 17011,
+   "customer_id": 169,
+   "staff_id": 1,
+   "rental_id": 1087,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 09:46:34.996577"
+ },
+ {
+   "payment_id": 17012,
+   "customer_id": 170,
+   "staff_id": 1,
+   "rental_id": 211,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 07:01:36.996577"
+ },
+ {
+   "payment_id": 17013,
+   "customer_id": 170,
+   "staff_id": 1,
+   "rental_id": 377,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 07:32:31.996577"
+ },
+ {
+   "payment_id": 17014,
+   "customer_id": 170,
+   "staff_id": 2,
+   "rental_id": 504,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 00:34:00.996577"
+ },
+ {
+   "payment_id": 17015,
+   "customer_id": 171,
+   "staff_id": 2,
+   "rental_id": 804,
+   "amount": 9.99,
+   "payment_date": "2007-01-29 16:38:50.996577"
+ },
+ {
+   "payment_id": 17016,
+   "customer_id": 172,
+   "staff_id": 2,
+   "rental_id": 449,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 17:41:41.996577"
+ },
+ {
+   "payment_id": 17017,
+   "customer_id": 172,
+   "staff_id": 1,
+   "rental_id": 685,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 22:46:17.996577"
+ },
+ {
+   "payment_id": 17018,
+   "customer_id": 172,
+   "staff_id": 1,
+   "rental_id": 837,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 22:30:34.996577"
+ },
+ {
+   "payment_id": 17019,
+   "customer_id": 173,
+   "staff_id": 2,
+   "rental_id": 578,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 09:44:14.996577"
+ },
+ {
+   "payment_id": 17020,
+   "customer_id": 173,
+   "staff_id": 1,
+   "rental_id": 628,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 15:34:12.996577"
+ },
+ {
+   "payment_id": 17021,
+   "customer_id": 174,
+   "staff_id": 1,
+   "rental_id": 41,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 03:40:55.996577"
+ },
+ {
+   "payment_id": 17022,
+   "customer_id": 174,
+   "staff_id": 2,
+   "rental_id": 1071,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 08:17:22.996577"
+ },
+ {
+   "payment_id": 17023,
+   "customer_id": 176,
+   "staff_id": 1,
+   "rental_id": 172,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 01:46:08.996577"
+ },
+ {
+   "payment_id": 17024,
+   "customer_id": 176,
+   "staff_id": 2,
+   "rental_id": 380,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 08:03:05.996577"
+ },
+ {
+   "payment_id": 17025,
+   "customer_id": 176,
+   "staff_id": 1,
+   "rental_id": 553,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 06:43:10.996577"
+ },
+ {
+   "payment_id": 17026,
+   "customer_id": 176,
+   "staff_id": 1,
+   "rental_id": 663,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 19:51:28.996577"
+ },
+ {
+   "payment_id": 17027,
+   "customer_id": 176,
+   "staff_id": 1,
+   "rental_id": 1062,
+   "amount": 7.99,
+   "payment_date": "2007-01-31 07:06:46.996577"
+ },
+ {
+   "payment_id": 17028,
+   "customer_id": 179,
+   "staff_id": 1,
+   "rental_id": 502,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 00:03:09.996577"
+ },
+ {
+   "payment_id": 17029,
+   "customer_id": 179,
+   "staff_id": 1,
+   "rental_id": 759,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 09:26:23.996577"
+ },
+ {
+   "payment_id": 17030,
+   "customer_id": 179,
+   "staff_id": 1,
+   "rental_id": 1046,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 05:10:56.996577"
+ },
+ {
+   "payment_id": 17031,
+   "customer_id": 180,
+   "staff_id": 1,
+   "rental_id": 1122,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 15:07:59.996577"
+ },
+ {
+   "payment_id": 17032,
+   "customer_id": 181,
+   "staff_id": 2,
+   "rental_id": 579,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 09:47:49.996577"
+ },
+ {
+   "payment_id": 17033,
+   "customer_id": 182,
+   "staff_id": 2,
+   "rental_id": 161,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 00:20:14.996577"
+ },
+ {
+   "payment_id": 17034,
+   "customer_id": 182,
+   "staff_id": 2,
+   "rental_id": 425,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 14:19:56.996577"
+ },
+ {
+   "payment_id": 17035,
+   "customer_id": 183,
+   "staff_id": 1,
+   "rental_id": 382,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 08:40:26.996577"
+ },
+ {
+   "payment_id": 17036,
+   "customer_id": 184,
+   "staff_id": 1,
+   "rental_id": 196,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 05:24:24.996577"
+ },
+ {
+   "payment_id": 17037,
+   "customer_id": 184,
+   "staff_id": 2,
+   "rental_id": 534,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 04:43:51.996577"
+ },
+ {
+   "payment_id": 17038,
+   "customer_id": 184,
+   "staff_id": 1,
+   "rental_id": 567,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 08:24:46.996577"
+ },
+ {
+   "payment_id": 17039,
+   "customer_id": 185,
+   "staff_id": 2,
+   "rental_id": 20,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 00:17:07.996577"
+ },
+ {
+   "payment_id": 17040,
+   "customer_id": 185,
+   "staff_id": 2,
+   "rental_id": 154,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 23:24:22.996577"
+ },
+ {
+   "payment_id": 17041,
+   "customer_id": 185,
+   "staff_id": 1,
+   "rental_id": 646,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 17:44:40.996577"
+ },
+ {
+   "payment_id": 17042,
+   "customer_id": 186,
+   "staff_id": 1,
+   "rental_id": 581,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 09:48:55.996577"
+ },
+ {
+   "payment_id": 17043,
+   "customer_id": 186,
+   "staff_id": 2,
+   "rental_id": 958,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 16:26:29.996577"
+ },
+ {
+   "payment_id": 17044,
+   "customer_id": 187,
+   "staff_id": 1,
+   "rental_id": 252,
+   "amount": 7.99,
+   "payment_date": "2007-01-26 13:08:19.996577"
+ },
+ {
+   "payment_id": 17045,
+   "customer_id": 189,
+   "staff_id": 2,
+   "rental_id": 1117,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 14:43:57.996577"
+ },
+ {
+   "payment_id": 17046,
+   "customer_id": 190,
+   "staff_id": 2,
+   "rental_id": 430,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 14:50:36.996577"
+ },
+ {
+   "payment_id": 17047,
+   "customer_id": 190,
+   "staff_id": 1,
+   "rental_id": 693,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 00:10:57.996577"
+ },
+ {
+   "payment_id": 17048,
+   "customer_id": 191,
+   "staff_id": 1,
+   "rental_id": 1134,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 17:42:41.996577"
+ },
+ {
+   "payment_id": 17049,
+   "customer_id": 191,
+   "staff_id": 2,
+   "rental_id": 1152,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 20:00:43.996577"
+ },
+ {
+   "payment_id": 17050,
+   "customer_id": 192,
+   "staff_id": 1,
+   "rental_id": 895,
+   "amount": 1.99,
+   "payment_date": "2007-01-30 07:19:09.996577"
+ },
+ {
+   "payment_id": 17051,
+   "customer_id": 193,
+   "staff_id": 2,
+   "rental_id": 273,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 14:58:02.996577"
+ },
+ {
+   "payment_id": 17052,
+   "customer_id": 193,
+   "staff_id": 2,
+   "rental_id": 464,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 19:11:10.996577"
+ },
+ {
+   "payment_id": 17053,
+   "customer_id": 194,
+   "staff_id": 2,
+   "rental_id": 334,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 01:31:33.996577"
+ },
+ {
+   "payment_id": 17054,
+   "customer_id": 194,
+   "staff_id": 2,
+   "rental_id": 677,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 21:28:34.996577"
+ },
+ {
+   "payment_id": 17055,
+   "customer_id": 196,
+   "staff_id": 2,
+   "rental_id": 106,
+   "amount": 11.99,
+   "payment_date": "2007-01-25 16:46:45.996577"
+ },
+ {
+   "payment_id": 17056,
+   "customer_id": 196,
+   "staff_id": 2,
+   "rental_id": 178,
+   "amount": 5.99,
+   "payment_date": "2007-01-26 02:50:12.996577"
+ },
+ {
+   "payment_id": 17057,
+   "customer_id": 196,
+   "staff_id": 2,
+   "rental_id": 491,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 22:42:01.996577"
+ },
+ {
+   "payment_id": 17058,
+   "customer_id": 196,
+   "staff_id": 1,
+   "rental_id": 1053,
+   "amount": 1.99,
+   "payment_date": "2007-01-31 05:41:10.996577"
+ },
+ {
+   "payment_id": 17059,
+   "customer_id": 197,
+   "staff_id": 2,
+   "rental_id": 94,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 14:32:08.996577"
+ },
+ {
+   "payment_id": 17060,
+   "customer_id": 197,
+   "staff_id": 1,
+   "rental_id": 215,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 07:31:13.996577"
+ },
+ {
+   "payment_id": 17061,
+   "customer_id": 197,
+   "staff_id": 1,
+   "rental_id": 391,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 09:32:21.996577"
+ },
+ {
+   "payment_id": 17062,
+   "customer_id": 197,
+   "staff_id": 2,
+   "rental_id": 649,
+   "amount": 1.99,
+   "payment_date": "2007-01-28 18:04:11.996577"
+ },
+ {
+   "payment_id": 17063,
+   "customer_id": 197,
+   "staff_id": 1,
+   "rental_id": 683,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 22:38:14.996577"
+ },
+ {
+   "payment_id": 17064,
+   "customer_id": 197,
+   "staff_id": 2,
+   "rental_id": 730,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 05:29:25.996577"
+ },
+ {
+   "payment_id": 17065,
+   "customer_id": 197,
+   "staff_id": 1,
+   "rental_id": 903,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 08:39:55.996577"
+ },
+ {
+   "payment_id": 17066,
+   "customer_id": 197,
+   "staff_id": 1,
+   "rental_id": 918,
+   "amount": 0.99,
+   "payment_date": "2007-01-30 10:00:50.996577"
+ },
+ {
+   "payment_id": 17067,
+   "customer_id": 198,
+   "staff_id": 1,
+   "rental_id": 357,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 05:05:41.996577"
+ },
+ {
+   "payment_id": 17068,
+   "customer_id": 198,
+   "staff_id": 1,
+   "rental_id": 582,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 10:02:12.996577"
+ },
+ {
+   "payment_id": 17069,
+   "customer_id": 198,
+   "staff_id": 2,
+   "rental_id": 639,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 16:53:28.996577"
+ },
+ {
+   "payment_id": 17070,
+   "customer_id": 198,
+   "staff_id": 1,
+   "rental_id": 932,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 11:24:02.996577"
+ },
+ {
+   "payment_id": 17071,
+   "customer_id": 198,
+   "staff_id": 2,
+   "rental_id": 1132,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 17:13:19.996577"
+ },
+ {
+   "payment_id": 17072,
+   "customer_id": 199,
+   "staff_id": 1,
+   "rental_id": 499,
+   "amount": 7.99,
+   "payment_date": "2007-01-27 23:33:33.996577"
+ },
+ {
+   "payment_id": 17073,
+   "customer_id": 200,
+   "staff_id": 2,
+   "rental_id": 270,
+   "amount": 9.99,
+   "payment_date": "2007-01-26 14:49:22.996577"
+ },
+ {
+   "payment_id": 17074,
+   "customer_id": 201,
+   "staff_id": 1,
+   "rental_id": 311,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 21:20:03.996577"
+ },
+ {
+   "payment_id": 17075,
+   "customer_id": 201,
+   "staff_id": 1,
+   "rental_id": 670,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 20:32:29.996577"
+ },
+ {
+   "payment_id": 17076,
+   "customer_id": 201,
+   "staff_id": 2,
+   "rental_id": 756,
+   "amount": 5.99,
+   "payment_date": "2007-01-29 08:57:11.996577"
+ },
+ {
+   "payment_id": 17077,
+   "customer_id": 209,
+   "staff_id": 2,
+   "rental_id": 340,
+   "amount": 9.99,
+   "payment_date": "2007-01-27 02:23:51.996577"
+ },
+ {
+   "payment_id": 17078,
+   "customer_id": 209,
+   "staff_id": 1,
+   "rental_id": 471,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 20:01:08.996577"
+ },
+ {
+   "payment_id": 17079,
+   "customer_id": 209,
+   "staff_id": 2,
+   "rental_id": 1143,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 18:21:29.996577"
+ },
+ {
+   "payment_id": 17080,
+   "customer_id": 210,
+   "staff_id": 1,
+   "rental_id": 953,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 15:02:28.996577"
+ },
+ {
+   "payment_id": 17081,
+   "customer_id": 211,
+   "staff_id": 1,
+   "rental_id": 238,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 10:58:48.996577"
+ },
+ {
+   "payment_id": 17082,
+   "customer_id": 213,
+   "staff_id": 2,
+   "rental_id": 385,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 08:51:51.996577"
+ },
+ {
+   "payment_id": 17083,
+   "customer_id": 214,
+   "staff_id": 1,
+   "rental_id": 242,
+   "amount": 1.99,
+   "payment_date": "2007-01-26 11:33:34.996577"
+ },
+ {
+   "payment_id": 17084,
+   "customer_id": 214,
+   "staff_id": 1,
+   "rental_id": 278,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 16:09:24.996577"
+ },
+ {
+   "payment_id": 17085,
+   "customer_id": 214,
+   "staff_id": 1,
+   "rental_id": 1076,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 08:42:57.996577"
+ },
+ {
+   "payment_id": 17086,
+   "customer_id": 214,
+   "staff_id": 2,
+   "rental_id": 1093,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 11:00:52.996577"
+ },
+ {
+   "payment_id": 17087,
+   "customer_id": 214,
+   "staff_id": 2,
+   "rental_id": 1112,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 14:20:05.996577"
+ },
+ {
+   "payment_id": 17088,
+   "customer_id": 215,
+   "staff_id": 1,
+   "rental_id": 711,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 02:17:29.996577"
+ },
+ {
+   "payment_id": 17089,
+   "customer_id": 215,
+   "staff_id": 2,
+   "rental_id": 1080,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 09:23:52.996577"
+ },
+ {
+   "payment_id": 17090,
+   "customer_id": 216,
+   "staff_id": 1,
+   "rental_id": 997,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 22:36:51.996577"
+ },
+ {
+   "payment_id": 17091,
+   "customer_id": 217,
+   "staff_id": 2,
+   "rental_id": 828,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 20:43:21.996577"
+ },
+ {
+   "payment_id": 17092,
+   "customer_id": 217,
+   "staff_id": 2,
+   "rental_id": 1141,
+   "amount": 8.99,
+   "payment_date": "2007-01-31 18:10:28.996577"
+ },
+ {
+   "payment_id": 17093,
+   "customer_id": 219,
+   "staff_id": 1,
+   "rental_id": 414,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 13:16:46.996577"
+ },
+ {
+   "payment_id": 17094,
+   "customer_id": 220,
+   "staff_id": 2,
+   "rental_id": 409,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 12:39:24.996577"
+ },
+ {
+   "payment_id": 17095,
+   "customer_id": 220,
+   "staff_id": 1,
+   "rental_id": 480,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 21:16:05.996577"
+ },
+ {
+   "payment_id": 17096,
+   "customer_id": 221,
+   "staff_id": 2,
+   "rental_id": 226,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 09:12:30.996577"
+ },
+ {
+   "payment_id": 17097,
+   "customer_id": 222,
+   "staff_id": 1,
+   "rental_id": 5,
+   "amount": 6.99,
+   "payment_date": "2007-01-24 21:33:47.996577"
+ },
+ {
+   "payment_id": 17098,
+   "customer_id": 222,
+   "staff_id": 1,
+   "rental_id": 134,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 20:17:07.996577"
+ },
+ {
+   "payment_id": 17099,
+   "customer_id": 222,
+   "staff_id": 2,
+   "rental_id": 416,
+   "amount": 0.99,
+   "payment_date": "2007-01-27 13:30:36.996577"
+ },
+ {
+   "payment_id": 17100,
+   "customer_id": 222,
+   "staff_id": 2,
+   "rental_id": 809,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 17:38:46.996577"
+ },
+ {
+   "payment_id": 17101,
+   "customer_id": 222,
+   "staff_id": 2,
+   "rental_id": 1006,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 23:25:34.996577"
+ },
+ {
+   "payment_id": 17102,
+   "customer_id": 223,
+   "staff_id": 2,
+   "rental_id": 524,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 02:25:54.996577"
+ },
+ {
+   "payment_id": 17103,
+   "customer_id": 225,
+   "staff_id": 1,
+   "rental_id": 812,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 18:28:56.996577"
+ },
+ {
+   "payment_id": 17104,
+   "customer_id": 225,
+   "staff_id": 1,
+   "rental_id": 963,
+   "amount": 3.99,
+   "payment_date": "2007-01-30 17:21:19.996577"
+ },
+ {
+   "payment_id": 17105,
+   "customer_id": 227,
+   "staff_id": 1,
+   "rental_id": 111,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 17:13:45.996577"
+ },
+ {
+   "payment_id": 17106,
+   "customer_id": 227,
+   "staff_id": 1,
+   "rental_id": 1023,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 01:55:16.996577"
+ },
+ {
+   "payment_id": 17107,
+   "customer_id": 228,
+   "staff_id": 2,
+   "rental_id": 492,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 22:53:24.996577"
+ },
+ {
+   "payment_id": 17108,
+   "customer_id": 228,
+   "staff_id": 2,
+   "rental_id": 1070,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 08:08:22.996577"
+ },
+ {
+   "payment_id": 17109,
+   "customer_id": 230,
+   "staff_id": 1,
+   "rental_id": 32,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 02:34:47.996577"
+ },
+ {
+   "payment_id": 17110,
+   "customer_id": 230,
+   "staff_id": 1,
+   "rental_id": 1078,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 08:56:59.996577"
+ },
+ {
+   "payment_id": 17111,
+   "customer_id": 231,
+   "staff_id": 1,
+   "rental_id": 329,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 00:25:40.996577"
+ },
+ {
+   "payment_id": 17112,
+   "customer_id": 231,
+   "staff_id": 1,
+   "rental_id": 479,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 21:07:36.996577"
+ },
+ {
+   "payment_id": 17113,
+   "customer_id": 231,
+   "staff_id": 1,
+   "rental_id": 512,
+   "amount": 8.99,
+   "payment_date": "2007-01-28 01:36:16.996577"
+ },
+ {
+   "payment_id": 17114,
+   "customer_id": 232,
+   "staff_id": 1,
+   "rental_id": 28,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 02:11:03.996577"
+ },
+ {
+   "payment_id": 17115,
+   "customer_id": 232,
+   "staff_id": 1,
+   "rental_id": 805,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 16:46:44.996577"
+ },
+ {
+   "payment_id": 17116,
+   "customer_id": 234,
+   "staff_id": 2,
+   "rental_id": 1125,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 15:52:10.996577"
+ },
+ {
+   "payment_id": 17117,
+   "customer_id": 235,
+   "staff_id": 2,
+   "rental_id": 807,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 17:19:16.996577"
+ },
+ {
+   "payment_id": 17118,
+   "customer_id": 235,
+   "staff_id": 1,
+   "rental_id": 1148,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 19:07:06.996577"
+ },
+ {
+   "payment_id": 17119,
+   "customer_id": 236,
+   "staff_id": 2,
+   "rental_id": 262,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 14:15:22.996577"
+ },
+ {
+   "payment_id": 17120,
+   "customer_id": 236,
+   "staff_id": 2,
+   "rental_id": 344,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 02:58:48.996577"
+ },
+ {
+   "payment_id": 17121,
+   "customer_id": 236,
+   "staff_id": 1,
+   "rental_id": 1032,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 02:57:09.996577"
+ },
+ {
+   "payment_id": 17122,
+   "customer_id": 237,
+   "staff_id": 2,
+   "rental_id": 133,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 20:16:56.996577"
+ },
+ {
+   "payment_id": 17123,
+   "customer_id": 237,
+   "staff_id": 1,
+   "rental_id": 182,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 03:17:43.996577"
+ },
+ {
+   "payment_id": 17124,
+   "customer_id": 238,
+   "staff_id": 2,
+   "rental_id": 315,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 21:41:21.996577"
+ },
+ {
+   "payment_id": 17125,
+   "customer_id": 238,
+   "staff_id": 1,
+   "rental_id": 842,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 23:00:30.996577"
+ },
+ {
+   "payment_id": 17126,
+   "customer_id": 239,
+   "staff_id": 2,
+   "rental_id": 8,
+   "amount": 4.99,
+   "payment_date": "2007-01-24 22:00:12.996577"
+ },
+ {
+   "payment_id": 17127,
+   "customer_id": 239,
+   "staff_id": 1,
+   "rental_id": 444,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 17:07:41.996577"
+ },
+ {
+   "payment_id": 17128,
+   "customer_id": 239,
+   "staff_id": 1,
+   "rental_id": 621,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 14:26:38.996577"
+ },
+ {
+   "payment_id": 17129,
+   "customer_id": 239,
+   "staff_id": 1,
+   "rental_id": 636,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 16:16:24.996577"
+ },
+ {
+   "payment_id": 17130,
+   "customer_id": 239,
+   "staff_id": 1,
+   "rental_id": 1022,
+   "amount": 7.99,
+   "payment_date": "2007-01-31 01:45:11.996577"
+ },
+ {
+   "payment_id": 17131,
+   "customer_id": 239,
+   "staff_id": 2,
+   "rental_id": 1082,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 09:30:27.996577"
+ },
+ {
+   "payment_id": 17132,
+   "customer_id": 240,
+   "staff_id": 1,
+   "rental_id": 246,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 12:25:33.996577"
+ },
+ {
+   "payment_id": 17133,
+   "customer_id": 240,
+   "staff_id": 1,
+   "rental_id": 460,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 18:30:29.996577"
+ },
+ {
+   "payment_id": 17134,
+   "customer_id": 240,
+   "staff_id": 1,
+   "rental_id": 643,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 17:20:37.996577"
+ },
+ {
+   "payment_id": 17135,
+   "customer_id": 241,
+   "staff_id": 1,
+   "rental_id": 627,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 15:33:09.996577"
+ },
+ {
+   "payment_id": 17136,
+   "customer_id": 241,
+   "staff_id": 1,
+   "rental_id": 1059,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 06:49:09.996577"
+ },
+ {
+   "payment_id": 17137,
+   "customer_id": 242,
+   "staff_id": 1,
+   "rental_id": 108,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 16:58:31.996577"
+ },
+ {
+   "payment_id": 17138,
+   "customer_id": 242,
+   "staff_id": 2,
+   "rental_id": 283,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 17:33:31.996577"
+ },
+ {
+   "payment_id": 17139,
+   "customer_id": 242,
+   "staff_id": 2,
+   "rental_id": 881,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 04:44:02.996577"
+ },
+ {
+   "payment_id": 17140,
+   "customer_id": 243,
+   "staff_id": 1,
+   "rental_id": 188,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 04:15:38.996577"
+ },
+ {
+   "payment_id": 17141,
+   "customer_id": 244,
+   "staff_id": 2,
+   "rental_id": 592,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 11:49:34.996577"
+ },
+ {
+   "payment_id": 17142,
+   "customer_id": 244,
+   "staff_id": 1,
+   "rental_id": 797,
+   "amount": 1.99,
+   "payment_date": "2007-01-29 15:40:43.996577"
+ },
+ {
+   "payment_id": 17143,
+   "customer_id": 245,
+   "staff_id": 2,
+   "rental_id": 79,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 10:39:33.996577"
+ },
+ {
+   "payment_id": 17144,
+   "customer_id": 245,
+   "staff_id": 1,
+   "rental_id": 241,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 11:17:27.996577"
+ },
+ {
+   "payment_id": 17145,
+   "customer_id": 245,
+   "staff_id": 1,
+   "rental_id": 519,
+   "amount": 7.99,
+   "payment_date": "2007-01-28 01:50:59.996577"
+ },
+ {
+   "payment_id": 17146,
+   "customer_id": 245,
+   "staff_id": 1,
+   "rental_id": 719,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 03:44:31.996577"
+ },
+ {
+   "payment_id": 17147,
+   "customer_id": 245,
+   "staff_id": 2,
+   "rental_id": 725,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 04:32:07.996577"
+ },
+ {
+   "payment_id": 17148,
+   "customer_id": 245,
+   "staff_id": 2,
+   "rental_id": 948,
+   "amount": 8.99,
+   "payment_date": "2007-01-30 14:12:53.996577"
+ },
+ {
+   "payment_id": 17149,
+   "customer_id": 246,
+   "staff_id": 1,
+   "rental_id": 124,
+   "amount": 6.99,
+   "payment_date": "2007-01-25 19:14:37.996577"
+ },
+ {
+   "payment_id": 17150,
+   "customer_id": 246,
+   "staff_id": 2,
+   "rental_id": 421,
+   "amount": 8.99,
+   "payment_date": "2007-01-27 13:58:39.996577"
+ },
+ {
+   "payment_id": 17151,
+   "customer_id": 246,
+   "staff_id": 2,
+   "rental_id": 434,
+   "amount": 5.99,
+   "payment_date": "2007-01-27 15:22:53.996577"
+ },
+ {
+   "payment_id": 17152,
+   "customer_id": 246,
+   "staff_id": 1,
+   "rental_id": 699,
+   "amount": 3.99,
+   "payment_date": "2007-01-29 00:40:10.996577"
+ },
+ {
+   "payment_id": 17153,
+   "customer_id": 246,
+   "staff_id": 1,
+   "rental_id": 1051,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 05:30:35.996577"
+ },
+ {
+   "payment_id": 17154,
+   "customer_id": 247,
+   "staff_id": 1,
+   "rental_id": 189,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 04:30:07.996577"
+ },
+ {
+   "payment_id": 17155,
+   "customer_id": 247,
+   "staff_id": 2,
+   "rental_id": 448,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 17:31:34.996577"
+ },
+ {
+   "payment_id": 17156,
+   "customer_id": 247,
+   "staff_id": 1,
+   "rental_id": 450,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 17:47:20.996577"
+ },
+ {
+   "payment_id": 17157,
+   "customer_id": 248,
+   "staff_id": 2,
+   "rental_id": 330,
+   "amount": 7.99,
+   "payment_date": "2007-01-27 00:43:56.996577"
+ },
+ {
+   "payment_id": 17158,
+   "customer_id": 248,
+   "staff_id": 1,
+   "rental_id": 618,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 14:18:33.996577"
+ },
+ {
+   "payment_id": 17159,
+   "customer_id": 249,
+   "staff_id": 2,
+   "rental_id": 316,
+   "amount": 4.99,
+   "payment_date": "2007-01-26 21:51:21.996577"
+ },
+ {
+   "payment_id": 17160,
+   "customer_id": 249,
+   "staff_id": 2,
+   "rental_id": 400,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 11:20:10.996577"
+ },
+ {
+   "payment_id": 17161,
+   "customer_id": 249,
+   "staff_id": 1,
+   "rental_id": 438,
+   "amount": 6.99,
+   "payment_date": "2007-01-27 16:21:00.996577"
+ },
+ {
+   "payment_id": 17162,
+   "customer_id": 249,
+   "staff_id": 1,
+   "rental_id": 597,
+   "amount": 3.99,
+   "payment_date": "2007-01-28 12:29:28.996577"
+ },
+ {
+   "payment_id": 17163,
+   "customer_id": 250,
+   "staff_id": 1,
+   "rental_id": 61,
+   "amount": 5.99,
+   "payment_date": "2007-01-25 07:30:23.996577"
+ },
+ {
+   "payment_id": 17164,
+   "customer_id": 250,
+   "staff_id": 1,
+   "rental_id": 176,
+   "amount": 3.99,
+   "payment_date": "2007-01-26 02:16:05.996577"
+ },
+ {
+   "payment_id": 17165,
+   "customer_id": 250,
+   "staff_id": 1,
+   "rental_id": 637,
+   "amount": 4.99,
+   "payment_date": "2007-01-28 16:42:55.996577"
+ },
+ {
+   "payment_id": 17166,
+   "customer_id": 250,
+   "staff_id": 2,
+   "rental_id": 687,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 23:00:35.996577"
+ },
+ {
+   "payment_id": 17167,
+   "customer_id": 250,
+   "staff_id": 1,
+   "rental_id": 1146,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 19:03:11.996577"
+ },
+ {
+   "payment_id": 17168,
+   "customer_id": 251,
+   "staff_id": 1,
+   "rental_id": 264,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 14:29:15.996577"
+ },
+ {
+   "payment_id": 17169,
+   "customer_id": 251,
+   "staff_id": 1,
+   "rental_id": 309,
+   "amount": 1.99,
+   "payment_date": "2007-01-26 21:06:36.996577"
+ },
+ {
+   "payment_id": 17170,
+   "customer_id": 251,
+   "staff_id": 2,
+   "rental_id": 393,
+   "amount": 2.99,
+   "payment_date": "2007-01-27 09:46:51.996577"
+ },
+ {
+   "payment_id": 17171,
+   "customer_id": 251,
+   "staff_id": 2,
+   "rental_id": 1069,
+   "amount": 3.99,
+   "payment_date": "2007-01-31 08:00:57.996577"
+ },
+ {
+   "payment_id": 17172,
+   "customer_id": 251,
+   "staff_id": 1,
+   "rental_id": 1091,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 10:39:30.996577"
+ },
+ {
+   "payment_id": 17173,
+   "customer_id": 251,
+   "staff_id": 2,
+   "rental_id": 1155,
+   "amount": 2.99,
+   "payment_date": "2007-01-31 20:45:37.996577"
+ },
+ {
+   "payment_id": 17174,
+   "customer_id": 252,
+   "staff_id": 1,
+   "rental_id": 707,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 01:46:45.996577"
+ },
+ {
+   "payment_id": 17175,
+   "customer_id": 252,
+   "staff_id": 1,
+   "rental_id": 1095,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 11:44:07.996577"
+ },
+ {
+   "payment_id": 17176,
+   "customer_id": 253,
+   "staff_id": 1,
+   "rental_id": 566,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 08:20:05.996577"
+ },
+ {
+   "payment_id": 17177,
+   "customer_id": 253,
+   "staff_id": 1,
+   "rental_id": 648,
+   "amount": 0.99,
+   "payment_date": "2007-01-28 17:54:20.996577"
+ },
+ {
+   "payment_id": 17178,
+   "customer_id": 253,
+   "staff_id": 1,
+   "rental_id": 986,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 20:51:18.996577"
+ },
+ {
+   "payment_id": 17179,
+   "customer_id": 254,
+   "staff_id": 1,
+   "rental_id": 183,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 03:29:44.996577"
+ },
+ {
+   "payment_id": 17180,
+   "customer_id": 254,
+   "staff_id": 1,
+   "rental_id": 1108,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 13:33:38.996577"
+ },
+ {
+   "payment_id": 17181,
+   "customer_id": 256,
+   "staff_id": 1,
+   "rental_id": 51,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 05:17:36.996577"
+ },
+ {
+   "payment_id": 17182,
+   "customer_id": 256,
+   "staff_id": 1,
+   "rental_id": 232,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 10:06:31.996577"
+ },
+ {
+   "payment_id": 17183,
+   "customer_id": 256,
+   "staff_id": 2,
+   "rental_id": 738,
+   "amount": 4.99,
+   "payment_date": "2007-01-29 06:48:34.996577"
+ },
+ {
+   "payment_id": 17184,
+   "customer_id": 256,
+   "staff_id": 1,
+   "rental_id": 935,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 11:58:02.996577"
+ },
+ {
+   "payment_id": 17185,
+   "customer_id": 256,
+   "staff_id": 1,
+   "rental_id": 1116,
+   "amount": 0.99,
+   "payment_date": "2007-01-31 14:39:12.996577"
+ },
+ {
+   "payment_id": 17186,
+   "customer_id": 257,
+   "staff_id": 2,
+   "rental_id": 139,
+   "amount": 2.99,
+   "payment_date": "2007-01-25 21:28:47.996577"
+ },
+ {
+   "payment_id": 17187,
+   "customer_id": 257,
+   "staff_id": 2,
+   "rental_id": 244,
+   "amount": 2.99,
+   "payment_date": "2007-01-26 12:09:06.996577"
+ },
+ {
+   "payment_id": 17188,
+   "customer_id": 257,
+   "staff_id": 2,
+   "rental_id": 705,
+   "amount": 2.99,
+   "payment_date": "2007-01-29 01:17:18.996577"
+ },
+ {
+   "payment_id": 17189,
+   "customer_id": 259,
+   "staff_id": 2,
+   "rental_id": 722,
+   "amount": 6.99,
+   "payment_date": "2007-01-29 03:58:57.996577"
+ },
+ {
+   "payment_id": 17190,
+   "customer_id": 259,
+   "staff_id": 2,
+   "rental_id": 901,
+   "amount": 2.99,
+   "payment_date": "2007-01-30 08:09:06.996577"
+ },
+ {
+   "payment_id": 17191,
+   "customer_id": 259,
+   "staff_id": 1,
+   "rental_id": 1147,
+   "amount": 5.99,
+   "payment_date": "2007-01-31 19:06:18.996577"
+ },
+ {
+   "payment_id": 17192,
+   "customer_id": 260,
+   "staff_id": 1,
+   "rental_id": 1101,
+   "amount": 8.99,
+   "payment_date": "2007-01-31 12:42:25.996577"
+ },
+ {
+   "payment_id": 17193,
+   "customer_id": 261,
+   "staff_id": 1,
+   "rental_id": 12,
+   "amount": 4.99,
+   "payment_date": "2007-01-24 22:47:53.996577"
+ },
+ {
+   "payment_id": 17194,
+   "customer_id": 261,
+   "staff_id": 2,
+   "rental_id": 465,
+   "amount": 3.99,
+   "payment_date": "2007-01-27 19:13:02.996577"
+ },
+ {
+   "payment_id": 17195,
+   "customer_id": 261,
+   "staff_id": 2,
+   "rental_id": 542,
+   "amount": 6.99,
+   "payment_date": "2007-01-28 05:10:39.996577"
+ },
+ {
+   "payment_id": 17196,
+   "customer_id": 261,
+   "staff_id": 1,
+   "rental_id": 792,
+   "amount": 0.99,
+   "payment_date": "2007-01-29 15:00:36.996577"
+ },
+ {
+   "payment_id": 17197,
+   "customer_id": 262,
+   "staff_id": 2,
+   "rental_id": 984,
+   "amount": 4.99,
+   "payment_date": "2007-01-30 20:45:43.996577"
+ },
+ {
+   "payment_id": 17198,
+   "customer_id": 263,
+   "staff_id": 1,
+   "rental_id": 97,
+   "amount": 4.99,
+   "payment_date": "2007-01-25 15:02:50.996577"
+ },
+ {
+   "payment_id": 17199,
+   "customer_id": 263,
+   "staff_id": 1,
+   "rental_id": 266,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 14:36:31.996577"
+ },
+ {
+   "payment_id": 17200,
+   "customer_id": 265,
+   "staff_id": 2,
+   "rental_id": 74,
+   "amount": 0.99,
+   "payment_date": "2007-01-25 09:38:14.996577"
+ },
+ {
+   "payment_id": 17201,
+   "customer_id": 266,
+   "staff_id": 1,
+   "rental_id": 86,
+   "amount": 1.99,
+   "payment_date": "2007-01-25 12:04:38.996577"
+ },
+ {
+   "payment_id": 17202,
+   "customer_id": 266,
+   "staff_id": 2,
+   "rental_id": 651,
+   "amount": 2.99,
+   "payment_date": "2007-01-28 18:15:16.996577"
+ },
+ {
+   "payment_id": 17203,
+   "customer_id": 267,
+   "staff_id": 2,
+   "rental_id": 91,
+   "amount": 6.99,
+   "payment_date": "2007-01-25 13:25:48.996577"
+ },
+ {
+   "payment_id": 17204,
+   "customer_id": 267,
+   "staff_id": 1,
+   "rental_id": 436,
+   "amount": 4.99,
+   "payment_date": "2007-01-27 15:49:30.996577"
+ },
+ {
+   "payment_id": 17205,
+   "customer_id": 267,
+   "staff_id": 2,
+   "rental_id": 1030,
+   "amount": 4.99,
+   "payment_date": "2007-01-31 02:35:13.996577"
+ },
+ {
+   "payment_id": 17206,
+   "customer_id": 577,
+   "staff_id": 2,
+   "rental_id": 4591,
+   "amount": 0.99,
+   "payment_date": "2007-01-26 23:15:05.996577"
+ }
+]
